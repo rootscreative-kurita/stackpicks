@@ -1,0 +1,45 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import AffiliateCTA from '../components/AffiliateCTA.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  category: string;
+  tags: string[];
+  publishDate: Date;
+  updateDate?: Date;
+  affiliate?: Array<{ name: string; url: string; cta?: string }>;
+}
+
+const { title, description, category, tags, publishDate, updateDate, affiliate } = Astro.props;
+const dateStr = publishDate.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+const updateStr = updateDate?.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<BaseLayout title={title} description={description} type="article" publishDate={publishDate}>
+  <div class="article-container">
+    <header class="article-header">
+      <span class="article-header__category">{category}</span>
+      <h1 class="article-header__title">{title}</h1>
+      <p class="article-header__meta">
+        <time datetime={publishDate.toISOString()}>{dateStr}</time>
+        {updateDate && <span>（更新: {updateStr}）</span>}
+      </p>
+    </header>
+
+    {affiliate && <AffiliateCTA affiliates={affiliate} />}
+
+    <div class="article-body">
+      <slot />
+    </div>
+
+    {affiliate && <AffiliateCTA affiliates={affiliate} />}
+
+    <div style="margin-bottom: var(--sp-xl);">
+      <ul class="tag-list">
+        {tags.map(tag => <li class="tag">{tag}</li>)}
+      </ul>
+    </div>
+  </div>
+</BaseLayout>

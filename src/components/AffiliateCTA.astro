@@ -1,0 +1,25 @@
+---
+interface Props {
+  affiliates: Array<{
+    name: string;
+    url: string;
+    cta?: string;
+  }>;
+}
+
+const { affiliates } = Astro.props;
+---
+
+{affiliates && affiliates.length > 0 && (
+  <div class="affiliate-cta">
+    <p class="affiliate-cta__title">🚀 今すぐ無料で試してみる</p>
+    <p class="affiliate-cta__desc">以下のリンクから無料トライアルに登録できます。</p>
+    <div class="affiliate-cta__links">
+      {affiliates.map(a => (
+        <a href={a.url} class="affiliate-cta__link" target="_blank" rel="noopener noreferrer sponsored">
+          {a.cta || `${a.name} を試す →`}
+        </a>
+      ))}
+    </div>
+  </div>
+)}

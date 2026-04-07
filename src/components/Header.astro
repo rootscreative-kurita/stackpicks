@@ -1,0 +1,23 @@
+---
+const navItems = [
+  { label: 'ツール比較', href: '/category/comparison' },
+  { label: 'レビュー', href: '/category/review' },
+  { label: 'AI活用術', href: '/category/ai-tips' },
+  { label: '導入ガイド', href: '/category/guide' },
+];
+---
+
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a href="/" class="site-logo">
+      Stack<span>Picks</span>
+    </a>
+    <nav>
+      <ul class="site-nav">
+        {navItems.map(item => (
+          <li><a href={item.href}>{item.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>
