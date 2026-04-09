@@ -13,8 +13,8 @@ const allArticles = (await getCollection('articles'))
   description="中小企業のためのSaaS・AIツール比較メディア。海外の最新ツールを日本語でわかりやすく解説します。"
 >
   <section class="hero container">
-    <h1 class="hero__title">あなたのチームに<br />最適なツールを見つけよう</h1>
-    <p class="hero__sub">海外SaaS・AIツールを日本語で比較・レビュー。中小企業の業務効率化を支援します。</p>
+    <h1 class="hero__title">使って選んだ、本当に使えるツールだけ。</h1>
+    <p class="hero__sub">中小企業のためのDXツールガイド</p>
   </section>
 
   <section class="container">
@@ -26,6 +26,7 @@ const allArticles = (await getCollection('articles'))
           category={article.data.category}
           slug={article.id}
           publishDate={article.data.publishDate}
+          heroImage={article.data.heroImage}
         />
       ))}
     </div>

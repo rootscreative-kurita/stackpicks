@@ -5,13 +5,19 @@ interface Props {
   category: string;
   slug: string;
   publishDate: Date;
+  heroImage?: string;
 }
 
-const { title, description, category, slug, publishDate } = Astro.props;
+const { title, description, category, slug, publishDate, heroImage } = Astro.props;
 const dateStr = publishDate.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
 
 <article class="article-card">
+  {heroImage && (
+    <a href={`/articles/${slug}/`} class="article-card__img-link">
+      <img src={heroImage} alt={title} class="article-card__img" loading="lazy" />
+    </a>
+  )}
   <div class="article-card__body">
     <span class="article-card__category">{category}</span>
     <h2 class="article-card__title">

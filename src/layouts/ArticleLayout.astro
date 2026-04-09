@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import AffiliateCTA from '../components/AffiliateCTA.astro';
+import ArticleDisclaimer from '../components/ArticleDisclaimer.astro';
 
 interface Props {
   title: string;
@@ -22,10 +23,18 @@ const updateStr = updateDate?.toLocaleDateString('ja-JP', { year: 'numeric', mon
     <header class="article-header">
       <span class="article-header__category">{category}</span>
       <h1 class="article-header__title">{title}</h1>
-      <p class="article-header__meta">
-        <time datetime={publishDate.toISOString()}>{dateStr}</time>
-        {updateDate && <span>（更新: {updateStr}）</span>}
-      </p>
+      <div class="article-header__dates">
+        <span class="article-header__date">
+          <span class="article-header__date-label">公開日</span>
+          <time datetime={publishDate.toISOString()}>{dateStr}</time>
+        </span>
+        {updateDate && (
+          <span class="article-header__date">
+            <span class="article-header__date-label">最終更新</span>
+            <time datetime={updateDate.toISOString()}>{updateStr}</time>
+          </span>
+        )}
+      </div>
     </header>
 
     {affiliate && <AffiliateCTA affiliates={affiliate} />}
@@ -41,5 +50,7 @@ const updateStr = updateDate?.toLocaleDateString('ja-JP', { year: 'numeric', mon
         {tags.map(tag => <li class="tag">{tag}</li>)}
       </ul>
     </div>
+
+    <ArticleDisclaimer publishDate={publishDate} updateDate={updateDate} />
   </div>
 </BaseLayout>

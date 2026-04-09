@@ -1,0 +1,15 @@
+---
+interface Props {
+  publishDate: Date;
+  updateDate?: Date;
+}
+
+const { publishDate, updateDate } = Astro.props;
+const checkDate = updateDate || publishDate;
+const checkDateStr = checkDate.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<aside class="article-disclaimer">
+  <p>この記事の情報は {checkDateStr} 時点の調査に基づいています。料金・仕様・機能は変更される場合があります。最新の正確な情報は各サービスの公式サイトをご確認ください。</p>
+  <p>記事内のリンクにはアフィリエイトリンクが含まれます。リンク経由で購入・契約いただいた場合、当サイトが報酬を受け取ることがありますが、記事内容や評価には一切影響しません。</p>
+</aside>
