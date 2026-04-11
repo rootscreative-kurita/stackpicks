@@ -11,14 +11,15 @@ interface Props {
   publishDate: Date;
   updateDate?: Date;
   affiliate?: Array<{ name: string; url: string; cta?: string }>;
+  heroImage?: string;
 }
 
-const { title, description, category, tags, publishDate, updateDate, affiliate } = Astro.props;
+const { title, description, category, tags, publishDate, updateDate, affiliate, heroImage } = Astro.props;
 const dateStr = publishDate.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 const updateStr = updateDate?.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
 
-<BaseLayout title={title} description={description} type="article" publishDate={publishDate}>
+<BaseLayout title={title} description={description} type="article" publishDate={publishDate} image={heroImage}>
   <div class="article-container">
     <header class="article-header">
       <span class="article-header__category">{category}</span>
