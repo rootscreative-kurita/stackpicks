@@ -11,10 +11,10 @@ affiliate:
     url: "https://shopify.pxf.io/5kjvm9"
     cta: "Shopify 3日間無料体験 →"
   - name: "BASE"
-    url: "https://thebase.com/"
+    url: "https://px.a8.net/svt/ejp?a8mat=4B1ILK+6HZDIQ+2QQG+68EPE"
     cta: "BASE で無料開設 →"
   - name: "STORES"
-    url: "https://stores.jp/"
+    url: "https://px.a8.net/svt/ejp?a8mat=4B1ILK+6Y22UQ+434O+7925E"
     cta: "STORES で無料開設 →"
 ---
 
@@ -134,7 +134,7 @@ BASEの最大の強みは**「開設までの速さ」**です。編集部で実
 ・BtoB機能や高度な在庫管理には非対応
 </div>
 
-<a href="https://thebase.com/" class="inline-cta" target="_blank" rel="noopener noreferrer sponsored">BASE で今すぐ無料ショップを開設 →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1ILK+6HZDIQ+2QQG+68EPE" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">BASE で今すぐ無料ショップを開設 →</a>
 
 ## STORESを選ぶべきケース
 
@@ -164,7 +164,7 @@ STORESは、BASEの手軽さとShopifyの機能性の「いいとこ取り」を
 ・大規模EC（月商500万円超）には機能不足
 </div>
 
-<a href="https://stores.jp/" class="inline-cta" target="_blank" rel="noopener noreferrer sponsored">STORES で無料ショップを開設する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1ILK+6Y22UQ+434O+7925E" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">STORES で無料ショップを開設する →</a>
 
 ## 判断フローチャート：あなたの事業に合うのはどれ？
 
