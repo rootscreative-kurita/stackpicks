@@ -8,7 +8,7 @@ heroImage: "/images/articles/hero-freee-moneyforward.jpg"
 draft: false
 affiliate:
   - name: "freee"
-    url: "https://www.freee.co.jp/"
+    url: "https://px.a8.net/svt/ejp?a8mat=4B1ILK+5L8J8Y+3SPO+9FDI8Y"
     cta: "freee を無料で試す →"
   - name: "マネーフォワード クラウド会計"
     url: "https://biz.moneyforward.com/"
@@ -105,7 +105,7 @@ freeeの最大の特長は**「簿記を知らなくても確定申告が完了�
 ・法人向けの高度なカスタマイズ（部門別管理など）はマネーフォワードに劣る
 </div>
 
-<a href="https://www.freee.co.jp/" class="inline-cta" target="_blank" rel="noopener noreferrer sponsored">freee を30日間無料で試してみる →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1ILK+5L8J8Y+3SPO+9FDI8Y" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">freee を30日間無料で試してみる →</a>
 
 ## マネーフォワード クラウド会計を選ぶべきケース
 
