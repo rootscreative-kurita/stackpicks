@@ -8,7 +8,7 @@ updateDate: 2026-04-09
 heroImage: "/images/articles/hero-make-automation.jpg"
 affiliate:
   - name: "Make"
-    url: "https://www.make.com/"
+    url: "https://www.make.com/en/register?pc=stackpicks"
     cta: "Make 無料プランで始める →"
   - name: "Zapier"
     url: "https://zapier.com/"
@@ -96,7 +96,7 @@ Makeは2026年4月現在、1,800以上のアプリ・サービスに対応して
 <strong>よくある誤解：</strong>「Zapierのほうがメジャーだから安心」という理由だけで選ぶのは危険です。中小企業の場合、無料プランの差（MakeはZapierの10倍のオペレーション数）だけでも判断材料として十分なインパクトがあります。一方で、Zapierの対応アプリ数はMakeの約4倍。使いたいサービスがMakeに対応していない場合は、迷わずZapierを選んでください。
 </div>
 
-<a href="https://www.make.com/" class="inline-cta" target="_blank" rel="noopener noreferrer sponsored">Make 無料プランで今すぐ試してみる →</a>
+<a href="https://www.make.com/en/register?pc=stackpicks" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">Make 無料プランで今すぐ試してみる →</a>
 
 ## 中小企業で効果が出やすい自動化シナリオ5選
 
@@ -141,7 +141,7 @@ Googleスプレッドシートの売上データからPDFの請求書を生成�
 
 ### ステップ1：無料アカウントを作成する
 
-[Make公式サイト](https://www.make.com/)でGoogleアカウントまたはメールアドレスで登録。クレジットカード不要で即座に使い始められます。
+[Make公式サイト](https://www.make.com/en/register?pc=stackpicks)でGoogleアカウントまたはメールアドレスで登録。クレジットカード不要で即座に使い始められます。
 
 ### ステップ2：テンプレートから始める
 
@@ -167,7 +167,7 @@ Googleスプレッドシートの売上データからPDFの請求書を生成�
 ・海外サービスのため、サポートは英語が基本。日本語コミュニティは成長中だがまだ小規模
 </div>
 
-<a href="https://www.make.com/" class="inline-cta" target="_blank" rel="noopener noreferrer sponsored">Make 無料プランで自動化を始める →</a>
+<a href="https://www.make.com/en/register?pc=stackpicks" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">Make 無料プランで自動化を始める →</a>
 
 ## よくある質問
 

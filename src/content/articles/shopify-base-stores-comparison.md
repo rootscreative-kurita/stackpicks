@@ -8,7 +8,7 @@ updateDate: 2026-04-09
 heroImage: "/images/articles/hero-ec-platform.jpg"
 affiliate:
   - name: "Shopify"
-    url: "https://www.shopify.com/jp"
+    url: "https://shopify.pxf.io/5kjvm9"
     cta: "Shopify 3日間無料体験 →"
   - name: "BASE"
     url: "https://thebase.com/"
@@ -104,7 +104,7 @@ Shopifyは「ECで本気で稼ぐ」ための基盤です。月額$33は決し�
 ・日本独自の決済（コンビニ払い等）は追加設定が必要
 </div>
 
-<a href="https://www.shopify.com/jp" class="inline-cta" target="_blank" rel="noopener noreferrer sponsored">Shopify 3日間無料体験で管理画面を試す →</a>
+<a href="https://shopify.pxf.io/5kjvm9" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">Shopify 3日間無料体験で管理画面を試す →</a>
 
 ## BASEを選ぶべきケース
 
