@@ -5,7 +5,7 @@ category: "比較レビュー"
 tags: ["ビデオ会議", "Zoom", "Google Meet", "Microsoft Teams", "リモートワーク", "比較"]
 publishDate: 2026-04-12
 heroImage: "/images/articles/hero-zoom-meet-teams.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Zoom"
     url: "https://zoom.us/ja"
