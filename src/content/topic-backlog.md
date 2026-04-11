@@ -4,14 +4,7 @@
 
 ## 執筆待ち
 
-### 2. Canva vs Adobe Express 比較 ── 非デザイナーが選ぶべきツール（執筆中）
-- カテゴリ: 比較レビュー
-- ターゲット: 中小企業のマーケ担当・SNS運用者
-- 切り口: デザイン未経験者が業務で使う視点。テンプレ品質、ブランドキット、チーム共有
-- アフィリエイト: Canva Pro、Adobe Express
-- 優先度: ★★★
-
-### 3. Zoom vs Google Meet vs Microsoft Teams（ビデオ会議）比較
+### 3. Zoom vs Google Meet vs Microsoft Teams（ビデオ会議）比較（執筆中）
 - カテゴリ: 比較レビュー
 - ターゲット: リモートワーク導入中の中小企業
 - 切り口: 無料プラン制限、録画・文字起こし、大人数会議、セキュリティ
@@ -68,6 +61,7 @@
 - 優先度: ★★☆
 
 ## 公開済み
+- [x] Canva vs Adobe Express 比較（2026-04-12）
 - [x] Notion vs Obsidian 徹底比較（2026-04-07）
 - [x] AIライティングツール5選（2026-04-07）
 - [x] Shopify vs BASE vs STORES 比較（2026-04-07）
