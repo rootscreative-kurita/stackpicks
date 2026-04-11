@@ -11,7 +11,7 @@ affiliate:
     url: "https://px.a8.net/svt/ejp?a8mat=4B1ILK+5L8J8Y+3SPO+9FDI8Y"
     cta: "freee を無料で試す →"
   - name: "マネーフォワード クラウド会計"
-    url: "https://biz.moneyforward.com/"
+    url: "https://px.a8.net/svt/ejp?a8mat=4B1ILK+66O50Y+4JGQ+60WN6"
     cta: "マネーフォワードを無料で試す →"
 ---
 
@@ -135,7 +135,7 @@ freeeの最大の特長は**「簿記を知らなくても確定申告が完了�
 ・個人事業主向けの確定申告ガイドはfreeeほど親切ではない
 </div>
 
-<a href="https://biz.moneyforward.com/" class="inline-cta" target="_blank" rel="noopener noreferrer sponsored">マネーフォワード クラウドを1ヶ月無料で試す →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1ILK+66O50Y+4JGQ+60WN6" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">マネーフォワード クラウドを1ヶ月無料で試す →</a>
 
 ## 判断フローチャート：あなたに合うのはどっち？
 
