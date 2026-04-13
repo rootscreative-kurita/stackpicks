@@ -5,7 +5,7 @@ category: "導入ガイド"
 tags: ["kintone", "サイボウズ", "ノーコード", "業務アプリ", "業務効率化", "DX"]
 publishDate: 2026-04-14
 heroImage: "/images/articles/hero-kintone-guide.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "kintone"
     url: "https://kintone.cybozu.co.jp/"
