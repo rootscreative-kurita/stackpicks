@@ -4,12 +4,13 @@
 
 ## 執筆待ち
 
-### 5. Google Workspace vs Microsoft 365 比較
+### 5. Google Workspace vs Microsoft 365 比較 ← 執筆中
 - カテゴリ: 比較レビュー
 - ターゲット: グループウェア導入を検討中の中小企業
 - 切り口: コスト、管理のしやすさ、セキュリティ、既存環境との相性
 - アフィリエイト: Google Workspace、Microsoft 365
 - 優先度: ★★★
+- ステータス: draft作成済み（2026-04-15）
 
 ### 6. HubSpot CRM 無料プラン導入ガイド
 - カテゴリ: 導入ガイド
