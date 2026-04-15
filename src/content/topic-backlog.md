@@ -4,20 +4,13 @@
 
 ## 執筆待ち
 
-### 5. Google Workspace vs Microsoft 365 比較 ← 執筆中
-- カテゴリ: 比較レビュー
-- ターゲット: グループウェア導入を検討中の中小企業
-- 切り口: コスト、管理のしやすさ、セキュリティ、既存環境との相性
-- アフィリエイト: Google Workspace、Microsoft 365
-- 優先度: ★★★
-- ステータス: draft作成済み（2026-04-15）
-
-### 6. HubSpot CRM 無料プラン導入ガイド
+### 6. HubSpot CRM 無料プラン導入ガイド ← 執筆中
 - カテゴリ: 導入ガイド
 - ターゲット: 顧客管理をExcelでやっている中小企業
 - 切り口: 無料でどこまでできるか、営業プロセス改善、MA連携
-- アフィリエイト: HubSpot
+- アフィリエイト: HubSpot（公式アフィリエイト: https://www.hubspot.com/partners/affiliates）
 - 優先度: ★★☆
+- ステータス: draft作成済み（2026-04-16）
 
 ### 7. AI議事録ツール比較（tl;dv vs Otter vs Notta）
 - カテゴリ: AIツール
@@ -48,6 +41,7 @@
 - 優先度: ★★☆
 
 ## 公開済み
+- [x] Google Workspace vs Microsoft 365 比較（2026-04-16）
 - [x] Canva vs Adobe Express 比較（2026-04-12）
 - [x] Notion vs Obsidian 徹底比較（2026-04-07）
 - [x] AIライティングツール5選（2026-04-07）
