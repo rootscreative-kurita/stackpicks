@@ -5,7 +5,7 @@ category: "導入ガイド"
 tags: ["HubSpot", "CRM", "顧客管理", "営業効率化", "無料ツール", "SaaS"]
 publishDate: 2026-04-16
 heroImage: "/images/articles/hero-hubspot-crm-guide.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "HubSpot"
     url: "https://www.hubspot.jp/"
