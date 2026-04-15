@@ -3,9 +3,9 @@ title: "Google Workspace vs Microsoft 365 徹底比較【2026年版】── 中
 description: "Google WorkspaceとMicrosoft 365を「コスト・管理のしやすさ・セキュリティ・既存環境との相性」の4軸で徹底比較。中小企業がグループウェア選びで失敗しないための実践ガイドです。"
 category: "比較レビュー"
 tags: ["Google Workspace", "Microsoft 365", "グループウェア", "クラウド", "比較"]
-publishDate: 2026-04-15
+publishDate: 2026-04-16
 heroImage: "/images/articles/hero-google-workspace-microsoft365.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Google Workspace"
     url: "https://workspace.google.com/intl/ja/"
