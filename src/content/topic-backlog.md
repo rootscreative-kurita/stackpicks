@@ -4,20 +4,13 @@
 
 ## 執筆待ち
 
-### 6. HubSpot CRM 無料プラン導入ガイド ← 執筆中
-- カテゴリ: 導入ガイド
-- ターゲット: 顧客管理をExcelでやっている中小企業
-- 切り口: 無料でどこまでできるか、営業プロセス改善、MA連携
-- アフィリエイト: HubSpot（公式アフィリエイト: https://www.hubspot.com/partners/affiliates）
-- 優先度: ★★☆
-- ステータス: draft作成済み（2026-04-16）
-
-### 7. AI議事録ツール比較（tl;dv vs Otter vs Notta）
+### 7. AI議事録ツール比較（tl;dv vs Otter vs Notta） ← 執筆中
 - カテゴリ: AIツール
 - ターゲット: 会議が多い中小企業
 - 切り口: 日本語精度、Zoom/Meet連携、要約品質、セキュリティ
-- アフィリエイト: tl;dv, Notta
+- アフィリエイト: tl;dv（公式: https://tldv.io/partner-programs/）, Notta（公式: https://www.notta.ai/affiliate）
 - 優先度: ★★☆
+- ステータス: draft作成済み（2026-04-17）
 
 ### 8. Figma 入門ガイド ── エンジニアでなくても使えるデザインツール
 - カテゴリ: 導入ガイド
@@ -41,6 +34,7 @@
 - 優先度: ★★☆
 
 ## 公開済み
+- [x] HubSpot CRM 無料プラン導入ガイド（2026-04-17）
 - [x] Google Workspace vs Microsoft 365 比較（2026-04-16）
 - [x] Canva vs Adobe Express 比較（2026-04-12）
 - [x] Notion vs Obsidian 徹底比較（2026-04-07）
