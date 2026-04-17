@@ -3,9 +3,9 @@ title: "tl;dv vs Otter.ai vs Notta 徹底比較【2026年版】── AI議事�
 description: "AI議事録ツール tl;dv・Otter.ai・Nottaを「日本語精度・Zoom/Meet連携・要約品質・料金・セキュリティ」の5軸で徹底比較。会議が多い中小企業が、自社に合ったAI文字起こしツールを選ぶための実践ガイドです。"
 category: "AIツール"
 tags: ["AI議事録", "文字起こし", "tl;dv", "Otter.ai", "Notta", "会議効率化", "比較"]
-publishDate: 2026-04-17
+publishDate: 2026-04-18
 heroImage: "/images/articles/hero-ai-meeting-notes.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "tl;dv"
     url: "https://tldv.io/"
@@ -14,7 +14,7 @@ affiliate:
     url: "https://otter.ai/"
     cta: "Otter.ai の料金プランを見る →"
   - name: "Notta"
-    url: "https://www.notta.ai/"
+    url: "https://px.a8.net/svt/ejp?a8mat=4B1N9L+C2MGDU+5988+5ZEMQ"
     cta: "Notta の無料プランを試す →"
 ---
 
@@ -165,7 +165,7 @@ Nottaの最大の強みは**日本語の文字起こし精度の高さ**です�
 ・SalesforceやHubSpotとの直接連携が標準では用意されていない（Zapier経由）
 </div>
 
-<a href="https://www.notta.ai/" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">Notta の無料プランを試してみる →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1N9L+C2MGDU+5988+5ZEMQ" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">Notta の無料プランを試してみる →</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1N9L+C2MGDU+5988+5ZEMQ" alt="" />
 
 ## 判断フローチャート：自社に合うのはどれ？
 
