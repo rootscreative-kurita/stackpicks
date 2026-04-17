@@ -4,20 +4,13 @@
 
 ## 執筆待ち
 
-### 7. AI議事録ツール比較（tl;dv vs Otter vs Notta） ← 執筆中
-- カテゴリ: AIツール
-- ターゲット: 会議が多い中小企業
-- 切り口: 日本語精度、Zoom/Meet連携、要約品質、セキュリティ
-- アフィリエイト: tl;dv（公式: https://tldv.io/partner-programs/）, Notta（公式: https://www.notta.ai/affiliate）
-- 優先度: ★★☆
-- ステータス: draft作成済み（2026-04-17）
-
-### 8. Figma 入門ガイド ── エンジニアでなくても使えるデザインツール
+### 8. Figma 入門ガイド ── エンジニアでなくても使えるデザインツール ← 執筆中
 - カテゴリ: 導入ガイド
 - ターゲット: 非デザイナーのPM・マーケター
 - 切り口: ワイヤーフレーム作成、プロトタイプ共有、デザイナーとの連携
-- アフィリエイト: Figma
+- アフィリエイト: Figma（公式アフィリエイト終了、A8.net要確認）
 - 優先度: ★☆☆
+- ステータス: draft作成済み（2026-04-18）
 
 ### 9. Lark vs Notion vs Coda ── オールインワンツール比較
 - カテゴリ: 比較レビュー
@@ -34,6 +27,7 @@
 - 優先度: ★★☆
 
 ## 公開済み
+- [x] AI議事録ツール比較 tl;dv vs Otter vs Notta（2026-04-18）
 - [x] HubSpot CRM 無料プラン導入ガイド（2026-04-17）
 - [x] Google Workspace vs Microsoft 365 比較（2026-04-16）
 - [x] Canva vs Adobe Express 比較（2026-04-12）
