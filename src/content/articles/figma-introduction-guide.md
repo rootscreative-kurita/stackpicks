@@ -3,9 +3,9 @@ title: "Figma 入門ガイド【2026年版】── エンジニアでなくて�
 description: "Figmaをデザイナー以外のPM・マーケター・経営者が使いこなすための入門ガイド。ワイヤーフレーム作成、プロトタイプ共有、デザイナーとの連携方法まで、非デザイナー向けに実践的に解説します。"
 category: "導入ガイド"
 tags: ["Figma", "デザインツール", "ワイヤーフレーム", "プロトタイプ", "UI設計", "コラボレーション"]
-publishDate: 2026-04-18
+publishDate: 2026-04-19
 heroImage: "/images/articles/hero-figma-guide.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Figma"
     url: "https://www.figma.com/"
