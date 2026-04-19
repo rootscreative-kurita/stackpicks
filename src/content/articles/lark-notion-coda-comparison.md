@@ -3,9 +3,9 @@ title: "Lark vs Notion vs Coda 徹底比較【2026年版】── 中小企業�
 description: "オールインワンツール Lark・Notion・Codaを「統合度・日本語対応・料金・拡張性・チーム規模」の5軸で徹底比較。ツールが増えすぎて情報がバラバラになっている中小企業が、自社に合った一元管理ツールを選ぶための実践ガイドです。"
 category: "比較レビュー"
 tags: ["Lark", "Notion", "Coda", "オールインワン", "プロジェクト管理", "ドキュメント管理", "比較"]
-publishDate: 2026-04-19
+publishDate: 2026-04-20
 heroImage: "/images/articles/hero-allinone-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Notion"
     url: "https://www.notion.com/"
