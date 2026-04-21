@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 10. 中小企業向けセキュリティツール入門（1Password, NordVPN, etc.） ← 執筆中
-- カテゴリ: 導入ガイド
-- ターゲット: セキュリティ対策が不十分な中小企業
-- 切り口: パスワード管理、VPN、エンドポイント保護の3本柱
-- アフィリエイト: 1Password（CJ Affiliate）, NordVPN（A8.net）, ESET（A8.net）
+### 11. Backlog vs Asana vs Monday.com プロジェクト管理ツール比較 ← 執筆中
+- カテゴリ: 比較レビュー
+- ターゲット: Excel管理から脱却したい中小企業
+- 切り口: 日本語対応・定着しやすさ・コストの3軸で比較
+- アフィリエイト: Backlog（A8.net）, Monday.com（PartnerStack）, Asana（公式Referral）
 - 優先度: ★★☆
-- ステータス: draft作成済み（2026-04-21）
+- ステータス: draft作成済み（2026-04-22）
 
 ## 公開済み
+- [x] 中小企業向けセキュリティツール入門【2026年版】（2026-04-22）
 - [x] Lark vs Notion vs Coda オールインワンツール比較（2026-04-21）
 - [x] Figma 入門ガイド（2026-04-19）
 - [x] AI議事録ツール比較 tl;dv vs Otter vs Notta（2026-04-18）
