@@ -3,12 +3,12 @@ title: "Backlog vs Asana vs Monday.com 徹底比較【2026年版】── 中小
 description: "日本の中小企業に人気のプロジェクト管理ツール3つを「日本語対応・定着しやすさ・コスト」の3軸で徹底比較。現場で本当に使われるツールを選ぶためのポイントを、導入事例とともに解説します。"
 category: "比較レビュー"
 tags: ["Backlog", "Asana", "Monday.com", "プロジェクト管理", "タスク管理", "比較"]
-publishDate: 2026-04-22
+publishDate: 2026-04-23
 heroImage: "/images/articles/hero-project-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Backlog"
-    url: "https://backlog.com/ja/"
+    url: "https://af.moshimo.com/af/c/click?a_id=5502283&p_id=2553&pc_id=5661&pl_id=32783"
     cta: "Backlog のフリープランを試す →"
   - name: "Asana"
     url: "https://asana.com/ja"
@@ -98,7 +98,7 @@ Backlogは、福岡に本社を置くヌーラボが開発・運営する、**�
 <li>ウォーターフォール型の開発プロセスでガントチャートを多用する</li>
 </ul>
 
-<a href="https://backlog.com/ja/" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">Backlog のフリープランを試す →</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5502283&p_id=2553&pc_id=5661&pl_id=32783" class="inline-cta" target="_blank" rel="noopener nofollow sponsored" referrerpolicy="no-referrer-when-downgrade">Backlog のフリープランを試す →</a><img src="https://i.moshimo.com/af/i/impression?a_id=5502283&p_id=2553&pc_id=5661&pl_id=32783" width="1" height="1" style="border:none;" loading="lazy" alt="" />
 
 ## Asana ── 直感的な操作性でチームに定着しやすい
 
