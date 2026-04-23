@@ -3,9 +3,9 @@ title: "クラウドサイン vs GMOサイン vs DocuSign 徹底比較【2026年
 description: "日本の中小企業に人気の電子契約サービス3つを「法的効力・料金・使いやすさ」の3軸で徹底比較。紙の契約書からの脱却を考えている企業が、最初に選ぶべきサービスを実際の操作画面をもとに解説します。"
 category: "比較レビュー"
 tags: ["クラウドサイン", "GMOサイン", "DocuSign", "電子契約", "電子署名", "ペーパーレス", "比較"]
-publishDate: 2026-04-23
+publishDate: 2026-04-24
 heroImage: "/images/articles/hero-e-signature.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "クラウドサイン"
     url: "https://www.cloudsign.jp/"
