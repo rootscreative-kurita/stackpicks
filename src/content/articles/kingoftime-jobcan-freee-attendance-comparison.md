@@ -3,9 +3,9 @@ title: "KING OF TIME vs ジョブカン vs freee勤怠管理 徹底比較【2026
 description: "日本の中小企業に人気のクラウド勤怠管理システム3つを「打刻方法・料金・他システム連携」の3軸で徹底比較。Excel管理からの脱却を考えている企業が、最初に導入すべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["KING OF TIME", "ジョブカン", "freee勤怠管理", "勤怠管理", "クラウド", "労務管理", "比較"]
-publishDate: 2026-04-24
+publishDate: 2026-04-25
 heroImage: "/images/articles/hero-attendance-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "KING OF TIME"
     url: "https://www.kingoftime.jp/"
