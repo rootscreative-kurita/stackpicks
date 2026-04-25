@@ -3,9 +3,9 @@ title: "楽楽精算 vs マネーフォワードクラウド経費 vs freee経�
 description: "日本の中小企業に人気のクラウド経費精算システム3つを「領収書処理・承認フロー・料金」の3軸で徹底比較。Excel＋紙の経費精算から脱却したい企業が、最初に導入すべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["楽楽精算", "マネーフォワードクラウド経費", "freee経費精算", "経費精算", "クラウド", "バックオフィス", "比較"]
-publishDate: 2026-04-25
+publishDate: 2026-04-26
 heroImage: "/images/articles/hero-expense-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "楽楽精算"
     url: "https://www.rakurakuseisan.jp/"
