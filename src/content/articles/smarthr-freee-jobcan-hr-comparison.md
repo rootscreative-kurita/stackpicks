@@ -3,9 +3,9 @@ title: "SmartHR vs freee人事労務 vs ジョブカン労務HR 徹底比較【2
 description: "日本の中小企業に人気のクラウド人事労務管理システム3つを「入退社手続き・年末調整・料金」の3軸で徹底比較。紙とExcelの労務管理から脱却したい企業が、最初に導入すべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["SmartHR", "freee人事労務", "ジョブカン労務HR", "人事労務", "クラウド", "バックオフィス", "比較"]
-publishDate: 2026-04-26
+publishDate: 2026-04-27
 heroImage: "/images/articles/hero-hr-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "SmartHR"
     url: "https://smarthr.jp/"
