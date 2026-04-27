@@ -3,9 +3,9 @@ title: "マネーフォワード クラウド請求書 vs freee vs Misoca 徹底
 description: "日本の中小企業に人気のクラウド請求書発行サービス3つを「請求書作成・入金管理・料金」の3軸で徹底比較。Excel請求書から脱却したい企業が、最初に導入すべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["マネーフォワード クラウド請求書", "freee", "Misoca", "請求書", "クラウド", "バックオフィス", "比較", "インボイス制度"]
-publishDate: 2026-04-27
+publishDate: 2026-04-28
 heroImage: "/images/articles/hero-invoice-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "マネーフォワード クラウド請求書"
     url: "https://biz.moneyforward.com/invoice/"
