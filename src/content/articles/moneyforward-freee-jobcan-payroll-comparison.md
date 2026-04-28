@@ -3,9 +3,9 @@ title: "マネーフォワードクラウド給与 vs freee人事労務 vs ジ�
 description: "日本の中小企業に人気のクラウド給与計算サービス3つを「給与計算の自動化・年末調整・料金」の3軸で徹底比較。Excelでの給与計算から脱却したい企業が、最初に導入すべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["マネーフォワードクラウド給与", "freee人事労務", "ジョブカン給与計算", "給与計算", "クラウド", "バックオフィス", "比較"]
-publishDate: 2026-04-28
+publishDate: 2026-04-29
 heroImage: "/images/articles/hero-payroll-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "マネーフォワードクラウド給与"
     url: "https://biz.moneyforward.com/payroll/"
