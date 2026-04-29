@@ -3,9 +3,9 @@ title: "HRMOS採用 vs ジョブカン採用管理 vs 採用一括かんりく�
 description: "日本の中小企業に人気のクラウド採用管理システム（ATS）3つを「応募者管理・求人媒体連携・料金」の3軸で徹底比較。Excelでの採用管理から脱却したい企業が、最初に導入すべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["HRMOS採用", "ジョブカン採用管理", "採用一括かんりくん", "採用管理", "ATS", "クラウド", "バックオフィス", "比較"]
-publishDate: 2026-04-29
+publishDate: 2026-04-30
 heroImage: "/images/articles/hero-ats-recruitment.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "HRMOS採用"
     url: "https://hrmos.co/recruiting/"
