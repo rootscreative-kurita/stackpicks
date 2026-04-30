@@ -3,9 +3,9 @@ title: "STUDIO vs Wix vs ペライチ 徹底比較【2026年版】── 中小�
 description: "日本の中小企業に人気のノーコードWebサイト制作ツール3つを「デザイン自由度・日本語対応・料金」の3軸で徹底比較。コーディング不要でプロ品質のサイトを作りたい企業が、最初に導入すべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["STUDIO", "Wix", "ペライチ", "Webサイト制作", "ノーコード", "ホームページ", "ランディングページ", "比較"]
-publishDate: 2026-04-30
+publishDate: 2026-05-01
 heroImage: "/images/articles/hero-website-builder.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "STUDIO"
     url: "https://studio.design/ja"
