@@ -3,9 +3,9 @@ title: "RESERVA vs STORES予約 vs Airリザーブ 徹底比較【2026年版】�
 description: "日本の中小企業に人気のオンライン予約システム3つを「業種対応力・決済機能・料金」の3軸で徹底比較。電話予約やメール対応から脱却し、24時間自動受付を実現したい企業が最初に導入すべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["RESERVA", "STORES予約", "Airリザーブ", "予約システム", "オンライン予約", "クラウド", "店舗運営", "比較"]
-publishDate: 2026-05-01
+publishDate: 2026-05-02
 heroImage: "/images/articles/hero-booking-system.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "RESERVA"
     url: "https://reserva.be/"
