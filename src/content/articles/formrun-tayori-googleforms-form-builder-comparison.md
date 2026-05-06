@@ -3,9 +3,9 @@ title: "formrun vs Tayori vs Google フォーム 徹底比較【2026年版】─
 description: "日本の中小企業に人気のフォーム作成ツール3つを「問い合わせ管理・デザイン性・料金」の3軸で徹底比較。Webサイトの問い合わせフォームを改善し、顧客対応の質を上げたい企業が選ぶべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["formrun", "Tayori", "Google フォーム", "フォーム作成", "問い合わせ管理", "顧客対応", "クラウド", "比較"]
-publishDate: 2026-05-02
+publishDate: 2026-05-07
 heroImage: "/images/articles/hero-form-builder.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "formrun"
     url: "https://form.run/"
