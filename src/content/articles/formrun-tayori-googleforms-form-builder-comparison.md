@@ -8,7 +8,7 @@ heroImage: "/images/articles/hero-form-builder.jpg"
 draft: false
 affiliate:
   - name: "formrun"
-    url: "https://form.run/"
+    url: "https://px.a8.net/svt/ejp?a8mat=4B3KUK+A7CH0Y+4NMG+5YJRM"
     cta: "formrunを無料で試す →"
   - name: "Tayori"
     url: "https://tayori.com/"
@@ -112,7 +112,7 @@ formrunは、株式会社ベーシックが提供するフォーム作成・問�
 <li>複数のフォーム（問い合わせ・資料請求・イベント申込）を一つのダッシュボードで管理したい企業</li>
 </ul>
 
-<a href="https://form.run/" class="inline-cta" target="_blank" rel="noopener nofollow">formrunを無料で試す →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3KUK+A7CH0Y+4NMG+5YJRM" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">formrunを無料で試す →</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B3KUK+A7CH0Y+4NMG+5YJRM" alt="" />
 
 ## Tayori ── フォーム＋FAQ＋チャットで「カスタマーサポートの入口」を丸ごとカバー
 
