@@ -3,9 +3,9 @@ title: "blastmail vs 配配メール vs Benchmark Email 徹底比較【2026年�
 description: "日本の中小企業に人気のメール配信ツール3つを「配信機能・効果測定・料金」の3軸で徹底比較。メルマガや営業メールを効率化し、顧客との接点を強化したい企業が選ぶべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["blastmail", "配配メール", "Benchmark Email", "メール配信", "メールマーケティング", "メルマガ", "クラウド", "比較"]
-publishDate: 2026-05-07
+publishDate: 2026-05-08
 heroImage: "/images/articles/hero-email-marketing.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "blastmail"
     url: "https://blastmail.jp/"
