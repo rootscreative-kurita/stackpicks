@@ -4,19 +4,13 @@
 
 ## 執筆待ち
 
-### 23. Zendesk vs チャネルトーク vs Freshdesk カスタマーサポートツール比較 ← 執筆中
-- カテゴリ: 比較レビュー
-- ターゲット: 問い合わせ対応の効率化と顧客満足度の向上を目指す中小企業
-- 切り口: チャット対応・チケット管理・料金の3軸で比較
-- アフィリエイト: Zendesk（パートナープログラムあり・要申請）, チャネルトーク（ASP未確認）, Freshdesk（公式アフィリエイトあり・PartnerStack経由・最大25%継続コミッション）
-- 優先度: ★★★
-- ステータス: draft作成済み（2026-05-08）
-
-### 24. Box vs Dropbox Business vs Google Drive クラウドストレージ比較
+### 24. Box vs Dropbox Business vs Google Drive クラウドストレージ比較 ← 執筆中
 - カテゴリ: 比較レビュー
 - ターゲット: ファイル共有・管理を効率化したい中小企業
 - 切り口: 容量・セキュリティ・コラボレーション機能・料金の4軸で比較
+- アフィリエイト: Box（チャネルパートナープログラム・要申請）, Dropbox（A8.net・購入10%報酬）, Google Workspace（公式アフィリエイト・CJ Affiliate経由／紹介プログラムあり）
 - 優先度: ★★★
+- ステータス: draft作成済み（2026-05-09）
 
 ### 25. SocialDog vs Hootsuite vs Buffer SNS運用ツール比較
 - カテゴリ: 比較レビュー
@@ -37,6 +31,7 @@
 - 優先度: ★★☆
 
 ## 公開済み
+- [x] Zendesk vs チャネルトーク vs Freshdesk カスタマーサポートツール比較（2026-05-09）
 - [x] blastmail vs 配配メール vs Benchmark Email メール配信ツール比較（2026-05-08）
 - [x] formrun vs Tayori vs Google フォーム フォーム作成ツール比較（2026-05-07）
 - [x] RESERVA vs STORES予約 vs Airリザーブ オンライン予約システム比較（2026-05-02）
