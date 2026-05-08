@@ -3,9 +3,9 @@ title: "Zendesk vs チャネルトーク vs Freshdesk 徹底比較【2026年版�
 description: "日本の中小企業に人気のカスタマーサポートツール3つを「チャット対応・チケット管理・料金」の3軸で徹底比較。問い合わせ対応の効率化と顧客満足度の向上を目指す企業が選ぶべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["Zendesk", "チャネルトーク", "Freshdesk", "カスタマーサポート", "ヘルプデスク", "チャットサポート", "クラウド", "比較"]
-publishDate: 2026-05-08
+publishDate: 2026-05-09
 heroImage: "/images/articles/hero-customer-support.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Zendesk"
     url: "https://www.zendesk.co.jp/"
