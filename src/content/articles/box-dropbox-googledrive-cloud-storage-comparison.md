@@ -3,9 +3,9 @@ title: "Box vs Dropbox Business vs Google Drive 徹底比較【2026年版】─�
 description: "日本の中小企業に人気のクラウドストレージ3つを「容量・セキュリティ・コラボレーション機能・料金」の4軸で徹底比較。ファイル共有・管理を効率化したい企業が選ぶべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["Box", "Dropbox Business", "Google Drive", "クラウドストレージ", "ファイル共有", "ファイル管理", "クラウド", "比較"]
-publishDate: 2026-05-09
+publishDate: 2026-05-10
 heroImage: "/images/articles/hero-cloud-storage.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Box"
     url: "https://www.box.com/ja-jp"
