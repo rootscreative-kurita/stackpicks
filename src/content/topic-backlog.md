@@ -4,19 +4,13 @@
 
 ## 執筆待ち
 
-### 24. Box vs Dropbox Business vs Google Drive クラウドストレージ比較 ← 執筆中
-- カテゴリ: 比較レビュー
-- ターゲット: ファイル共有・管理を効率化したい中小企業
-- 切り口: 容量・セキュリティ・コラボレーション機能・料金の4軸で比較
-- アフィリエイト: Box（チャネルパートナープログラム・要申請）, Dropbox（A8.net・購入10%報酬）, Google Workspace（公式アフィリエイト・CJ Affiliate経由／紹介プログラムあり）
-- 優先度: ★★★
-- ステータス: draft作成済み（2026-05-09）
-
-### 25. SocialDog vs Hootsuite vs Buffer SNS運用ツール比較
+### 25. SocialDog vs Hootsuite vs Buffer SNS運用ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
 - ターゲット: X（Twitter）やInstagramの運用を効率化したい中小企業・マーケター
 - 切り口: 予約投稿・分析・複数アカウント管理・料金の4軸で比較
+- アフィリエイト: SocialDog（A8.net経由・要申請）, Hootsuite（公式アフィリエイト・Impact経由・初月売上20%）, Buffer（公式パートナープログラム・売上25%・1年間）
 - 優先度: ★★☆
+- ステータス: draft作成済み（2026-05-11）
 
 ### 26. Square vs Airレジ vs スマレジ クラウドPOSレジ比較
 - カテゴリ: 比較レビュー
@@ -31,6 +25,7 @@
 - 優先度: ★★☆
 
 ## 公開済み
+- [x] Box vs Dropbox Business vs Google Drive クラウドストレージ比較（2026-05-10）
 - [x] Zendesk vs チャネルトーク vs Freshdesk カスタマーサポートツール比較（2026-05-09）
 - [x] blastmail vs 配配メール vs Benchmark Email メール配信ツール比較（2026-05-08）
 - [x] formrun vs Tayori vs Google フォーム フォーム作成ツール比較（2026-05-07）
