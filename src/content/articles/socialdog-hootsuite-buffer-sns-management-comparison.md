@@ -3,9 +3,9 @@ title: "SocialDog vs Hootsuite vs Buffer 徹底比較【2026年版】── 中�
 description: "日本の中小企業に人気のSNS運用ツール3つを「予約投稿・分析・複数アカウント管理・料金」の4軸で徹底比較。X（Twitter）やInstagramの運用を効率化したい企業が選ぶべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["SocialDog", "Hootsuite", "Buffer", "SNS運用", "ソーシャルメディア", "X", "Twitter", "Instagram", "比較"]
-publishDate: 2026-05-11
+publishDate: 2026-05-12
 heroImage: "/images/articles/hero-sns-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "SocialDog"
     url: "https://social-dog.net/"
