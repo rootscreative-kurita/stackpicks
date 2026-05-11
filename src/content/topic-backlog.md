@@ -4,19 +4,13 @@
 
 ## 執筆待ち
 
-### 25. SocialDog vs Hootsuite vs Buffer SNS運用ツール比較 ← 執筆中
-- カテゴリ: 比較レビュー
-- ターゲット: X（Twitter）やInstagramの運用を効率化したい中小企業・マーケター
-- 切り口: 予約投稿・分析・複数アカウント管理・料金の4軸で比較
-- アフィリエイト: SocialDog（A8.net経由・要申請）, Hootsuite（公式アフィリエイト・Impact経由・初月売上20%）, Buffer（公式パートナープログラム・売上25%・1年間）
-- 優先度: ★★☆
-- ステータス: draft作成済み（2026-05-11）
-
-### 26. Square vs Airレジ vs スマレジ クラウドPOSレジ比較
+### 26. Square vs Airレジ vs スマレジ クラウドPOSレジ比較 ← 執筆中
 - カテゴリ: 比較レビュー
 - ターゲット: 店舗のレジ業務を効率化したい小売・飲食業
 - 切り口: 決済対応・在庫管理・分析機能・料金の4軸で比較
+- アフィリエイト: Square（A8.net・5,000円・要申請 / もしもアフィリエイト / 公式アフィリエイト）, Airレジ（未確認）, スマレジ（公式アフィリエイトパートナー・要申請）
 - 優先度: ★★★
+- ステータス: draft作成済み（2026-05-12）
 
 ### 27. Notion AI vs ChatGPT Teams vs Microsoft Copilot AIビジネスアシスタント比較
 - カテゴリ: 比較レビュー
@@ -25,6 +19,7 @@
 - 優先度: ★★☆
 
 ## 公開済み
+- [x] SocialDog vs Hootsuite vs Buffer SNS運用ツール比較（2026-05-12）
 - [x] Box vs Dropbox Business vs Google Drive クラウドストレージ比較（2026-05-10）
 - [x] Zendesk vs チャネルトーク vs Freshdesk カスタマーサポートツール比較（2026-05-09）
 - [x] blastmail vs 配配メール vs Benchmark Email メール配信ツール比較（2026-05-08）
