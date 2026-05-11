@@ -8,7 +8,7 @@ heroImage: "/images/articles/hero-sns-management.jpg"
 draft: false
 affiliate:
   - name: "SocialDog"
-    url: "https://social-dog.net/"
+    url: "https://px.a8.net/svt/ejp?a8mat=4B3OQU+27S3UA+3VAG+5ZMCI"
     cta: "SocialDogを無料で試す →"
   - name: "Hootsuite"
     url: "https://www.hootsuite.com/"
@@ -112,7 +112,7 @@ SocialDog（ソーシャルドッグ）は、日本発のSNS運用ツールで�
 <li>まずはX運用の効率化から始めたい、SNS運用初心者の企業</li>
 </ul>
 
-<a href="https://social-dog.net/" class="inline-cta" target="_blank" rel="noopener nofollow">SocialDogを無料で試す →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3OQU+27S3UA+3VAG+5ZMCI" class="inline-cta" target="_blank" rel="noopener nofollow sponsored">SocialDogを無料で試す →</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B3OQU+27S3UA+3VAG+5ZMCI" alt="" />
 
 ## Hootsuite ── 世界1,800万ユーザー、SNS管理ツールの業界標準
 
