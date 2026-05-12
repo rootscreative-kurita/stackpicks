@@ -3,9 +3,9 @@ title: "Square vs Airレジ vs スマレジ 徹底比較【2026年版】── �
 description: "日本の小売・飲食業で人気のクラウドPOSレジ3つを「決済対応・在庫管理・分析機能・料金」の4軸で徹底比較。店舗のレジ業務を効率化したい事業者が選ぶべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["Square", "Airレジ", "スマレジ", "POSレジ", "クラウドPOS", "キャッシュレス決済", "タブレットレジ", "小売", "飲食店", "比較"]
-publishDate: 2026-05-12
+publishDate: 2026-05-13
 heroImage: "/images/articles/hero-pos-register.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Square"
     url: "https://squareup.com/jp/ja"
