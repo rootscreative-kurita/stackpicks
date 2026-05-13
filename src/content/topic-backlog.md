@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 27. Notion AI vs ChatGPT Business vs Microsoft Copilot AIビジネスアシスタント比較 ← 執筆中
+### 28. 1Password Business vs LastPass Business vs Keeper Business クラウドパスワード管理ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 業務にAIを取り入れたい中小企業
-- 切り口: 機能範囲・既存ツール連携・セキュリティ・料金の4軸で比較
-- アフィリエイト: Notion（公式パートナープログラム・報酬50%・要申請）, ChatGPT Business（アフィリエイトなし）, Microsoft Copilot（Microsoft公式・Rakuten LinkShare経由・要申請）
+- ターゲット: パスワード管理を改善したい中小企業
+- 切り口: セキュリティ・共有機能・管理者コントロール・料金の4軸で比較
+- アフィリエイト: 1Password（CJ Affiliate経由・報酬25%・要申請）, LastPass（要調査）, Keeper（公式パートナープログラム・要申請）
 - 優先度: ★★☆
-- ステータス: draft作成済み（2026-05-13）
+- ステータス: draft作成済み（2026-05-14）
 
 ## 公開済み
+- [x] Notion AI vs ChatGPT Business vs Microsoft Copilot AIビジネスアシスタント比較（2026-05-14）
 - [x] Square vs Airレジ vs スマレジ クラウドPOSレジ比較（2026-05-13）
 - [x] SocialDog vs Hootsuite vs Buffer SNS運用ツール比較（2026-05-12）
 - [x] Box vs Dropbox Business vs Google Drive クラウドストレージ比較（2026-05-10）
