@@ -3,9 +3,9 @@ title: "Notion AI vs ChatGPT Business vs Microsoft Copilot 徹底比較【2026�
 description: "中小企業に人気のAIビジネスアシスタント3つを「機能範囲・既存ツール連携・セキュリティ・料金」の4軸で徹底比較。業務にAIを取り入れたい企業が選ぶべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["Notion AI", "ChatGPT", "Microsoft Copilot", "AIアシスタント", "生成AI", "業務効率化", "AI活用", "中小企業", "比較"]
-publishDate: 2026-05-13
+publishDate: 2026-05-14
 heroImage: "/images/articles/hero-ai-business-assistant.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Notion"
     url: "https://www.notion.com/"
