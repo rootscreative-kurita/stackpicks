@@ -3,9 +3,9 @@ title: "1Password Business vs LastPass Business vs Keeper Business 徹底比較�
 description: "中小企業に人気のクラウドパスワード管理ツール3つを「セキュリティ・共有機能・管理者コントロール・料金」の4軸で徹底比較。チームのパスワード管理を安全に効率化したい企業が選ぶべきサービスを解説します。"
 category: "比較レビュー"
 tags: ["1Password", "LastPass", "Keeper", "パスワード管理", "セキュリティ", "情報漏洩対策", "SSO", "中小企業", "比較"]
-publishDate: 2026-05-14
+publishDate: 2026-05-15
 heroImage: "/images/articles/hero-password-manager.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "1Password"
     url: "https://1password.com/jp/business"
