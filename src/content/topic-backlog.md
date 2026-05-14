@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 28. 1Password Business vs LastPass Business vs Keeper Business クラウドパスワード管理ツール比較 ← 執筆中
+### 29. Miro vs Mural vs FigJam オンラインホワイトボードツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: パスワード管理を改善したい中小企業
-- 切り口: セキュリティ・共有機能・管理者コントロール・料金の4軸で比較
-- アフィリエイト: 1Password（CJ Affiliate経由・報酬25%・要申請）, LastPass（要調査）, Keeper（公式パートナープログラム・要申請）
+- ターゲット: リモート/ハイブリッドワークでチームのコラボレーションを改善したい中小企業
+- 切り口: コラボレーション機能・テンプレート・外部連携・料金の4軸で比較
+- アフィリエイト: Miro（PartnerStack経由・$10〜$83/企業サインアップ・要申請）, Mural（要調査）, FigJam（アフィリエイト終了・パートナープログラムのみ）
 - 優先度: ★★☆
-- ステータス: draft作成済み（2026-05-14）
+- ステータス: draft作成済み（2026-05-15）
 
 ## 公開済み
+- [x] 1Password Business vs LastPass Business vs Keeper Business クラウドパスワード管理ツール比較（2026-05-15）
 - [x] Notion AI vs ChatGPT Business vs Microsoft Copilot AIビジネスアシスタント比較（2026-05-14）
 - [x] Square vs Airレジ vs スマレジ クラウドPOSレジ比較（2026-05-13）
 - [x] SocialDog vs Hootsuite vs Buffer SNS運用ツール比較（2026-05-12）
