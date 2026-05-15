@@ -3,9 +3,9 @@ title: "Miro vs Mural vs FigJam 徹底比較【2026年版】── 中小企業�
 description: "中小企業に人気のオンラインホワイトボードツール3つを「コラボレーション機能・テンプレート・外部連携・料金」の4軸で徹底比較。リモートワーク時代のチーム共同作業を加速させるサービスを解説します。"
 category: "比較レビュー"
 tags: ["Miro", "Mural", "FigJam", "オンラインホワイトボード", "リモートワーク", "コラボレーション", "ブレインストーミング", "中小企業", "比較"]
-publishDate: 2026-05-15
+publishDate: 2026-05-16
 heroImage: "/images/articles/hero-online-whiteboard.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Miro"
     url: "https://miro.com/ja/"
