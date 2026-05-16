@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 29. Miro vs Mural vs FigJam オンラインホワイトボードツール比較 ← 執筆中
+### 30. Calendly vs TimeRex vs Spir 日程調整ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: リモート/ハイブリッドワークでチームのコラボレーションを改善したい中小企業
-- 切り口: コラボレーション機能・テンプレート・外部連携・料金の4軸で比較
-- アフィリエイト: Miro（PartnerStack経由・$10〜$83/企業サインアップ・要申請）, Mural（要調査）, FigJam（アフィリエイト終了・パートナープログラムのみ）
+- ターゲット: 商談・面談・社内ミーティングの日程調整を効率化したい中小企業
+- 切り口: 自動化機能・カレンダー連携・チーム利用・料金の4軸で比較
+- アフィリエイト: Calendly（PartnerStack経由・15〜20%コミッション・要申請）, TimeRex（要調査）, Spir（要調査）
 - 優先度: ★★☆
-- ステータス: draft作成済み（2026-05-15）
+- ステータス: draft作成済み（2026-05-17）
 
 ## 公開済み
+- [x] Miro vs Mural vs FigJam オンラインホワイトボードツール比較（2026-05-16）
 - [x] 1Password Business vs LastPass Business vs Keeper Business クラウドパスワード管理ツール比較（2026-05-15）
 - [x] Notion AI vs ChatGPT Business vs Microsoft Copilot AIビジネスアシスタント比較（2026-05-14）
 - [x] Square vs Airレジ vs スマレジ クラウドPOSレジ比較（2026-05-13）
