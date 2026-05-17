@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 30. Calendly vs TimeRex vs Spir 日程調整ツール比較 ← 執筆中
+### 31. ジョブカンワークフロー vs コラボフロー vs X-point Cloud ワークフロー・稟議ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 商談・面談・社内ミーティングの日程調整を効率化したい中小企業
-- 切り口: 自動化機能・カレンダー連携・チーム利用・料金の4軸で比較
-- アフィリエイト: Calendly（PartnerStack経由・15〜20%コミッション・要申請）, TimeRex（要調査）, Spir（要調査）
+- ターゲット: 紙の稟議書・申請書を電子化し、承認業務を効率化したい中小企業
+- 切り口: フォーム作成・承認ルート・外部連携・料金の4軸で比較
+- アフィリエイト: ジョブカン（要調査）, コラボフロー（要調査）, X-point Cloud（要調査）
 - 優先度: ★★☆
-- ステータス: draft作成済み（2026-05-17）
+- ステータス: draft作成済み（2026-05-18）
 
 ## 公開済み
+- [x] Calendly vs TimeRex vs Spir 日程調整ツール比較（2026-05-18）
 - [x] Miro vs Mural vs FigJam オンラインホワイトボードツール比較（2026-05-16）
 - [x] 1Password Business vs LastPass Business vs Keeper Business クラウドパスワード管理ツール比較（2026-05-15）
 - [x] Notion AI vs ChatGPT Business vs Microsoft Copilot AIビジネスアシスタント比較（2026-05-14）
