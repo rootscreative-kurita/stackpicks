@@ -3,9 +3,9 @@ title: "Calendly vs TimeRex vs Spir 徹底比較【2026年版】── 中小企
 description: "中小企業に人気の日程調整ツール3つを「自動化機能・カレンダー連携・チーム利用・料金」の4軸で徹底比較。営業・採用・カスタマーサクセスなどのスケジュール調整を効率化するサービスを解説します。"
 category: "比較レビュー"
 tags: ["Calendly", "TimeRex", "Spir", "日程調整", "スケジュール管理", "営業効率化", "リモートワーク", "中小企業", "比較"]
-publishDate: 2026-05-17
+publishDate: 2026-05-18
 heroImage: "/images/articles/hero-scheduling-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Calendly"
     url: "https://calendly.com/"
