@@ -3,9 +3,9 @@ title: "ジョブカンワークフロー vs コラボフロー vs X-point Cloud
 description: "中小企業に人気のクラウドワークフローシステム3つを「フォーム作成・承認ルート・外部連携・料金」の4軸で徹底比較。紙の稟議書から脱却し、申請・承認業務を効率化するサービスを解説します。"
 category: "比較レビュー"
 tags: ["ジョブカンワークフロー", "コラボフロー", "X-point Cloud", "ワークフロー", "稟議", "電子承認", "業務効率化", "中小企業", "比較"]
-publishDate: 2026-05-18
+publishDate: 2026-05-19
 heroImage: "/images/articles/hero-workflow-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "ジョブカンワークフロー"
     url: "https://wf.jobcan.ne.jp/"
