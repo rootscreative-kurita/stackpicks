@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 32. NotePM vs Kibela vs DocBase 社内Wiki・ナレッジ管理ツール比較 ← 執筆中
+### 33. Sansan vs Eight Team vs CAMCARD Business 名刺管理ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 社内のナレッジが散在し、属人化を解消したい中小企業
-- 切り口: 検索性・編集機能・セキュリティ・料金の4軸で比較
-- アフィリエイト: NotePM（パートナープログラムあり・要申請）, Kibela（要調査）, DocBase（要調査）
+- ターゲット: 名刺情報が個人に閉じており、営業資産として活用したい中小企業
+- 切り口: OCR精度・共有機能・CRM連携・料金の4軸で比較
+- アフィリエイト: Sansan（未確認）, Eight Team（未確認）, CAMCARD Business（未確認）
 - 優先度: ★★☆
-- ステータス: draft作成済み（2026-05-19）
+- ステータス: draft作成済み（2026-05-20）
 
 ## 公開済み
+- [x] NotePM vs Kibela vs DocBase 社内Wiki・ナレッジ管理ツール比較（2026-05-20）
 - [x] ジョブカンワークフロー vs コラボフロー vs X-point Cloud ワークフロー・稟議ツール比較（2026-05-19）
 - [x] Calendly vs TimeRex vs Spir 日程調整ツール比較（2026-05-18）
 - [x] Miro vs Mural vs FigJam オンラインホワイトボードツール比較（2026-05-16）
