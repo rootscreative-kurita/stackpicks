@@ -3,9 +3,9 @@ title: "NotePM vs Kibela vs DocBase 徹底比較【2026年版】── 中小企
 description: "中小企業に人気の社内Wiki・ナレッジ管理ツール3つを「検索性・編集機能・セキュリティ・料金」の4軸で徹底比較。散らばった社内情報を一元化し、ナレッジの属人化を解消するサービスを解説します。"
 category: "比較レビュー"
 tags: ["NotePM", "Kibela", "DocBase", "社内Wiki", "ナレッジ管理", "情報共有", "マニュアル作成", "中小企業", "比較"]
-publishDate: 2026-05-19
+publishDate: 2026-05-20
 heroImage: "/images/articles/hero-knowledge-wiki.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "NotePM"
     url: "https://notepm.jp/"
