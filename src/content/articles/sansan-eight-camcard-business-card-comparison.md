@@ -3,9 +3,9 @@ title: "Sansan vs Eight Team vs CAMCARD Business 徹底比較【2026年版】─
 description: "中小企業に人気の法人向け名刺管理ツール3つを「OCR精度・共有機能・CRM連携・料金」の4軸で徹底比較。紙の名刺をデジタル化し、営業資産として全社で活用するサービスを解説します。"
 category: "比較レビュー"
 tags: ["Sansan", "Eight Team", "CAMCARD Business", "名刺管理", "営業支援", "顧客管理", "OCR", "中小企業", "比較"]
-publishDate: 2026-05-20
+publishDate: 2026-05-21
 heroImage: "/images/articles/hero-business-card-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Sansan"
     url: "https://jp.sansan.com/"
