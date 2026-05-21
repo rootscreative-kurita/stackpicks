@@ -3,9 +3,9 @@ title: "カオナビ vs HRBrain vs タレントパレット 徹底比較【2026�
 description: "中小企業に人気のタレントマネジメントツール3つを「人材データベース・評価管理・分析機能・料金」の4軸で徹底比較。社員のスキル・経験・評価を可視化し、戦略的な人事施策を実現するサービスを解説します。"
 category: "比較レビュー"
 tags: ["カオナビ", "HRBrain", "タレントパレット", "タレントマネジメント", "人事評価", "人材管理", "スキル管理", "中小企業", "比較"]
-publishDate: 2026-05-21
+publishDate: 2026-05-22
 heroImage: "/images/articles/hero-talent-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "カオナビ"
     url: "https://www.kaonavi.jp/"
