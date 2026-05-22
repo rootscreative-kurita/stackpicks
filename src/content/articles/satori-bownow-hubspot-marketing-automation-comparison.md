@@ -3,9 +3,9 @@ title: "SATORI vs BowNow vs HubSpot Marketing Hub 徹底比較【2026年版】�
 description: "中小企業に人気のMAツール3つを「リード獲得・メール配信・スコアリング・料金」の4軸で徹底比較。見込み顧客の育成を自動化し、営業効率を最大化するサービスを解説します。"
 category: "比較レビュー"
 tags: ["SATORI", "BowNow", "HubSpot", "MA", "マーケティングオートメーション", "リードナーチャリング", "メール配信", "中小企業", "比較"]
-publishDate: 2026-05-22
+publishDate: 2026-05-23
 heroImage: "/images/articles/hero-marketing-automation.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "SATORI"
     url: "https://satori.marketing/"
