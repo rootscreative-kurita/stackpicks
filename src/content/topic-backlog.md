@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 35. SATORI vs BowNow vs HubSpot Marketing Hub MA（マーケティングオートメーション）ツール比較 ← 執筆中
+### 36. Looker Studio vs Power BI vs Tableau BI（データ可視化・分析）ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: Webマーケティングを強化し、リード獲得・ナーチャリングを自動化したい中小企業
-- 切り口: リード獲得・メール配信・スコアリング・料金の4軸で比較
-- アフィリエイト: SATORI（パートナープログラムあり・代理店向け）, BowNow（代理店プログラムあり）, HubSpot（公式アフィリエイトあり・30%リカーリング・Impact経由）
+- ターゲット: Excelでの手動レポート作成に限界を感じ、データの可視化・分析を効率化したい中小企業
+- 切り口: データ接続・可視化・共有・料金の4軸で比較
+- アフィリエイト: Looker Studio（無料・アフィリエイトなし）, Power BI（Microsoftパートナー制度のみ）, Tableau（Salesforceパートナー制度のみ）※一般アフィリエイトは現時点で見つからず
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-05-22）
+- ステータス: draft作成済み（2026-05-23）
 
 ## 公開済み
+- [x] SATORI vs BowNow vs HubSpot Marketing Hub MA（マーケティングオートメーション）ツール比較（2026-05-23）
 - [x] カオナビ vs HRBrain vs タレントパレット タレントマネジメントツール比較（2026-05-22）
 - [x] Sansan vs Eight Team vs CAMCARD Business 名刺管理ツール比較（2026-05-21）
 - [x] NotePM vs Kibela vs DocBase 社内Wiki・ナレッジ管理ツール比較（2026-05-20）
