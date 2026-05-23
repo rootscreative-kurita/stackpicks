@@ -3,9 +3,9 @@ title: "Looker Studio vs Power BI vs Tableau 徹底比較【2026年版】── 
 description: "中小企業に人気のBIツール3つを「データ接続・可視化・共有・料金」の4軸で徹底比較。散在するデータを一つのダッシュボードにまとめ、経営判断をデータドリブンに変えるサービスを解説します。"
 category: "比較レビュー"
 tags: ["Looker Studio", "Power BI", "Tableau", "BI", "データ分析", "データ可視化", "ダッシュボード", "中小企業", "比較"]
-publishDate: 2026-05-23
+publishDate: 2026-05-24
 heroImage: "/images/articles/hero-bi-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Looker Studio"
     url: "https://lookerstudio.google.com/"
