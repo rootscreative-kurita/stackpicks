@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 36. Looker Studio vs Power BI vs Tableau BI（データ可視化・分析）ツール比較 ← 執筆中
+### 37. Zoom Phone vs BIZTEL vs MiiTel クラウドPBX・IP電話ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: Excelでの手動レポート作成に限界を感じ、データの可視化・分析を効率化したい中小企業
-- 切り口: データ接続・可視化・共有・料金の4軸で比較
-- アフィリエイト: Looker Studio（無料・アフィリエイトなし）, Power BI（Microsoftパートナー制度のみ）, Tableau（Salesforceパートナー制度のみ）※一般アフィリエイトは現時点で見つからず
+- ターゲット: オフィスの固定電話をクラウド化し、リモートワーク・外出先でも会社番号で発着信したい中小企業
+- 切り口: 通話品質・機能・連携・料金の4軸で比較
+- アフィリエイト: Zoom Phone（一般アフィリエイトなし）, BIZTEL（パートナー制度のみ）, MiiTel（パートナー制度のみ）※一般アフィリエイトは現時点で見つからず
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-05-23）
+- ステータス: draft作成済み（2026-05-24）
 
 ## 公開済み
+- [x] Looker Studio vs Power BI vs Tableau BI（データ可視化・分析）ツール比較（2026-05-24）
 - [x] SATORI vs BowNow vs HubSpot Marketing Hub MA（マーケティングオートメーション）ツール比較（2026-05-23）
 - [x] カオナビ vs HRBrain vs タレントパレット タレントマネジメントツール比較（2026-05-22）
 - [x] Sansan vs Eight Team vs CAMCARD Business 名刺管理ツール比較（2026-05-21）
