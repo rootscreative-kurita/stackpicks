@@ -3,9 +3,9 @@ title: "Zoom Phone vs BIZTEL vs MiiTel 徹底比較【2026年版】── 中小
 description: "中小企業に人気のクラウドPBX・IP電話サービス3つを「通話品質・機能・連携・料金」の4軸で徹底比較。オフィスの固定電話をクラウド化し、場所を選ばない電話環境を実現するサービスを解説します。"
 category: "比較レビュー"
 tags: ["Zoom Phone", "BIZTEL", "MiiTel", "クラウドPBX", "IP電話", "ビジネスフォン", "CTI", "中小企業", "比較"]
-publishDate: 2026-05-24
+publishDate: 2026-05-25
 heroImage: "/images/articles/hero-cloud-pbx.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Zoom Phone"
     url: "https://zoom.us/ja/phone"
