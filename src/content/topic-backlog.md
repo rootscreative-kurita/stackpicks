@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 37. Zoom Phone vs BIZTEL vs MiiTel クラウドPBX・IP電話ツール比較 ← 執筆中
+### 38. Salesforce Sales Cloud vs HubSpot Sales Hub vs Mazrica Sales SFA（営業支援）ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: オフィスの固定電話をクラウド化し、リモートワーク・外出先でも会社番号で発着信したい中小企業
-- 切り口: 通話品質・機能・連携・料金の4軸で比較
-- アフィリエイト: Zoom Phone（一般アフィリエイトなし）, BIZTEL（パートナー制度のみ）, MiiTel（パートナー制度のみ）※一般アフィリエイトは現時点で見つからず
+- ターゲット: 営業活動の属人化を脱却し、案件管理・売上予測・チームの営業力底上げを目指す中小企業
+- 切り口: 案件管理・自動化・分析・料金の4軸で比較
+- アフィリエイト: Salesforce（一般アフィリエイトなし）, HubSpot（公式アフィリエイト 30%継続報酬 https://www.hubspot.com/partners/affiliates）, Mazrica Sales（一般アフィリエイトなし）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-05-24）
+- ステータス: draft作成済み（2026-05-25）
 
 ## 公開済み
+- [x] Zoom Phone vs BIZTEL vs MiiTel クラウドPBX・IP電話ツール比較（2026-05-25）
 - [x] Looker Studio vs Power BI vs Tableau BI（データ可視化・分析）ツール比較（2026-05-24）
 - [x] SATORI vs BowNow vs HubSpot Marketing Hub MA（マーケティングオートメーション）ツール比較（2026-05-23）
 - [x] カオナビ vs HRBrain vs タレントパレット タレントマネジメントツール比較（2026-05-22）
