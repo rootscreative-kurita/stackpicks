@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 38. Salesforce Sales Cloud vs HubSpot Sales Hub vs Mazrica Sales SFA（営業支援）ツール比較 ← 執筆中
+### 39. UiPath vs BizRobo! vs WinActor RPA（業務自動化）ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 営業活動の属人化を脱却し、案件管理・売上予測・チームの営業力底上げを目指す中小企業
-- 切り口: 案件管理・自動化・分析・料金の4軸で比較
-- アフィリエイト: Salesforce（一般アフィリエイトなし）, HubSpot（公式アフィリエイト 30%継続報酬 https://www.hubspot.com/partners/affiliates）, Mazrica Sales（一般アフィリエイトなし）
+- ターゲット: 定型業務の手作業・転記作業に時間を取られ、限られた人手で生産性を上げたい中小企業
+- 切り口: 操作性・自動化範囲・AI連携・料金の4軸で比較
+- アフィリエイト: UiPath（一般アフィリエイトなし・パートナー制度のみ）, BizRobo!（一般アフィリエイトなし）, WinActor（一般アフィリエイトなし・代理店制度のみ）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-05-25）
+- ステータス: draft作成済み（2026-05-26）
 
 ## 公開済み
+- [x] Salesforce Sales Cloud vs HubSpot Sales Hub vs Mazrica Sales SFA（営業支援）ツール比較（2026-05-26）
 - [x] Zoom Phone vs BIZTEL vs MiiTel クラウドPBX・IP電話ツール比較（2026-05-25）
 - [x] Looker Studio vs Power BI vs Tableau BI（データ可視化・分析）ツール比較（2026-05-24）
 - [x] SATORI vs BowNow vs HubSpot Marketing Hub MA（マーケティングオートメーション）ツール比較（2026-05-23）
