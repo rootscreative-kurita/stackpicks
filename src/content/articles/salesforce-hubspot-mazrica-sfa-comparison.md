@@ -3,9 +3,9 @@ title: "Salesforce Sales Cloud vs HubSpot Sales Hub vs Mazrica Sales 徹底比�
 description: "中小企業に人気のSFA（営業支援）ツール3つを「案件管理・自動化・分析・料金」の4軸で徹底比較。営業活動を可視化し、属人化から脱却するためのサービスを解説します。"
 category: "比較レビュー"
 tags: ["Salesforce", "HubSpot", "Mazrica Sales", "SFA", "営業支援", "CRM", "案件管理", "中小企業", "比較"]
-publishDate: 2026-05-25
+publishDate: 2026-05-26
 heroImage: "/images/articles/hero-sfa-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Salesforce Sales Cloud"
     url: "https://www.salesforce.com/jp/products/sales-cloud/"
