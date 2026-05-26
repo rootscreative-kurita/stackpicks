@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 39. UiPath vs BizRobo! vs WinActor RPA（業務自動化）ツール比較 ← 執筆中
+### 40. Zapier vs Make vs Power Automate iPaaS（ノーコード業務連携）ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 定型業務の手作業・転記作業に時間を取られ、限られた人手で生産性を上げたい中小企業
-- 切り口: 操作性・自動化範囲・AI連携・料金の4軸で比較
-- アフィリエイト: UiPath（一般アフィリエイトなし・パートナー制度のみ）, BizRobo!（一般アフィリエイトなし）, WinActor（一般アフィリエイトなし・代理店制度のみ）
+- ターゲット: 複数のSaaSを手作業でつないでおり、データの転記や通知の自動化で業務効率を上げたい中小企業
+- 切り口: 連携アプリ数・操作性・自動化の柔軟性・料金の4軸で比較
+- アフィリエイト: Zapier（パートナープログラムあり・要申請）, Make（アフィリエイトあり・初回50%+継続20%×24ヶ月）, Power Automate（Microsoft 365アフィリエイト・楽天リンクシェア経由）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-05-26）
+- ステータス: draft作成済み（2026-05-27）
 
 ## 公開済み
+- [x] UiPath vs BizRobo! vs WinActor RPA（業務自動化）ツール比較（2026-05-27）
 - [x] Salesforce Sales Cloud vs HubSpot Sales Hub vs Mazrica Sales SFA（営業支援）ツール比較（2026-05-26）
 - [x] Zoom Phone vs BIZTEL vs MiiTel クラウドPBX・IP電話ツール比較（2026-05-25）
 - [x] Looker Studio vs Power BI vs Tableau BI（データ可視化・分析）ツール比較（2026-05-24）
