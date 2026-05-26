@@ -3,9 +3,9 @@ title: "UiPath vs BizRobo! vs WinActor 徹底比較【2026年版】── 中小
 description: "中小企業に人気のRPA（業務自動化）ツール3つを「操作性・自動化範囲・AI連携・料金」の4軸で徹底比較。定型業務を自動化し、限られた人手で生産性を最大化するためのサービスを解説します。"
 category: "比較レビュー"
 tags: ["UiPath", "BizRobo!", "WinActor", "RPA", "業務自動化", "ノーコード", "DX", "中小企業", "比較"]
-publishDate: 2026-05-26
+publishDate: 2026-05-27
 heroImage: "/images/articles/hero-rpa-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "UiPath"
     url: "https://www.uipath.com/ja"
