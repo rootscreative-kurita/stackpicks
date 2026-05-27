@@ -3,9 +3,9 @@ title: "Zapier vs Make vs Power Automate 徹底比較【2026年版】── 中�
 description: "中小企業に人気のiPaaS（ノーコード業務連携）ツール3つを「連携アプリ数・操作性・自動化の柔軟性・料金」の4軸で徹底比較。バラバラのSaaSを一気通貫でつなぎ、手作業のデータ転記から解放されるためのサービスを解説します。"
 category: "比較レビュー"
 tags: ["Zapier", "Make", "Power Automate", "iPaaS", "ノーコード", "業務自動化", "SaaS連携", "中小企業", "比較"]
-publishDate: 2026-05-27
+publishDate: 2026-05-28
 heroImage: "/images/articles/hero-ipaas-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Zapier"
     url: "https://zapier.com/"
