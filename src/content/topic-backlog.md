@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 40. Zapier vs Make vs Power Automate iPaaS（ノーコード業務連携）ツール比較 ← 執筆中
+### 41. Schoo for Business vs Udemy Business vs グロービス学び放題 eラーニング（オンライン研修）ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 複数のSaaSを手作業でつないでおり、データの転記や通知の自動化で業務効率を上げたい中小企業
-- 切り口: 連携アプリ数・操作性・自動化の柔軟性・料金の4軸で比較
-- アフィリエイト: Zapier（パートナープログラムあり・要申請）, Make（アフィリエイトあり・初回50%+継続20%×24ヶ月）, Power Automate（Microsoft 365アフィリエイト・楽天リンクシェア経由）
+- ターゲット: 社員研修をオンライン化・効率化したい中小企業
+- 切り口: コンテンツ数・カスタマイズ性・受講管理・料金の4軸で比較
+- アフィリエイト: グロービス学び放題（A8.net・新規有料登録¥1,000）, Udemy（Impact.com経由・要申請）, Schoo（A8.net 学び・資格カテゴリに掲載可能性あり・要確認）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-05-27）
+- ステータス: draft作成済み（2026-05-28）
 
 ## 公開済み
+- [x] Zapier vs Make vs Power Automate iPaaS（ノーコード業務連携）ツール比較（2026-05-28）
 - [x] UiPath vs BizRobo! vs WinActor RPA（業務自動化）ツール比較（2026-05-27）
 - [x] Salesforce Sales Cloud vs HubSpot Sales Hub vs Mazrica Sales SFA（営業支援）ツール比較（2026-05-26）
 - [x] Zoom Phone vs BIZTEL vs MiiTel クラウドPBX・IP電話ツール比較（2026-05-25）
