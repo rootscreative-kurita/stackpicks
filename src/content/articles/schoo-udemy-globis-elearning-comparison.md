@@ -3,9 +3,9 @@ title: "Schoo for Business vs Udemy Business vs グロービス学び放題 徹�
 description: "中小企業に人気のeラーニング（オンライン研修）ツール3つを「コンテンツ数・カスタマイズ性・受講管理・料金」の4軸で徹底比較。社員研修をオンライン化し、育成コストを最適化するためのサービスを解説します。"
 category: "比較レビュー"
 tags: ["Schoo", "Udemy Business", "グロービス学び放題", "eラーニング", "オンライン研修", "社員研修", "人材育成", "中小企業", "比較"]
-publishDate: 2026-05-28
+publishDate: 2026-05-29
 heroImage: "/images/articles/hero-elearning-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Schoo for Business"
     url: "https://schoo.jp/biz/"
