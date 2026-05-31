@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 41. Schoo for Business vs Udemy Business vs グロービス学び放題 eラーニング（オンライン研修）ツール比較 ← 執筆中
+### 42. kintone vs Airtable vs AppSheet ノーコード業務アプリ開発ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 社員研修をオンライン化・効率化したい中小企業
-- 切り口: コンテンツ数・カスタマイズ性・受講管理・料金の4軸で比較
-- アフィリエイト: グロービス学び放題（A8.net・新規有料登録¥1,000）, Udemy（Impact.com経由・要申請）, Schoo（A8.net 学び・資格カテゴリに掲載可能性あり・要確認）
+- ターゲット: Excel管理から脱却し、業務アプリをノーコードで内製したい中小企業
+- 切り口: アプリ構築の自由度・テンプレート・外部連携・料金の4軸で比較
+- アフィリエイト: kintone（A8.net・要申請）, Airtable（日本向けアフィリエイトなし）, AppSheet（アフィリエイトなし）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-05-28）
+- ステータス: draft作成済み（2026-06-01）
 
 ## 公開済み
+- [x] Schoo for Business vs Udemy Business vs グロービス学び放題 eラーニング（オンライン研修）ツール比較（2026-05-29）
 - [x] Zapier vs Make vs Power Automate iPaaS（ノーコード業務連携）ツール比較（2026-05-28）
 - [x] UiPath vs BizRobo! vs WinActor RPA（業務自動化）ツール比較（2026-05-27）
 - [x] Salesforce Sales Cloud vs HubSpot Sales Hub vs Mazrica Sales SFA（営業支援）ツール比較（2026-05-26）
