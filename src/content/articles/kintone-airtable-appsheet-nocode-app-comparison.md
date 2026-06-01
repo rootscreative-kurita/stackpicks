@@ -3,9 +3,9 @@ title: "kintone vs Airtable vs AppSheet 徹底比較【2026年版】── 中�
 description: "中小企業に人気のノーコード業務アプリ開発ツール3つを「アプリ構築の自由度・テンプレート・外部連携・料金」の4軸で徹底比較。Excelや紙管理から脱却し、自社専用の業務アプリを内製するためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["kintone", "Airtable", "AppSheet", "ノーコード", "業務アプリ", "ローコード", "業務効率化", "中小企業", "比較"]
-publishDate: 2026-06-01
+publishDate: 2026-06-02
 heroImage: "/images/articles/hero-nocode-app-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "kintone"
     url: "https://kintone.cybozu.co.jp/"
