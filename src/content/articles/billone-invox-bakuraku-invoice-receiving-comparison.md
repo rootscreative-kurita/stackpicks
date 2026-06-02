@@ -3,9 +3,9 @@ title: "Bill One vs invox vs バクラク 徹底比較【2026年版】── 中
 description: "中小企業に人気の請求書受領クラウドサービス3つを「データ化精度・会計ソフト連携・インボイス制度対応・料金」の4軸で徹底比較。届いた請求書の手入力をなくし、月次決算を加速するためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["Bill One", "invox", "バクラク", "請求書受領", "インボイス制度", "電子帳簿保存法", "経理DX", "中小企業", "比較"]
-publishDate: 2026-06-02
+publishDate: 2026-06-03
 heroImage: "/images/articles/hero-invoice-receiving.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Bill One"
     url: "https://bill-one.com/"
