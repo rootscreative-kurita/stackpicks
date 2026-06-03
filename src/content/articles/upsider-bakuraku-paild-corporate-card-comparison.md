@@ -3,9 +3,9 @@ title: "UPSIDER vs バクラクビジネスカード vs Paild 徹底比較【202
 description: "中小企業に人気のクラウド型法人カード3つを「発行スピード・利用限度額・会計ソフト連携・コスト」の4軸で徹底比較。立替精算や経費の手入力をなくし、リアルタイムで支出を可視化するためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["UPSIDER", "バクラクビジネスカード", "Paild", "法人カード", "コーポレートカード", "経費管理", "経理DX", "中小企業", "比較"]
-publishDate: 2026-06-03
+publishDate: 2026-06-04
 heroImage: "/images/articles/hero-corporate-card-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "UPSIDER"
     url: "https://up-sider.com/"
