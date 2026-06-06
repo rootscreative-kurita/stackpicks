@@ -3,9 +3,9 @@ title: "Wevox vs モチベーションクラウド vs ラフールサーベイ �
 description: "中小企業に人気のエンゲージメントサーベイ3つを「設問設計・分析機能・改善サポート・料金」の4軸で徹底比較。従業員の本音を可視化し、離職防止と組織改善を実現するためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["Wevox", "モチベーションクラウド", "ラフールサーベイ", "エンゲージメントサーベイ", "組織サーベイ", "従業員満足度", "離職防止", "中小企業", "比較"]
-publishDate: 2026-06-06
+publishDate: 2026-06-07
 heroImage: "/images/articles/hero-engagement-survey.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Wevox"
     url: "https://get.wevox.io/"
