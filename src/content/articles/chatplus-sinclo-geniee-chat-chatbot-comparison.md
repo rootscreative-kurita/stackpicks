@@ -3,9 +3,9 @@ title: "ChatPlus vs sinclo vs GENIEE CHAT 徹底比較【2026年版】── 中
 description: "中小企業に人気のチャットボット・Web接客ツール3つを「シナリオ構築・AI精度・有人連携・料金」の4軸で徹底比較。Webサイトの問い合わせ対応を自動化し、CVR向上を実現するためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["ChatPlus", "sinclo", "GENIEE CHAT", "チャットボット", "Web接客", "CVR改善", "問い合わせ自動化", "中小企業", "比較"]
-publishDate: 2026-06-07
+publishDate: 2026-06-08
 heroImage: "/images/articles/hero-chatbot-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "ChatPlus"
     url: "https://chatplus.jp/"
