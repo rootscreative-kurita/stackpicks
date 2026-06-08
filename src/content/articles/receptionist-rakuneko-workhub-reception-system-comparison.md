@@ -3,9 +3,9 @@ title: "RECEPTIONIST vs ラクネコ vs workhub Reception 徹底比較【2026年
 description: "中小企業に人気のクラウド受付システム3つを「受付フロー・通知連携・来訪者管理・料金」の4軸で徹底比較。iPadで来客対応を無人化し、受付業務の効率化を実現するためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["RECEPTIONIST", "ラクネコ", "workhub Reception", "受付システム", "無人受付", "来客管理", "オフィスDX", "中小企業", "比較"]
-publishDate: 2026-06-08
+publishDate: 2026-06-09
 heroImage: "/images/articles/hero-reception-system.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "RECEPTIONIST"
     url: "https://receptionist.jp/"
