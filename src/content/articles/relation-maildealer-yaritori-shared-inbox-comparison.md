@@ -3,9 +3,9 @@ title: "Re:lation vs メールディーラー vs yaritori 徹底比較【2026年
 description: "中小企業に人気のメール共有・問い合わせ管理ツール3つを「対応ステータス管理・マルチチャネル対応・分析機能・料金」の4軸で徹底比較。チーム全員でメール対応を共有し、対応漏れ・二重対応をなくすためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["Re:lation", "メールディーラー", "yaritori", "メール共有", "問い合わせ管理", "対応漏れ防止", "チームメール", "中小企業", "比較"]
-publishDate: 2026-06-09
+publishDate: 2026-06-23
 heroImage: "/images/articles/hero-shared-inbox-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Re:lation"
     url: "https://ingage.jp/relation/"
