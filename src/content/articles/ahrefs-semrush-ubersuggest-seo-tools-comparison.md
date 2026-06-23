@@ -3,9 +3,9 @@ title: "Ahrefs vs Semrush vs Ubersuggest 徹底比較【2026年版】── 中�
 description: "中小企業に人気のSEO分析ツール3つを「キーワードリサーチ・被リンク分析・競合調査・料金」の4軸で徹底比較。自社サイトの検索順位を伸ばし、コンテンツ戦略を強化するためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["Ahrefs", "Semrush", "Ubersuggest", "SEO", "SEOツール", "キーワードリサーチ", "被リンク分析", "競合分析", "中小企業", "比較"]
-publishDate: 2026-06-23
+publishDate: 2026-06-24
 heroImage: "/images/articles/hero-seo-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Ahrefs"
     url: "https://ahrefs.com/"
