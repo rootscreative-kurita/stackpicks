@@ -4,15 +4,16 @@
 
 ## 執筆待ち
 
-### 50. Ahrefs vs Semrush vs Ubersuggest SEO分析ツール比較 ← 執筆中
+### 51. Teachme Biz vs tebiki vs ヘルプドッグマニュアル クラウドマニュアル作成ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: SEO対策を始めたい、またはデータに基づく戦略を強化したい中小企業
-- 切り口: キーワードリサーチ・被リンク分析・競合調査・料金の4軸で比較
-- アフィリエイト: Ahrefs公開プログラムなし、Semrush Impactアフィリエイト（$200/sale）、Ubersuggest未確認
+- ターゲット: 業務マニュアルの作成・共有・管理を効率化したい中小企業
+- 切り口: マニュアル作成方式・AI機能/多言語対応・教育管理・料金の4軸で比較
+- アフィリエイト: 3サービスともASPプログラムなし。Teachme Bizは販売代理店向けアライアンスプログラムあり
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-06-23）
+- ステータス: draft作成済み（2026-06-24）
 
 ## 公開済み
+- [x] Ahrefs vs Semrush vs Ubersuggest SEO分析ツール比較（2026-06-24）
 - [x] Re:lation vs メールディーラー vs yaritori メール共有・問い合わせ管理ツール比較（2026-06-23）
 - [x] RECEPTIONIST vs ラクネコ vs workhub Reception クラウド受付システム比較（2026-06-09）
 - [x] ChatPlus vs sinclo vs GENIEE CHAT チャットボット・Web接客ツール比較（2026-06-08）
