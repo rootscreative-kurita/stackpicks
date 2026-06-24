@@ -3,9 +3,9 @@ title: "Teachme Biz vs tebiki vs ヘルプドッグマニュアル 徹底比較�
 description: "中小企業に人気のクラウドマニュアル作成ツール3つを「作成方式・AI機能・教育管理・料金」の4軸で徹底比較。業務マニュアルの作成・共有・管理を効率化し、属人化を解消するためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["Teachme Biz", "tebiki", "ヘルプドッグマニュアル", "マニュアル作成", "動画マニュアル", "業務標準化", "ナレッジ共有", "中小企業", "比較"]
-publishDate: 2026-06-24
+publishDate: 2026-06-25
 heroImage: "/images/articles/hero-manual-creation-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Teachme Biz"
     url: "https://biz.teachme.jp/"
