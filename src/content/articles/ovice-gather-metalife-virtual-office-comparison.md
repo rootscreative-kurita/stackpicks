@@ -3,9 +3,9 @@ title: "oVice vs Gather vs MetaLife 徹底比較【2026年版】── 中小企
 description: "中小企業に人気のバーチャルオフィスツール3つを「コミュニケーション方式・空間カスタマイズ・外部ツール連携・料金」の4軸で徹底比較。リモートワークの孤立感を解消し、チームの一体感を維持するためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["oVice", "Gather", "MetaLife", "バーチャルオフィス", "リモートワーク", "テレワーク", "仮想オフィス", "メタバース", "中小企業", "比較"]
-publishDate: 2026-06-25
+publishDate: 2026-06-26
 heroImage: "/images/articles/hero-virtual-office-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "oVice"
     url: "https://www.ovice.com/ja"
