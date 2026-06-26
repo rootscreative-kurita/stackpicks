@@ -3,9 +3,9 @@ title: "fondesk vs e秘書 vs CUBE電話代行 徹底比較【2026年版】─�
 description: "中小企業に人気の電話代行サービス3つを「セットアップの手軽さ・通知連携・対応品質・料金」の4軸で徹底比較。代表電話の一次対応を外部に任せて業務に集中するためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["fondesk", "e秘書", "CUBE電話代行", "電話代行", "電話受付代行", "バックオフィス", "業務効率化", "中小企業", "比較"]
-publishDate: 2026-06-26
+publishDate: 2026-06-27
 heroImage: "/images/articles/hero-phone-reception-service.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "fondesk"
     url: "https://www.fondesk.jp/"
