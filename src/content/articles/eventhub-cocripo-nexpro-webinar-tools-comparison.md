@@ -3,9 +3,9 @@ title: "EventHub vs Cocripo vs ネクプロ 徹底比較【2026年版】── �
 description: "中小企業に人気のウェビナーツール3つを「配信機能・集客/申込管理・分析/MA連携・料金」の4軸で徹底比較。オンラインセミナーでリード獲得・商談化率を高めるためのサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["EventHub", "Cocripo", "ネクプロ", "ウェビナー", "オンラインセミナー", "リード獲得", "マーケティング", "中小企業", "比較"]
-publishDate: 2026-06-27
+publishDate: 2026-06-28
 heroImage: "/images/articles/hero-webinar-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "EventHub"
     url: "https://eventhub.jp/"
