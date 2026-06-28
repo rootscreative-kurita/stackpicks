@@ -3,9 +3,9 @@ title: "Ptengine vs ミエルカヒートマップ vs Microsoft Clarity 徹底�
 description: "中小企業に人気のヒートマップ・Web行動分析ツール3つを「ヒートマップ機能・分析の深さ・導入の手軽さ・料金」の4軸で徹底比較。Webサイトのコンバージョン改善に取り組むためのツール選びを解説します。"
 category: "比較レビュー"
 tags: ["Ptengine", "ミエルカヒートマップ", "Microsoft Clarity", "ヒートマップ", "Web分析", "CRO", "コンバージョン改善", "中小企業", "比較"]
-publishDate: 2026-06-28
+publishDate: 2026-06-29
 heroImage: "/images/articles/hero-heatmap-analytics.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Ptengine"
     url: "https://www.ptengine.jp/"
