@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 58. （次回トピック未定）
+### 59. （次回トピック未定）
 
 ## 執筆中
 
-### 57. LANSCOPE エンドポイントマネージャー vs SKYSEA Client View vs ISM CloudOne クラウドIT資産管理ツール比較 ← 執筆中
+### 58. TeamViewer vs AnyDesk vs Splashtop リモートデスクトップツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: テレワーク端末の管理・情報漏洩対策・ISMS/Pマーク対応を進めたい中小企業
-- 切り口: デバイス管理・セキュリティ対策・操作ログ管理・料金の4軸で比較
-- アフィリエイト: 3サービスともA8.net・もしもアフィリエイトにプログラムなし。販売代理店向けパートナー制度のみ
+- ターゲット: テレワーク環境構築・遠隔サポート・外出先からの業務PCアクセスを実現したい中小企業
+- 切り口: 接続品質・セキュリティ・管理機能・料金の4軸で比較
+- アフィリエイト: TeamViewer（CJ Affiliate経由・CPS $20〜$405）、AnyDesk（公式アフィリエイト5〜15%）、Splashtop（販売代理店制度のみ）。A8.net・もしもアフィリエイトにはプログラムなし
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-06-30）
+- ステータス: draft作成済み（2026-07-01）
 
 ## 公開済み
+- [x] LANSCOPE エンドポイントマネージャー vs SKYSEA Client View vs ISM CloudOne クラウドIT資産管理ツール比較（2026-07-01）
 - [x] SurveyMonkey vs CREATIVE SURVEY vs Questant クラウドアンケート・調査ツール比較（2026-06-30）
 - [x] Ptengine vs ミエルカヒートマップ vs Microsoft Clarity ヒートマップ・Web行動分析ツール比較（2026-06-29）
 - [x] EventHub vs Cocripo vs ネクプロ ウェビナーツール比較（2026-06-28）
