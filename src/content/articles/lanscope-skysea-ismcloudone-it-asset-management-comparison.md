@@ -3,9 +3,9 @@ title: "LANSCOPE エンドポイントマネージャー vs SKYSEA Client View v
 description: "中小企業に人気のIT資産管理ツール3つを「デバイス管理・セキュリティ対策・操作ログ管理・料金」の4軸で徹底比較。テレワーク時代のPC管理・情報漏洩対策に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["LANSCOPE", "SKYSEA Client View", "ISM CloudOne", "IT資産管理", "エンドポイント管理", "セキュリティ", "テレワーク", "中小企業", "比較"]
-publishDate: 2026-06-30
+publishDate: 2026-07-01
 heroImage: "/images/articles/hero-it-asset-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "LANSCOPE エンドポイントマネージャー"
     url: "https://www.lanscope.jp/endpoint-manager/"
