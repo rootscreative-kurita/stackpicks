@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 59. （次回トピック未定）
+### 60. （次回トピック未定）
 
 ## 執筆中
 
-### 58. TeamViewer vs AnyDesk vs Splashtop リモートデスクトップツール比較 ← 執筆中
+### 59. トヨクモ安否確認サービス2 vs ANPIC vs セコム安否確認サービス 安否確認システム比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: テレワーク環境構築・遠隔サポート・外出先からの業務PCアクセスを実現したい中小企業
-- 切り口: 接続品質・セキュリティ・管理機能・料金の4軸で比較
-- アフィリエイト: TeamViewer（CJ Affiliate経由・CPS $20〜$405）、AnyDesk（公式アフィリエイト5〜15%）、Splashtop（販売代理店制度のみ）。A8.net・もしもアフィリエイトにはプログラムなし
+- ターゲット: 災害時の従業員安否確認・BCP対策を整備したい中小企業
+- 切り口: 通知・回答機能・管理機能・BCP対策・料金の4軸で比較
+- アフィリエイト: A8.net・もしもアフィリエイトにはプログラムなし。トヨクモにパートナー制度あり（https://toyokumo.co.jp/partners/）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-07-01）
+- ステータス: draft作成済み（2026-07-03）
 
 ## 公開済み
+- [x] TeamViewer vs AnyDesk vs Splashtop リモートデスクトップツール比較（2026-07-03）
 - [x] LANSCOPE エンドポイントマネージャー vs SKYSEA Client View vs ISM CloudOne クラウドIT資産管理ツール比較（2026-07-01）
 - [x] SurveyMonkey vs CREATIVE SURVEY vs Questant クラウドアンケート・調査ツール比較（2026-06-30）
 - [x] Ptengine vs ミエルカヒートマップ vs Microsoft Clarity ヒートマップ・Web行動分析ツール比較（2026-06-29）
