@@ -3,9 +3,9 @@ title: "トヨクモ安否確認サービス2 vs ANPIC vs セコム安否確認�
 description: "中小企業に人気の安否確認システム3つを「通知・回答機能・管理機能・BCP対策・料金」の4軸で徹底比較。災害時の従業員安否確認とBCP対策に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["安否確認", "BCP", "防災", "トヨクモ", "ANPIC", "セコム", "災害対策", "中小企業", "比較"]
-publishDate: 2026-07-03
+publishDate: 2026-07-04
 heroImage: "/images/articles/hero-safety-confirmation.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "トヨクモ 安否確認サービス2"
     url: "https://www.anpikakunin.com/"
