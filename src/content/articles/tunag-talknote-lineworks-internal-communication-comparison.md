@@ -3,9 +3,9 @@ title: "TUNAG vs Talknote vs LINE WORKS 徹底比較【2026年版】── 中�
 description: "中小企業に人気の社内コミュニケーションツール3つを「情報共有・エンゲージメント・管理機能・料金」の4軸で徹底比較。社内SNSで組織の一体感を高めたい企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["社内SNS", "社内コミュニケーション", "TUNAG", "Talknote", "LINE WORKS", "エンゲージメント", "中小企業", "比較"]
-publishDate: 2026-07-04
+publishDate: 2026-07-07
 heroImage: "/images/articles/hero-internal-communication-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "TUNAG"
     url: "https://tunag.jp/"
