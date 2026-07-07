@@ -3,9 +3,9 @@ title: "zaico vs ロジクラ vs スマートマットクラウド 徹底比較�
 description: "中小企業に人気のクラウド在庫管理ツール3つを「在庫管理・入出庫・分析・料金」の4軸で徹底比較。Excelや紙の台帳から脱却し、在庫の見える化を実現したい企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["在庫管理", "クラウド在庫管理", "zaico", "ロジクラ", "スマートマットクラウド", "IoT", "中小企業", "比較"]
-publishDate: 2026-07-07
+publishDate: 2026-07-08
 heroImage: "/images/articles/hero-inventory-management-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "zaico"
     url: "https://www.zaico.co.jp/"
