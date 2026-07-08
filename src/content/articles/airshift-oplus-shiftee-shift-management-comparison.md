@@ -3,9 +3,9 @@ title: "Airシフト vs oplus vs SHIFTEE 徹底比較【2026年版】── 中�
 description: "中小企業に人気のクラウドシフト管理ツール3つを「シフト作成・スタッフ連携・勤怠連携・料金」の4軸で徹底比較。Excelやホワイトボードでのシフト作成から脱却し、シフト管理の効率化を実現したい企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["シフト管理", "クラウドシフト管理", "Airシフト", "oplus", "SHIFTEE", "勤怠管理", "中小企業", "比較"]
-publishDate: 2026-07-08
+publishDate: 2026-07-09
 heroImage: "/images/articles/hero-shift-management-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Airシフト"
     url: "https://airregi.jp/shift/"
