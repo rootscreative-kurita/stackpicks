@@ -3,9 +3,9 @@ title: "サイボウズ Office vs desknet's NEO vs NI Collabo 360 徹底比較�
 description: "中小企業に人気の国産クラウドグループウェア3つを「スケジュール・情報共有・ワークフロー・カスタマイズ性・料金」の軸で徹底比較。メールやExcelに頼った社内連携から脱却し、チームの情報共有と業務効率化を実現したい企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["グループウェア", "クラウドグループウェア", "サイボウズ Office", "desknet's NEO", "NI Collabo 360", "情報共有", "中小企業", "比較"]
-publishDate: 2026-07-10
+publishDate: 2026-07-11
 heroImage: "/images/articles/hero-groupware-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "サイボウズ Office"
     url: "https://office.cybozu.co.jp/"
