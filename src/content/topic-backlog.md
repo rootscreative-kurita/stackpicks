@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 66. （次回トピック未定）
+### 67. （次回トピック未定）
 
 ## 執筆中
 
-### 65. Toggl Track vs Clockify vs TimeCrowd クラウド工数管理ツール比較 ← 執筆中
+### 66. ウイルスバスター ビジネスセキュリティサービス vs ESET PROTECT Entry vs Microsoft Defender for Business クラウドエンドポイントセキュリティ比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: Excel工数管理から脱却し、プロジェクトの収益性と業務効率を見える化したい中小企業
-- 切り口: 工数記録・レポート分析・チーム管理・外部連携・料金の5軸で比較
-- アフィリエイト: Toggl Track（PartnerStack経由・初回30%）、Clockify（CAKE.com経由・30%リカーリング最大1年）、TimeCrowd（該当なし）
+- ターゲット: ランサムウェアや標的型攻撃のリスクに備え、限られたIT人員でも全端末を守れるセキュリティ対策を導入したい中小企業
+- 切り口: マルウェア検出・管理コンソール・動作の軽さ・サポート・料金の5軸で比較
+- アフィリエイト: ウイルスバスター（リンクシェア・ジャパン経由・報酬率約15%）、ESET（バリューコマース経由・即時提携可能）、Microsoft Defender for Business（該当なし）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-07-11）
+- ステータス: draft作成済み（2026-07-12）
 
 ## 公開済み
+- [x] Toggl Track vs Clockify vs TimeCrowd クラウド工数管理ツール比較（2026-07-12）
 - [x] サイボウズ Office vs desknet's NEO vs NI Collabo 360 クラウドグループウェア比較（2026-07-11）
 - [x] Trello vs Jooto vs Todoist クラウドタスク管理ツール比較（2026-07-10）
 - [x] Airシフト vs oplus vs SHIFTEE クラウドシフト管理ツール比較（2026-07-09）
