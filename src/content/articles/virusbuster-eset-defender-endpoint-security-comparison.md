@@ -3,9 +3,9 @@ title: "ウイルスバスター ビジネスセキュリティサービス vs E
 description: "中小企業に人気のクラウドエンドポイントセキュリティ3つを「マルウェア検出・管理コンソール・動作の軽さ・サポート・料金」の5軸で徹底比較。ランサムウェアや標的型攻撃のリスクが高まるなか、限られたIT人員でも確実に全端末を守れるサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["エンドポイントセキュリティ", "ウイルス対策", "ウイルスバスター", "ESET", "Microsoft Defender", "情報セキュリティ", "中小企業", "比較"]
-publishDate: 2026-07-12
+publishDate: 2026-07-13
 heroImage: "/images/articles/hero-endpoint-security.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "ウイルスバスター ビジネスセキュリティサービス"
     url: "https://www.trendmicro.com/ja_jp/small-business.html"
