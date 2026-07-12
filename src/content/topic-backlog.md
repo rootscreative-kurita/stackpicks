@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 67. （次回トピック未定）
+### 68. （次回トピック未定）
 
 ## 執筆中
 
-### 66. ウイルスバスター ビジネスセキュリティサービス vs ESET PROTECT Entry vs Microsoft Defender for Business クラウドエンドポイントセキュリティ比較 ← 執筆中
+### 67. eFax vs MOVFAX vs メッセージプラス クラウドFAXサービス比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: ランサムウェアや標的型攻撃のリスクに備え、限られたIT人員でも全端末を守れるセキュリティ対策を導入したい中小企業
-- 切り口: マルウェア検出・管理コンソール・動作の軽さ・サポート・料金の5軸で比較
-- アフィリエイト: ウイルスバスター（リンクシェア・ジャパン経由・報酬率約15%）、ESET（バリューコマース経由・即時提携可能）、Microsoft Defender for Business（該当なし）
+- ターゲット: FAX機の維持費を削減したい、テレワーク環境でもFAXを送受信したい中小企業
+- 切り口: 送受信コスト・対応番号・管理機能・セキュリティ・使いやすさの5軸で比較
+- アフィリエイト: eFax（A8.net経由・申請ページ https://www.efax.co.jp/affiliate）、MOVFAX（該当なし）、メッセージプラス（該当なし）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-07-12）
+- ステータス: draft作成済み（2026-07-13）
 
 ## 公開済み
+- [x] ウイルスバスター ビジネスセキュリティサービス vs ESET PROTECT Entry vs Microsoft Defender for Business クラウドエンドポイントセキュリティ比較（2026-07-13）
 - [x] Toggl Track vs Clockify vs TimeCrowd クラウド工数管理ツール比較（2026-07-12）
 - [x] サイボウズ Office vs desknet's NEO vs NI Collabo 360 クラウドグループウェア比較（2026-07-11）
 - [x] Trello vs Jooto vs Todoist クラウドタスク管理ツール比較（2026-07-10）
