@@ -3,9 +3,9 @@ title: "DeepL Pro vs みらい翻訳 vs Google 翻訳 徹底比較【2026年版�
 description: "法人利用に人気のAI翻訳ツール3つを「翻訳品質・セキュリティ・業務効率化機能・導入のしやすさ・料金」の5軸で徹底比較。海外取引先とのメールや契約書翻訳で品質と機密保護の両立を目指す中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["AI翻訳", "翻訳ツール", "DeepL", "みらい翻訳", "Google翻訳", "法人向け", "中小企業", "比較"]
-publishDate: 2026-07-14
+publishDate: 2026-07-15
 heroImage: "/images/articles/hero-ai-translation-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "DeepL Pro"
     url: "https://www.deepl.com/ja/pro"
