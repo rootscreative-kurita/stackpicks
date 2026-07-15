@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 70. （次回トピック未定）
+### 71. （次回トピック未定）
 
 ## 執筆中
 
-### 69. LegalForceキャビネ vs ContractS CLM vs Hubble クラウド契約管理（CLM）ツール比較 ← 執筆中
+### 70. DX Suite vs スマートOCR vs AnyForm OCR AI-OCR（AI文字認識・帳票読取）ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 電子契約導入後、締結済み契約書の一元管理や更新期限の見落とし防止を実現したい中小企業
-- 切り口: AI機能・契約ライフサイクル管理・セキュリティ・導入のしやすさ・料金の5軸で比較
-- アフィリエイト: LegalForceキャビネ（LegalOn Technologies パートナープログラムあり）、ContractS CLM（該当なし）、Hubble（該当なし）
+- ターゲット: 紙帳票のデータ入力を自動化し、バックオフィス業務の効率化を図りたい中小企業
+- 切り口: 文字認識精度・対応帳票・連携機能・セキュリティ・料金の5軸で比較
+- アフィリエイト: DX Suite（販売パートナー制度あり）、スマートOCR（パートナー企業制度あり）、AnyForm OCR（該当なし）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-07-15）
+- ステータス: draft作成済み（2026-07-16）
 
 ## 公開済み
+- [x] LegalForceキャビネ vs ContractS CLM vs Hubble クラウド契約管理（CLM）ツール比較（2026-07-16）
 - [x] DeepL Pro vs みらい翻訳 vs Google 翻訳 AI翻訳ツール比較（2026-07-15）
 - [x] eFax vs MOVFAX vs メッセージプラス クラウドFAXサービス比較（2026-07-14）
 - [x] ウイルスバスター ビジネスセキュリティサービス vs ESET PROTECT Entry vs Microsoft Defender for Business クラウドエンドポイントセキュリティ比較（2026-07-13）
