@@ -3,9 +3,9 @@ title: "LegalForceキャビネ vs ContractS CLM vs Hubble 徹底比較【2026年
 description: "法人利用に人気のクラウド契約管理（CLM）ツール3つを「AI機能・契約ライフサイクル管理・セキュリティ・導入のしやすさ・料金」の5軸で徹底比較。電子契約の導入後、締結済み契約書の一元管理や更新期限の見落とし防止を実現したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["契約管理", "CLM", "LegalForceキャビネ", "ContractS CLM", "Hubble", "法人向け", "中小企業", "比較"]
-publishDate: 2026-07-15
+publishDate: 2026-07-16
 heroImage: "/images/articles/hero-cloud-clm-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "LegalForceキャビネ"
     url: "https://www.legalon-cloud.com/legalforce-cabinet"
