@@ -3,9 +3,9 @@ title: "DX Suite vs スマートOCR vs AnyForm OCR 徹底比較【2026年版】�
 description: "法人利用に人気のAI-OCR（AI文字認識）ツール3つを「文字認識精度・対応帳票・連携機能・セキュリティ・料金」の5軸で徹底比較。紙帳票のデータ入力を自動化し、バックオフィス業務の効率化を実現したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["AI-OCR", "文字認識", "DX Suite", "スマートOCR", "AnyForm OCR", "法人向け", "中小企業", "比較"]
-publishDate: 2026-07-16
+publishDate: 2026-07-24
 heroImage: "/images/articles/hero-ai-ocr-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "DX Suite"
     url: "https://dx-suite.com/"
