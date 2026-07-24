@@ -3,9 +3,9 @@ title: "CASTER BIZ vs フジ子さん vs HELP YOU 徹底比較【2026年版】�
 description: "法人利用に人気のオンラインアシスタント（バーチャル秘書）サービス3つを「対応業務の幅・アシスタントの質・セキュリティ・柔軟性・料金」の5軸で徹底比較。経理・人事・総務のバックオフィス業務をプロに外注し、コア業務に集中したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["オンラインアシスタント", "バーチャル秘書", "CASTER BIZ", "フジ子さん", "HELP YOU", "法人向け", "中小企業", "比較"]
-publishDate: 2026-07-24
+publishDate: 2026-07-25
 heroImage: "/images/articles/hero-online-assistant.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "CASTER BIZ"
     url: "https://cast-er.com/"
