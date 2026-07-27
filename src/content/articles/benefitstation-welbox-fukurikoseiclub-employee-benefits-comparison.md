@@ -3,9 +3,9 @@ title: "ベネフィット・ステーション vs WELBOX vs 福利厚生倶楽�
 description: "法人利用に人気の福利厚生アウトソーシングサービス3つを「メニュー数・利用率・健康経営対応・導入柔軟性・料金」の5軸で徹底比較。従業員の満足度向上と定着率アップを実現したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["福利厚生", "福利厚生アウトソーシング", "ベネフィット・ステーション", "WELBOX", "福利厚生倶楽部", "法人向け", "中小企業", "比較"]
-publishDate: 2026-07-25
+publishDate: 2026-07-28
 heroImage: "/images/articles/hero-employee-benefits-service.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "ベネフィット・ステーション"
     url: "https://bs.benefit-one.co.jp/"
