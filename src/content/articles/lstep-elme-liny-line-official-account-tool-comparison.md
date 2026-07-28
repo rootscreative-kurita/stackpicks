@@ -3,9 +3,9 @@ title: "Lステップ vs エルメ vs Liny 徹底比較【2026年版】── �
 description: "LINE公式アカウントの機能を大幅に拡張する人気ツール3つを「配信・自動化機能・顧客管理・リッチメニュー・分析・料金」の5軸で徹底比較。LINE経由の集客・リピート率を高めたい中小企業に最適なツール選びを解説します。"
 category: "比較レビュー"
 tags: ["LINE公式アカウント", "LINE拡張ツール", "Lステップ", "エルメ", "Liny", "法人向け", "中小企業", "比較"]
-publishDate: 2026-07-28
+publishDate: 2026-07-29
 heroImage: "/images/articles/hero-line-marketing-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Lステップ"
     url: "https://linestep.jp/lp/01/"
