@@ -3,9 +3,9 @@ title: "Paid vs NP掛け払い vs マネーフォワード ケッサイ 徹底�
 description: "BtoB取引の請求・回収業務を自動化する人気の掛け払い決済代行サービス3つを「与信審査・請求代行・入金管理・未回収リスク保証・手数料・連携」の6軸で徹底比較。売掛金の回収リスクと経理負担を減らしたい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["BtoB決済", "掛け払い", "請求代行", "Paid", "NP掛け払い", "マネーフォワード ケッサイ", "法人向け", "中小企業", "比較"]
-publishDate: 2026-07-29
+publishDate: 2026-07-30
 heroImage: "/images/articles/hero-btob-payment-service.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Paid"
     url: "https://paid.jp/"
