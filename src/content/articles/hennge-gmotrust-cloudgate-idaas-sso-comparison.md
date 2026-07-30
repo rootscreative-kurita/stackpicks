@@ -3,9 +3,9 @@ title: "HENNGE One vs GMOトラスト・ログイン vs CloudGate UNO 徹底比�
 description: "クラウドサービスのID管理・シングルサインオン（SSO）を実現する人気IDaaSツール3つを「SSO対応・多要素認証・ユーザー管理・セキュリティポリシー・料金」の5軸で徹底比較。SaaS増加に伴うパスワード管理の煩雑さと情報漏えいリスクを解消したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["IDaaS", "SSO", "シングルサインオン", "HENNGE One", "GMOトラスト・ログイン", "CloudGate UNO", "ID管理", "中小企業", "比較"]
-publishDate: 2026-07-30
+publishDate: 2026-07-31
 heroImage: "/images/articles/hero-idaas-sso-security.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "HENNGE One"
     url: "https://hennge.com/jp/service/one/"
