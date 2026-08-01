@@ -3,9 +3,9 @@ title: "Carely vs ストレスチェッカー vs WELSA 徹底比較【2026年版
 description: "従業員の健康管理とストレスチェック義務化に対応する人気クラウドツール3つを「ストレスチェック機能・健康診断データ管理・産業医連携・分析レポート・料金」の5軸で徹底比較。法令対応と健康経営の両立を目指す中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["健康管理", "ストレスチェック", "Carely", "ストレスチェッカー", "WELSA", "健康経営", "中小企業", "比較"]
-publishDate: 2026-08-01
+publishDate: 2026-08-02
 heroImage: "/images/articles/hero-health-management-stresscheck.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Carely"
     url: "https://www.carely.io/"
