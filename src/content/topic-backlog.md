@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 79. （次回トピック未定）
+### 80. （次回トピック未定）
 
 ## 執筆中
 
-### 78. Akerun vs ALLIGATE vs bitlock PRO クラウド入退室管理（スマートロック）システム比較 ← 執筆中
+### 79. ネクストエンジン vs CROSS MALL vs GoQSystem EC一元管理（受注・在庫・出荷管理）ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: オフィスのセキュリティ強化や勤怠連携を検討している中小企業の総務・管理部門担当者
-- 切り口: 導入方式・解錠方法・入退室ログ管理・勤怠/外部連携・料金の5軸で比較
-- アフィリエイト: Akerun（パートナープログラムあり・https://akerun.com/agency/）、bitlock（アクセストレードに案件あり・要確認）、ALLIGATE（一般アフィリエイト未確認）
+- ターゲット: 楽天・Amazon・Yahoo!ショッピング等に多店舗展開しているEC事業者
+- 切り口: 対応モール・受注管理・在庫連携・出荷管理・料金の5軸で比較
+- アフィリエイト: ネクストエンジン（パートナー制度・月額30%報酬・法人限定・https://next-engine.net/partner/）、CROSS MALL（パートナー・売上20%継続コミッション・https://cross-mall.jp/partner/）、GoQSystem（パートナー制度・個人/法人OK・https://goqsystem.com/partner/）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-08-02）
+- ステータス: draft作成済み（2026-08-03）
 
 ## 公開済み
+- [x] Akerun vs ALLIGATE vs bitlock PRO クラウド入退室管理システム比較（2026-08-03）
 - [x] Carely vs ストレスチェッカー vs WELSA 健康管理・ストレスチェックツール比較（2026-08-02）
 - [x] CO-NECT vs BtoBプラットフォーム 受発注 vs COREC クラウド受発注システム比較（2026-08-01）
 - [x] HENNGE One vs GMOトラスト・ログイン vs CloudGate UNO IDaaS・SSO比較（2026-07-31）
