@@ -3,9 +3,9 @@ title: "Akerun vs ALLIGATE vs bitlock PRO 徹底比較【2026年版】── 中
 description: "オフィスの入退室管理をクラウド化する法人向けスマートロック3つを「導入方式・解錠方法・入退室ログ管理・勤怠/外部連携・料金」の5軸で徹底比較。物理鍵からの脱却とセキュリティ強化を目指す中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["入退室管理", "スマートロック", "Akerun", "ALLIGATE", "bitlock PRO", "オフィスセキュリティ", "中小企業", "比較"]
-publishDate: 2026-08-02
+publishDate: 2026-08-03
 heroImage: "/images/articles/hero-cloud-access-control.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Akerun"
     url: "https://akerun.com/"
