@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 80. （次回トピック未定）
+### 81. （次回トピック未定）
 
 ## 執筆中
 
-### 79. ネクストエンジン vs CROSS MALL vs GoQSystem EC一元管理（受注・在庫・出荷管理）ツール比較 ← 執筆中
+### 80. FUMA vs Musubu vs SalesNow 営業リスト作成・企業データベースサービス比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 楽天・Amazon・Yahoo!ショッピング等に多店舗展開しているEC事業者
-- 切り口: 対応モール・受注管理・在庫連携・出荷管理・料金の5軸で比較
-- アフィリエイト: ネクストエンジン（パートナー制度・月額30%報酬・法人限定・https://next-engine.net/partner/）、CROSS MALL（パートナー・売上20%継続コミッション・https://cross-mall.jp/partner/）、GoQSystem（パートナー制度・個人/法人OK・https://goqsystem.com/partner/）
+- ターゲット: 新規開拓を効率化したいBtoB営業チーム
+- 切り口: データベース規模・検索機能・CRM連携・料金・導入しやすさの5軸で比較
+- アフィリエイト: FUMA（なし・無料サービス）、Musubu（パートナープラン・要申請・https://business.musubu.in/）、SalesNow（販売代理店・協業パートナー・要申請・https://top.salesnow.jp/partner/）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-08-03）
+- ステータス: draft作成済み（2026-08-04）
 
 ## 公開済み
+- [x] ネクストエンジン vs CROSS MALL vs GoQSystem EC一元管理ツール比較（2026-08-04）
 - [x] Akerun vs ALLIGATE vs bitlock PRO クラウド入退室管理システム比較（2026-08-03）
 - [x] Carely vs ストレスチェッカー vs WELSA 健康管理・ストレスチェックツール比較（2026-08-02）
 - [x] CO-NECT vs BtoBプラットフォーム 受発注 vs COREC クラウド受発注システム比較（2026-08-01）
