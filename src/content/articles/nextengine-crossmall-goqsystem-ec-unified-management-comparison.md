@@ -3,9 +3,9 @@ title: "ネクストエンジン vs CROSS MALL vs GoQSystem 徹底比較【2026�
 description: "複数のECモールやカートを一括管理するEC一元管理ツール3つを「対応モール・受注管理・在庫連携・出荷管理・料金」の5軸で徹底比較。楽天・Amazon・Yahoo!ショッピングの多店舗運営を効率化したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["EC一元管理", "ネクストエンジン", "CROSS MALL", "GoQSystem", "受注管理", "在庫管理", "中小企業", "比較"]
-publishDate: 2026-08-03
+publishDate: 2026-08-04
 heroImage: "/images/articles/hero-ec-unified-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "ネクストエンジン"
     url: "https://next-engine.net/"
