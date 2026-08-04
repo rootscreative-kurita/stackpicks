@@ -3,9 +3,9 @@ title: "FUMA vs Musubu vs SalesNow 徹底比較【2026年版】── 中小企�
 description: "営業リスト作成・企業データベースサービス3つを「データベース規模・検索機能・CRM連携・料金・導入しやすさ」の5軸で徹底比較。新規開拓の効率化を目指す中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["営業リスト", "企業データベース", "FUMA", "Musubu", "SalesNow", "新規開拓", "中小企業", "比較"]
-publishDate: 2026-08-04
+publishDate: 2026-08-05
 heroImage: "/images/articles/hero-sales-list-database.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "FUMA"
     url: "https://fumadata.com/"
