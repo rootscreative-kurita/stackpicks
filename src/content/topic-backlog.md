@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 81. （次回トピック未定）
+### 82. （次回トピック未定）
 
 ## 執筆中
 
-### 80. FUMA vs Musubu vs SalesNow 営業リスト作成・企業データベースサービス比較 ← 執筆中
+### 81. ANDPAD vs Photoruction vs KANNA クラウド施工管理ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 新規開拓を効率化したいBtoB営業チーム
-- 切り口: データベース規模・検索機能・CRM連携・料金・導入しやすさの5軸で比較
-- アフィリエイト: FUMA（なし・無料サービス）、Musubu（パートナープラン・要申請・https://business.musubu.in/）、SalesNow（販売代理店・協業パートナー・要申請・https://top.salesnow.jp/partner/）
+- ターゲット: 現場のペーパーレス化・DX推進を目指す中小建設会社
+- 切り口: 工程管理・図面共有・報告書作成・現場コミュニケーション・料金の5軸で比較
+- アフィリエイト: ANDPAD（パートナープログラム・要申請・https://page.andpad.jp/partner/）、Photoruction（なし）、KANNA（なし）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-08-04）
+- ステータス: draft作成済み（2026-08-05）
 
 ## 公開済み
+- [x] FUMA vs Musubu vs SalesNow 営業リスト作成・企業データベースサービス比較（2026-08-05）
 - [x] ネクストエンジン vs CROSS MALL vs GoQSystem EC一元管理ツール比較（2026-08-04）
 - [x] Akerun vs ALLIGATE vs bitlock PRO クラウド入退室管理システム比較（2026-08-03）
 - [x] Carely vs ストレスチェッカー vs WELSA 健康管理・ストレスチェックツール比較（2026-08-02）
