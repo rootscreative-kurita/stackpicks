@@ -3,9 +3,9 @@ title: "ANDPAD vs Photoruction vs KANNA 徹底比較【2026年版】── 中�
 description: "クラウド施工管理ツール3つを「工程管理・図面共有・報告書作成・現場コミュニケーション・料金」の5軸で徹底比較。現場のペーパーレス化・DX推進を目指す中小建設会社に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["施工管理", "建設DX", "ANDPAD", "Photoruction", "KANNA", "工程管理", "中小企業", "比較"]
-publishDate: 2026-08-05
+publishDate: 2026-08-06
 heroImage: "/images/articles/hero-construction-management-dx.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "ANDPAD"
     url: "https://andpad.jp/"
