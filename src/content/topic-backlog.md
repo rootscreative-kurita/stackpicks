@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 82. （次回トピック未定）
+### 83. （次回トピック未定）
 
 ## 執筆中
 
-### 81. ANDPAD vs Photoruction vs KANNA クラウド施工管理ツール比較 ← 執筆中
+### 82. invoiceAgent 文書管理 vs TOKIUM電子帳簿保存 vs マネーフォワード クラウドBox 電子帳簿保存法対応クラウド文書管理ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 現場のペーパーレス化・DX推進を目指す中小建設会社
-- 切り口: 工程管理・図面共有・報告書作成・現場コミュニケーション・料金の5軸で比較
-- アフィリエイト: ANDPAD（パートナープログラム・要申請・https://page.andpad.jp/partner/）、Photoruction（なし）、KANNA（なし）
+- ターゲット: 電子帳簿保存法への対応を進めたい中小企業の経理・総務担当者
+- 切り口: 法対応範囲・書類取り込み・検索機能・外部連携・料金の5軸で比較
+- アフィリエイト: マネーフォワード クラウド（A8.net・もしもアフィリエイトで提携可）、TOKIUM（パートナーシッププログラム・要申請・https://contact.keihi.com/tokium-partnership_form）、invoiceAgent（販売パートナー経由・直接アフィリエイトなし）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-08-05）
+- ステータス: draft作成済み（2026-08-06）
 
 ## 公開済み
+- [x] ANDPAD vs Photoruction vs KANNA クラウド施工管理ツール比較（2026-08-06）
 - [x] FUMA vs Musubu vs SalesNow 営業リスト作成・企業データベースサービス比較（2026-08-05）
 - [x] ネクストエンジン vs CROSS MALL vs GoQSystem EC一元管理ツール比較（2026-08-04）
 - [x] Akerun vs ALLIGATE vs bitlock PRO クラウド入退室管理システム比較（2026-08-03）
