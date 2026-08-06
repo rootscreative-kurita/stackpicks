@@ -3,9 +3,9 @@ title: "invoiceAgent 文書管理 vs TOKIUM電子帳簿保存 vs マネーフォ
 description: "電子帳簿保存法対応クラウド文書管理ツール3つを「法対応範囲・書類取り込み・検索機能・外部連携・料金」の5軸で徹底比較。電帳法の完全義務化に対応したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["電子帳簿保存法", "文書管理", "invoiceAgent", "TOKIUM", "マネーフォワード", "ペーパーレス", "中小企業", "比較"]
-publishDate: 2026-08-06
+publishDate: 2026-08-07
 heroImage: "/images/articles/hero-document-management-law.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "invoiceAgent 文書管理"
     url: "https://www.wingarc.com/product/ia/document.html"
