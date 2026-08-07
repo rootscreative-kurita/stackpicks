@@ -3,9 +3,9 @@ title: "PR TIMES vs @Press vs ValuePress! 徹底比較【2026年版】── 中
 description: "プレスリリース配信サービス3つを「メディア掲載力・配信先メディア数・料金体系・機能・効果測定」の5軸で徹底比較。自社のニュースを効果的に届けたい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["プレスリリース", "PR", "広報", "PR TIMES", "@Press", "ValuePress!", "中小企業", "比較"]
-publishDate: 2026-08-07
+publishDate: 2026-08-08
 heroImage: "/images/articles/hero-press-release-service.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "PR TIMES"
     url: "https://prtimes.jp/"
