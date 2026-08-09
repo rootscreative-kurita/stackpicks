@@ -3,9 +3,9 @@ title: "SMS HaNa vs 空電プッシュ vs SMSLINK 徹底比較【2026年版】�
 description: "法人向けSMS配信サービス3つを「配信品質・配信機能・セキュリティ・管理機能・料金」の5軸で徹底比較。顧客通知・本人認証・督促連絡にSMSを活用したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["SMS配信", "SMS", "SMS HaNa", "空電プッシュ", "SMSLINK", "中小企業", "比較", "顧客通知"]
-publishDate: 2026-08-08
+publishDate: 2026-08-10
 heroImage: "/images/articles/hero-sms-delivery-service.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "SMS HaNa"
     url: "https://www.and-d.co.jp/product/smshana/"
