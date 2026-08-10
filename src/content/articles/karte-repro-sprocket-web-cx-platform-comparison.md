@@ -3,9 +3,9 @@ title: "KARTE vs Repro vs Sprocket 徹底比較【2026年版】── Web接客�
 description: "Web接客・CXプラットフォーム3つを「パーソナライズ施策・データ分析・マルチチャネル対応・導入のしやすさ・料金」の5軸で徹底比較。ECサイトやWebサービスのCVR改善・顧客体験向上を目指すマーケティング担当者に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["Web接客", "CX", "顧客体験", "KARTE", "Repro", "Sprocket", "CVR改善", "比較"]
-publishDate: 2026-08-10
+publishDate: 2026-08-11
 heroImage: "/images/articles/hero-web-cx-platform.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "KARTE"
     url: "https://karte.io/"
