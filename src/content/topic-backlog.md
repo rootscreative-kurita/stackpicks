@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 87. （次回トピック未定）
+### 88. （次回トピック未定）
 
 ## 執筆中
 
-### 86. 楽楽販売 vs board vs MakeLeaps クラウド販売管理・見積請求ツール比較 ← 執筆中
+### 87. eセールスマネージャー vs Zoho CRM vs Pipedrive 中小企業向けCRM/SFAツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: Excelでの見積・請求管理から卒業し、業務効率化を目指す中小企業の経理・営業担当者
-- 切り口: 見積・請求機能・カスタマイズ性・外部連携・操作のしやすさ・料金の5軸で比較
-- アフィリエイト: 楽楽販売（ラクス販売パートナー制度あり・要問い合わせ）、board（アフィリエイトなし・公式サイトURL仮置き）、MakeLeaps（リセラープログラムあり・https://www.makeleaps.jp/reseller-program/）
+- ターゲット: 営業活動の属人化を解消し、顧客管理・商談管理を効率化したい中小企業の営業マネージャー・営業担当者
+- 切り口: 顧客管理・営業支援機能・カスタマイズ性・外部連携・操作のしやすさ・料金の5軸で比較
+- アフィリエイト: Zoho CRM（公式アフィリエイト15%報酬・https://www.zoho.com/jp/affiliate/program-agreement.html）、Pipedrive（PartnerStack経由20-30%報酬・https://www.pipedrive.com/en/affiliate-partnership）、eセールスマネージャー（公式アフィリエイト未確認・パートナー制度あり・要問い合わせ）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-08-11）
+- ステータス: draft作成済み（2026-08-12）
 
 ## 公開済み
+- [x] 楽楽販売 vs board vs MakeLeaps クラウド販売管理・見積請求ツール比較（2026-08-12）
 - [x] KARTE vs Repro vs Sprocket Web接客・CXプラットフォーム比較（2026-08-11）
 - [x] SMS HaNa vs 空電プッシュ vs SMSLINK 法人向けSMS配信サービス比較（2026-08-10）
 - [x] PR TIMES vs @Press vs ValuePress! プレスリリース配信サービス比較（2026-08-08）
