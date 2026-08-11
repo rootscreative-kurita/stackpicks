@@ -3,9 +3,9 @@ title: "楽楽販売 vs board vs MakeLeaps 徹底比較【2026年版】── �
 description: "クラウド販売管理・見積請求ツール3つを「見積・請求機能・カスタマイズ性・外部連携・操作のしやすさ・料金」の5軸で徹底比較。Excelでの見積・請求管理から卒業し、業務効率化を目指す中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["販売管理", "見積書", "請求書", "クラウド", "楽楽販売", "board", "MakeLeaps", "比較"]
-publishDate: 2026-08-11
+publishDate: 2026-08-12
 heroImage: "/images/articles/hero-sales-management-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "楽楽販売"
     url: "https://www.rakurakuhanbai.jp/"
