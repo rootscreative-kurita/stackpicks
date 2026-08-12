@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 88. （次回トピック未定）
+### 89. （次回トピック未定）
 
 ## 執筆中
 
-### 87. eセールスマネージャー vs Zoho CRM vs Pipedrive 中小企業向けCRM/SFAツール比較 ← 執筆中
+### 88. Otolio vs toruno vs Rimo Voice 日本語AI文字起こし・自動議事録ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 営業活動の属人化を解消し、顧客管理・商談管理を効率化したい中小企業の営業マネージャー・営業担当者
-- 切り口: 顧客管理・営業支援機能・カスタマイズ性・外部連携・操作のしやすさ・料金の5軸で比較
-- アフィリエイト: Zoho CRM（公式アフィリエイト15%報酬・https://www.zoho.com/jp/affiliate/program-agreement.html）、Pipedrive（PartnerStack経由20-30%報酬・https://www.pipedrive.com/en/affiliate-partnership）、eセールスマネージャー（公式アフィリエイト未確認・パートナー制度あり・要問い合わせ）
+- ターゲット: 会議の議事録作成を自動化したい中小企業の総務・管理部門・会議主催者
+- 切り口: 日本語認識精度・話者識別・AI要約・外部連携・料金の5軸で比較
+- アフィリエイト: 3サービスとも公開アフィリエイトプログラムなし（公式サイトURLを仮置き）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-08-12）
+- ステータス: draft作成済み（2026-08-13）
 
 ## 公開済み
+- [x] eセールスマネージャー vs Zoho CRM vs Pipedrive 中小企業向けCRM/SFAツール比較（2026-08-13）
 - [x] 楽楽販売 vs board vs MakeLeaps クラウド販売管理・見積請求ツール比較（2026-08-12）
 - [x] KARTE vs Repro vs Sprocket Web接客・CXプラットフォーム比較（2026-08-11）
 - [x] SMS HaNa vs 空電プッシュ vs SMSLINK 法人向けSMS配信サービス比較（2026-08-10）
