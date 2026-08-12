@@ -3,9 +3,9 @@ title: "eセールスマネージャー vs Zoho CRM vs Pipedrive 徹底比較【
 description: "中小企業向けCRM/SFAツール3つを「顧客管理・営業支援機能・カスタマイズ性・外部連携・操作のしやすさ・料金」の5軸で徹底比較。営業活動の可視化と顧客管理を効率化したい企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["CRM", "SFA", "営業支援", "顧客管理", "eセールスマネージャー", "Zoho CRM", "Pipedrive", "比較"]
-publishDate: 2026-08-12
+publishDate: 2026-08-13
 heroImage: "/images/articles/hero-crm-sfa-comparison.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "eセールスマネージャー"
     url: "https://www.e-sales.jp/"
