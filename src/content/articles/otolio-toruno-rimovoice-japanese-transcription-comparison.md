@@ -3,9 +3,9 @@ title: "Otolio vs toruno vs Rimo Voice 徹底比較【2026年版】── 日本
 description: "日本語に特化したAI文字起こし・自動議事録ツール3つを「日本語認識精度・話者識別・AI要約・連携・料金」の5軸で徹底比較。会議の議事録作成を自動化したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["AI文字起こし", "議事録", "Otolio", "スマート書記", "toruno", "Rimo Voice", "音声認識", "会議効率化", "比較"]
-publishDate: 2026-08-13
+publishDate: 2026-08-14
 heroImage: "/images/articles/hero-ai-gijiroku-transcription.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Otolio"
     url: "https://www.smartshoki.com/"
