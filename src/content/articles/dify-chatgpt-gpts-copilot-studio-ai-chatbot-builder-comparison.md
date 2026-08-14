@@ -3,9 +3,9 @@ title: "Dify vs ChatGPT GPTs vs Microsoft Copilot Studio 徹底比較【2026年�
 description: "ノーコードでAIチャットボットやAIアプリを構築できる3つのプラットフォームを「構築の自由度・使いやすさ・デプロイ・セキュリティ・料金」の5軸で徹底比較。自社の問い合わせ対応やFAQをAIで自動化したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["AIチャットボット", "ノーコード", "Dify", "ChatGPT", "GPTs", "Copilot Studio", "AI自動化", "業務効率化", "比較"]
-publishDate: 2026-08-14
+publishDate: 2026-08-15
 heroImage: "/images/articles/hero-ai-chatbot-builder.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Dify"
     url: "https://dify.ai/"
