@@ -3,9 +3,9 @@ title: "DirectCloud vs GigaCC vs クリプト便 徹底比較【2026年版】─
 description: "PPAP廃止の流れを受け注目が集まるセキュアファイル共有・転送サービス3社を「セキュリティ・操作性・大容量対応・外部連携・料金」の5軸で徹底比較。取引先とのファイルやり取りを安全に行いたい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["ファイル共有", "ファイル転送", "セキュリティ", "PPAP廃止", "DirectCloud", "GigaCC", "クリプト便", "情報漏洩対策", "比較"]
-publishDate: 2026-08-15
+publishDate: 2026-08-16
 heroImage: "/images/articles/hero-secure-file-sharing.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "DirectCloud"
     url: "https://directcloud.jp/"
