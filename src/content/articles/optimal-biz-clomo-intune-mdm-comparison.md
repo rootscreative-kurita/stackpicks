@@ -3,9 +3,9 @@ title: "Optimal Biz vs CLOMO MDM vs Microsoft Intune 徹底比較【2026年版�
 description: "リモートワーク時代に不可欠なMDM（モバイルデバイス管理）ツール3社を「デバイス管理機能・セキュリティポリシー・導入の容易さ・運用管理・料金」の5軸で徹底比較。社用スマホやPCの一元管理を実現したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["MDM", "モバイルデバイス管理", "Optimal Biz", "CLOMO", "Microsoft Intune", "端末管理", "セキュリティ", "リモートワーク", "比較"]
-publishDate: 2026-08-16
+publishDate: 2026-08-17
 heroImage: "/images/articles/hero-mdm-device-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Optimal Biz"
     url: "https://www.optim.co.jp/optim-biz/"
