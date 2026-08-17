@@ -3,9 +3,9 @@ title: "楽楽明細 vs ナビエクスプレス vs @Tovas 徹底比較【2026�
 description: "請求書・納品書・支払明細などの帳票を電子化してWeb配信したい企業に向け、帳票電子配信サービス3社を「配信機能・テンプレート管理・セキュリティ・導入の容易さ・料金」の5軸で徹底比較。紙の帳票発行をやめてコスト削減したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["帳票電子配信", "請求書", "ペーパーレス", "楽楽明細", "ナビエクスプレス", "@Tovas", "電子帳簿保存法", "DX", "比較"]
-publishDate: 2026-08-17
+publishDate: 2026-08-18
 heroImage: "/images/articles/hero-electronic-document-delivery.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "楽楽明細"
     url: "https://www.rakurakumeisai.jp/"
