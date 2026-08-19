@@ -3,9 +3,9 @@ title: "セキュリオ vs KnowBe4 vs Selphish 徹底比較【2026年版】─�
 description: "従業員のセキュリティ意識を高めたい企業に向け、セキュリティ教育・標的型メール訓練サービス3社を「訓練機能・教育コンテンツ・レポーティング・導入の容易さ・料金」の5軸で徹底比較。フィッシング対策を強化したい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["セキュリティ教育", "標的型メール訓練", "フィッシング対策", "セキュリオ", "KnowBe4", "Selphish", "情報セキュリティ", "サイバーセキュリティ", "比較"]
-publishDate: 2026-08-18
+publishDate: 2026-08-20
 heroImage: "/images/articles/hero-security-education-training.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "セキュリオ"
     url: "https://www.lrm.jp/seculio/"
