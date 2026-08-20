@@ -3,9 +3,9 @@ title: "Acronis Cyber Protect Cloud vs 使えるクラウドバックアップ v
 description: "ランサムウェア対策やBCP（事業継続計画）の観点からクラウドバックアップの導入を検討する企業に向け、法人向けクラウドバックアップサービス3社を「バックアップ機能・セキュリティ・復旧速度・運用のしやすさ・料金」の5軸で徹底比較。大切な業務データを守りたい中小企業に最適なサービス選びを解説します。"
 category: "比較レビュー"
 tags: ["クラウドバックアップ", "BCP対策", "災害復旧", "データ保護", "Acronis", "使えるクラウドバックアップ", "AOSBOX", "ランサムウェア対策", "比較"]
-publishDate: 2026-08-20
+publishDate: 2026-08-21
 heroImage: "/images/articles/hero-cloud-backup-bcp.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Acronis Cyber Protect Cloud"
     url: "https://www.acronis.com/ja-jp/"
