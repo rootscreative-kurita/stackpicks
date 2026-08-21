@@ -3,9 +3,9 @@ title: "弥生会計 オンライン vs freee会計 vs マネーフォワード 
 description: "はじめてクラウド会計ソフトを導入する中小企業・個人事業主に向け、弥生会計 オンライン・freee会計・マネーフォワード クラウド会計を「仕訳入力・自動連携・レポート・サポート・料金」の5軸で徹底比較。自社に合った会計ソフト選びを解説します。"
 category: "比較レビュー"
 tags: ["クラウド会計", "会計ソフト", "弥生会計", "freee", "マネーフォワード", "確定申告", "法人決算", "比較"]
-publishDate: 2026-08-21
+publishDate: 2026-08-22
 heroImage: "/images/articles/hero-cloud-accounting.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "弥生会計 オンライン"
     url: "https://www.yayoi-kk.co.jp/products/account-ol/"
