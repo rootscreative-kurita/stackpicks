@@ -3,9 +3,9 @@ title: "攻撃遮断くん vs Scutum vs SiteGuard Cloud Edition 徹底比較【2
 description: "Webサイトへのサイバー攻撃対策を検討する企業に向け、法人向けクラウドWAF（Webアプリケーションファイアウォール）3サービスを「検知・防御性能・導入のしやすさ・レポート・サポート・料金」の5軸で徹底比較。自社に合ったWAF選びを解説します。"
 category: "比較レビュー"
 tags: ["WAF", "クラウドWAF", "Webセキュリティ", "サイバー攻撃対策", "攻撃遮断くん", "Scutum", "SiteGuard", "比較"]
-publishDate: 2026-08-22
+publishDate: 2026-08-23
 heroImage: "/images/articles/hero-cloud-waf-security.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "攻撃遮断くん"
     url: "https://www.shadan-kun.com/"
