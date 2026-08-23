@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 98. （次回トピック未定）
+### 99. （次回トピック未定）
 
 ## 執筆中
 
-### 97. Helpfeel vs PKSHA FAQ vs sAI Search 法人向けAI搭載FAQシステム比較 ← 執筆中
+### 98. Loglass vs DIGGLE vs Manageboard 予算管理・経営管理クラウド比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: カスタマーサポートの問い合わせ対応を効率化したい中小企業
-- 切り口: 検索精度・AI活用・管理画面の使いやすさ・外部連携・料金体系の5軸で比較
-- アフィリエイト: Helpfeel（公式パートナープログラム）、PKSHA FAQ（公式パートナープログラム）、sAI Search（未確認）
+- ターゲット: 予算と実績のズレを素早く把握し経営判断のスピードを上げたい中小〜中堅企業
+- 切り口: 予算編成・予実管理・データ連携・分析レポート・料金体系の5軸で比較
+- アフィリエイト: Loglass（未確認）、DIGGLE（未確認）、Manageboard（販売代理店制度あり・要問い合わせ）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-08-23）
+- ステータス: draft作成済み（2026-08-24）
 
 ## 公開済み
+- [x] Helpfeel vs PKSHA FAQ vs sAI Search 法人向けAI搭載FAQシステム比較（2026-08-24）
 - [x] 攻撃遮断くん vs Scutum vs SiteGuard Cloud Edition クラウドWAF比較（2026-08-23）
 - [x] 弥生会計 オンライン vs freee会計 vs マネーフォワード クラウド会計 クラウド会計ソフト比較（2026-08-22）
 - [x] Acronis Cyber Protect Cloud vs 使えるクラウドバックアップ vs AOSBOX Business クラウドバックアップ・BCP対策サービス比較（2026-08-21）
