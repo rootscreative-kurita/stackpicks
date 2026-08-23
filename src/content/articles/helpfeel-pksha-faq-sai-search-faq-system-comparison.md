@@ -3,9 +3,9 @@ title: "Helpfeel vs PKSHA FAQ vs sAI Search 徹底比較【2026年版】── �
 description: "カスタマーサポートの問い合わせ対応を効率化したい企業に向け、AI搭載FAQシステム3サービスを「検索精度・AI活用・管理画面の使いやすさ・外部連携・料金体系」の5軸で徹底比較。自社に合ったFAQシステム選びを解説します。"
 category: "比較レビュー"
 tags: ["FAQシステム", "AI検索", "カスタマーサポート", "問い合わせ対応", "Helpfeel", "PKSHA FAQ", "sAI Search", "比較"]
-publishDate: 2026-08-23
+publishDate: 2026-08-24
 heroImage: "/images/articles/hero-ai-faq-system.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Helpfeel"
     url: "https://www.helpfeel.com/"
