@@ -8,15 +8,16 @@
 
 ## 執筆中
 
-### 98. Loglass vs DIGGLE vs Manageboard 予算管理・経営管理クラウド比較 ← 執筆中
+### 97. LegalOn Cloud vs GVA assist vs LAWGUE AI契約書レビュー・法務支援ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 予算と実績のズレを素早く把握し経営判断のスピードを上げたい中小〜中堅企業
-- 切り口: 予算編成・予実管理・データ連携・分析レポート・料金体系の5軸で比較
-- アフィリエイト: Loglass（未確認）、DIGGLE（未確認）、Manageboard（販売代理店制度あり・要問い合わせ）
+- ターゲット: 契約書レビューの効率化・法務DXを推進したい中小〜中堅企業
+- 切り口: AIレビュー精度・対応契約類型・ワークフロー・外部連携・料金体系の5軸で比較
+- アフィリエイト: LegalOn Cloud（パートナー紹介制度あり・要申請）、GVA assist（未確認）、LAWGUE（販売パートナー制度あり・要問い合わせ）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-08-24）
+- ステータス: draft作成済み（2026-08-25）
 
 ## 公開済み
+- [x] Loglass vs DIGGLE vs Manageboard 予算管理・経営管理クラウド比較（2026-08-25）
 - [x] Helpfeel vs PKSHA FAQ vs sAI Search 法人向けAI搭載FAQシステム比較（2026-08-24）
 - [x] 攻撃遮断くん vs Scutum vs SiteGuard Cloud Edition クラウドWAF比較（2026-08-23）
 - [x] 弥生会計 オンライン vs freee会計 vs マネーフォワード クラウド会計 クラウド会計ソフト比較（2026-08-22）
