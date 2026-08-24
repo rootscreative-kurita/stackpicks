@@ -3,9 +3,9 @@ title: "Loglass vs DIGGLE vs Manageboard 徹底比較【2026年版】── 予�
 description: "予算と実績のズレを素早く把握し、経営判断のスピードを上げたい企業に向け、予算管理・経営管理クラウド3サービスを「予算編成・予実管理・データ連携・分析レポート・料金体系」の5軸で徹底比較。自社に合った予算管理ツール選びを解説します。"
 category: "比較レビュー"
 tags: ["予算管理", "経営管理", "予実管理", "クラウド", "Loglass", "DIGGLE", "Manageboard", "比較"]
-publishDate: 2026-08-24
+publishDate: 2026-08-25
 heroImage: "/images/articles/hero-budget-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Loglass"
     url: "https://www.loglass.jp/"
