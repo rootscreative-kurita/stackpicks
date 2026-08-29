@@ -3,9 +3,9 @@ title: "LegalOn Cloud vs GVA assist vs LAWGUE 徹底比較【2026年版】──
 description: "契約書のリスク見落としや法務部門の負荷に悩む企業に向け、AI契約書レビュー・法務支援ツール3サービスを「AIレビュー精度・対応契約類型・ワークフロー・外部連携・料金体系」の5軸で徹底比較。自社に合った法務DXツール選びを解説します。"
 category: "比較レビュー"
 tags: ["AI契約書レビュー", "法務DX", "リーガルテック", "契約管理", "LegalOn Cloud", "GVA assist", "LAWGUE", "比較"]
-publishDate: 2026-08-25
+publishDate: 2026-08-30
 heroImage: "/images/articles/hero-ai-contract-review.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "LegalOn Cloud"
     url: "https://legalon-cloud.jp/"
