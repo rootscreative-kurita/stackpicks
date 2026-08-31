@@ -3,9 +3,9 @@ title: "ジョーシス vs マネーフォワード Admina vs freee IT管理 徹
 description: "増え続けるSaaSアカウントとITデバイスの管理に悩む企業に向け、SaaS管理・IT資産可視化ツール3サービスを「SaaS可視化・アカウント管理・コスト最適化・デバイス管理・セキュリティ」の5軸で徹底比較。自社に合ったIT管理ツール選びを解説します。"
 category: "比較レビュー"
 tags: ["SaaS管理", "IT資産管理", "シャドーIT", "コスト最適化", "ジョーシス", "マネーフォワード Admina", "freee IT管理", "比較"]
-publishDate: 2026-08-30
+publishDate: 2026-09-01
 heroImage: "/images/articles/hero-saas-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "ジョーシス"
     url: "https://josys.com/ja"
