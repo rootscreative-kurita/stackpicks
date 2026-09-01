@@ -3,9 +3,9 @@ title: "RoboRobo コンプライアンスチェック vs RISK EYES vs アラー�
 description: "取引先の反社チェック・コンプライアンスチェックを効率化したい企業に向け、クラウド型チェックツール3サービスを「検索精度・情報ソースの網羅性・API連携・料金体系・導入のしやすさ」の5軸で徹底比較。自社に合ったコンプライアンスチェックツール選びを解説します。"
 category: "比較レビュー"
 tags: ["反社チェック", "コンプライアンスチェック", "リスク管理", "取引先審査", "RoboRobo", "RISK EYES", "アラームボックス", "比較"]
-publishDate: 2026-09-01
+publishDate: 2026-09-02
 heroImage: "/images/articles/hero-compliance-check.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "RoboRobo コンプライアンスチェック"
     url: "https://roborobo.co.jp/lp/compliance-check/"
