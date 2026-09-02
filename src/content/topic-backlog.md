@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 102. （次回トピック未定）
+### 103. （次回トピック未定）
 
 ## 執筆中
 
-### 101. millvi vs J-Stream Equipmedia vs ULIZA 法人向け動画配信プラットフォーム比較 ← 執筆中
+### 102. Shirofune vs Lisket vs Databeat Explore 広告運用自動化・広告レポートツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 社内研修・製品紹介・ウェビナーアーカイブ・IR動画などを安全に配信・管理したい企業
-- 切り口: 配信機能・視聴分析・セキュリティ・外部連携・料金体系の5軸で比較
-- アフィリエイト: 3サービスともA8.net/もしもアフィリエイトにプログラムなし。millvi販売パートナー制度（https://millvi.jp/millvi-partner/）、J-Streamパートナー制度（https://www.stream.co.jp/partner/）あり。ULIZA未確認
+- ターゲット: Web広告の運用工数を削減したい中小企業・広告代理店
+- 切り口: 対応媒体・運用自動化・レポート機能・外部連携・料金体系の5軸で比較
+- アフィリエイト: 3サービスともA8.net/もしもアフィリエイトにプログラムなし。Shirofuneはパートナー制度あり（要確認）。Lisket・Databeatは公式アフィリエイト未確認
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-02）
+- ステータス: draft作成済み（2026-09-03）
 
 ## 公開済み
+- [x] millvi vs J-Stream Equipmedia vs ULIZA 法人向け動画配信プラットフォーム比較（2026-09-03）
 - [x] RoboRobo コンプライアンスチェック vs RISK EYES vs アラームボックス 反社チェック・コンプライアンスチェックツール比較（2026-09-02）
 - [x] ジョーシス vs マネーフォワード Admina vs freee IT管理 SaaS管理・ITデバイス管理ツール比較（2026-09-01）
 - [x] LegalOn Cloud vs GVA assist vs LAWGUE AI契約書レビュー・法務支援ツール比較（2026-08-30）
