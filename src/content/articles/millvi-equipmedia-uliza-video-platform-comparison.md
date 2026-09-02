@@ -3,9 +3,9 @@ title: "millvi vs J-Stream Equipmedia vs ULIZA 徹底比較【2026年版】─�
 description: "社内研修・製品紹介・ウェビナーアーカイブ・IR動画などを安全に配信・管理したい企業に向け、国産の法人向け動画配信プラットフォーム3サービスを「配信機能・視聴分析・セキュリティ・外部連携・料金体系」の5軸で徹底比較。自社に合った動画配信基盤選びを解説します。"
 category: "比較レビュー"
 tags: ["動画配信", "動画管理", "法人向け動画", "ストリーミング", "millvi", "J-Stream Equipmedia", "ULIZA", "比較"]
-publishDate: 2026-09-02
+publishDate: 2026-09-03
 heroImage: "/images/articles/hero-video-platform.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "millvi"
     url: "https://millvi.jp/"
