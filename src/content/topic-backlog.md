@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 103. （次回トピック未定）
+### 104. （次回トピック未定）
 
 ## 執筆中
 
-### 102. Shirofune vs Lisket vs Databeat Explore 広告運用自動化・広告レポートツール比較 ← 執筆中
+### 103. learningBOX vs AirCourse vs eden LMS クラウド型LMS（学習管理システム）比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: Web広告の運用工数を削減したい中小企業・広告代理店
-- 切り口: 対応媒体・運用自動化・レポート機能・外部連携・料金体系の5軸で比較
-- アフィリエイト: 3サービスともA8.net/もしもアフィリエイトにプログラムなし。Shirofuneはパートナー制度あり（要確認）。Lisket・Databeatは公式アフィリエイト未確認
+- ターゲット: 社員研修やオンボーディングをオンライン化・効率化したい中小企業の人事・教育担当者
+- 切り口: 教材作成機能・受講管理・既製コンテンツ・外部連携・料金体系の5軸で比較
+- アフィリエイト: learningBOX・eden LMSはA8.net/もしもアフィリエイトにプログラムなし。AirCourseはパートナープログラムあり（紹介パートナー：https://aircourse.com/partner-program.html）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-03）
+- ステータス: draft作成済み（2026-09-04）
 
 ## 公開済み
+- [x] Shirofune vs Lisket vs Databeat Explore 広告運用自動化・広告レポートツール比較（2026-09-04）
 - [x] millvi vs J-Stream Equipmedia vs ULIZA 法人向け動画配信プラットフォーム比較（2026-09-03）
 - [x] RoboRobo コンプライアンスチェック vs RISK EYES vs アラームボックス 反社チェック・コンプライアンスチェックツール比較（2026-09-02）
 - [x] ジョーシス vs マネーフォワード Admina vs freee IT管理 SaaS管理・ITデバイス管理ツール比較（2026-09-01）
