@@ -3,9 +3,9 @@ title: "Shirofune vs Lisket vs Databeat Explore 徹底比較【2026年版】─�
 description: "Web広告の運用工数を削減したい企業に向け、広告運用自動化・レポートツール3サービスを「対応媒体・運用自動化・レポート機能・外部連携・料金体系」の5軸で徹底比較。自社に合った広告運用効率化ツール選びを解説します。"
 category: "比較レビュー"
 tags: ["広告運用", "広告レポート", "リスティング広告", "Web広告", "Shirofune", "Lisket", "Databeat Explore", "比較"]
-publishDate: 2026-09-03
+publishDate: 2026-09-04
 heroImage: "/images/articles/hero-ad-automation.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Shirofune"
     url: "https://shirofune.com/"
