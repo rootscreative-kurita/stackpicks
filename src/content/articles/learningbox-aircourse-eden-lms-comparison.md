@@ -3,9 +3,9 @@ title: "learningBOX vs AirCourse vs eden LMS 徹底比較【2026年版】── 
 description: "社員研修・オンボーディングをオンライン化したい企業に向け、クラウド型LMS3サービスを「教材作成・受講管理・既製コンテンツ・外部連携・料金体系」の5軸で徹底比較。自社に合った学習管理システム選びを解説します。"
 category: "比較レビュー"
 tags: ["LMS", "学習管理システム", "eラーニング", "社員研修", "learningBOX", "AirCourse", "eden LMS", "比較"]
-publishDate: 2026-09-04
+publishDate: 2026-09-05
 heroImage: "/images/articles/hero-lms-comparison.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "learningBOX"
     url: "https://learningbox.online/"
