@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 104. （次回トピック未定）
+### 105. （次回トピック未定）
 
 ## 執筆中
 
-### 103. learningBOX vs AirCourse vs eden LMS クラウド型LMS（学習管理システム）比較 ← 執筆中
+### 104. CallConnect vs MediaCalls vs InfiniTalk クラウド型CTI・コールセンターシステム比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 社員研修やオンボーディングをオンライン化・効率化したい中小企業の人事・教育担当者
-- 切り口: 教材作成機能・受講管理・既製コンテンツ・外部連携・料金体系の5軸で比較
-- アフィリエイト: learningBOX・eden LMSはA8.net/もしもアフィリエイトにプログラムなし。AirCourseはパートナープログラムあり（紹介パートナー：https://aircourse.com/partner-program.html）
+- ターゲット: 電話対応の品質向上・効率化を目指す企業のCS部門・情シス・営業マネージャー
+- 切り口: 基本機能（ACD/IVR/通話録音）・CRM連携・モニタリング・導入形態・料金体系の5軸で比較
+- アフィリエイト: 3サービスともA8.net/もしもアフィリエイトにプログラムなし。パートナープログラムの公開情報なし
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-04）
+- ステータス: draft作成済み（2026-09-05）
 
 ## 公開済み
+- [x] learningBOX vs AirCourse vs eden LMS クラウド型LMS比較（2026-09-05）
 - [x] Shirofune vs Lisket vs Databeat Explore 広告運用自動化・広告レポートツール比較（2026-09-04）
 - [x] millvi vs J-Stream Equipmedia vs ULIZA 法人向け動画配信プラットフォーム比較（2026-09-03）
 - [x] RoboRobo コンプライアンスチェック vs RISK EYES vs アラームボックス 反社チェック・コンプライアンスチェックツール比較（2026-09-02）
