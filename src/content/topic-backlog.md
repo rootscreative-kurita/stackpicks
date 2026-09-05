@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 105. （次回トピック未定）
+### 106. （次回トピック未定）
 
 ## 執筆中
 
-### 104. CallConnect vs MediaCalls vs InfiniTalk クラウド型CTI・コールセンターシステム比較 ← 執筆中
+### 105. YourDesk vs Acall vs Colorkrew Biz クラウド型フリーアドレス・座席管理システム比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 電話対応の品質向上・効率化を目指す企業のCS部門・情シス・営業マネージャー
-- 切り口: 基本機能（ACD/IVR/通話録音）・CRM連携・モニタリング・導入形態・料金体系の5軸で比較
+- ターゲット: ハイブリッドワーク導入企業の総務・情シス・経営企画部門
+- 切り口: 座席予約・在席管理・会議室連携・外部サービス連携・料金体系の5軸で比較
 - アフィリエイト: 3サービスともA8.net/もしもアフィリエイトにプログラムなし。パートナープログラムの公開情報なし
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-05）
+- ステータス: draft作成済み（2026-09-06）
 
 ## 公開済み
+- [x] CallConnect vs MediaCalls vs InfiniTalk クラウド型CTI・コールセンターシステム比較（2026-09-06）
 - [x] learningBOX vs AirCourse vs eden LMS クラウド型LMS比較（2026-09-05）
 - [x] Shirofune vs Lisket vs Databeat Explore 広告運用自動化・広告レポートツール比較（2026-09-04）
 - [x] millvi vs J-Stream Equipmedia vs ULIZA 法人向け動画配信プラットフォーム比較（2026-09-03）
