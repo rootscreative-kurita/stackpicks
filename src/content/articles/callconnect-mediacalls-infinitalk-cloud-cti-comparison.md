@@ -3,9 +3,9 @@ title: "CallConnect vs MediaCalls vs InfiniTalk 徹底比較【2026年版】─�
 description: "電話対応の品質向上・効率化を目指す企業に向け、クラウド型CTI・コールセンターシステム3サービスを「基本機能・CRM連携・モニタリング・導入形態・料金体系」の5軸で徹底比較。自社に合ったCTIシステム選びを解説します。"
 category: "比較レビュー"
 tags: ["CTI", "コールセンター", "クラウドPBX", "電話システム", "CallConnect", "MediaCalls", "InfiniTalk", "比較"]
-publishDate: 2026-09-05
+publishDate: 2026-09-06
 heroImage: "/images/articles/hero-cloud-cti-comparison.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "CallConnect"
     url: "https://www.callconnect.jp/"
