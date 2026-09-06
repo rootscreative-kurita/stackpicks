@@ -3,9 +3,9 @@ title: "YourDesk vs Acall vs Colorkrew Biz 徹底比較【2026年版】── �
 description: "ハイブリッドワーク時代のオフィス運用を効率化したい企業に向け、クラウド型フリーアドレス・座席管理システム3サービスを「座席予約・在席管理・会議室連携・外部サービス連携・料金体系」の5軸で徹底比較。自社に合ったオフィス管理ツール選びを解説します。"
 category: "比較レビュー"
 tags: ["フリーアドレス", "座席管理", "ハイブリッドワーク", "オフィス管理", "YourDesk", "Acall", "Colorkrew Biz", "比較"]
-publishDate: 2026-09-06
+publishDate: 2026-09-07
 heroImage: "/images/articles/hero-seat-management-comparison.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "YourDesk"
     url: "https://www.yourdesk.jp/"
