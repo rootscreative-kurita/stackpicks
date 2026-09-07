@@ -3,9 +3,9 @@ title: "あしたのクラウド vs スマカン vs HRMOSタレントマネジ�
 description: "人事評価制度の運用を効率化したい企業に向け、クラウド型人事評価・目標管理ツール3サービスを「目標設定・評価ワークフロー・1on1管理・分析レポート・料金体系」の5軸で徹底比較。自社に合った人事評価システム選びを解説します。"
 category: "比較レビュー"
 tags: ["人事評価", "目標管理", "MBO", "OKR", "あしたのクラウド", "スマカン", "HRMOS", "比較"]
-publishDate: 2026-09-07
+publishDate: 2026-09-08
 heroImage: "/images/articles/hero-hr-evaluation-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "あしたのクラウド"
     url: "https://ashita-team.com/"
