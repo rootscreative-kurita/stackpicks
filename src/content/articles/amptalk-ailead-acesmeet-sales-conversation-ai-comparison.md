@@ -3,9 +3,9 @@ title: "amptalk vs ailead vs ACES Meet 徹底比較【2026年版】── 法人
 description: "商談の録画・文字起こし・AI分析で営業力を底上げしたい企業に向け、商談解析AIツール3サービスを「録画・書き起こし・トーク分析・CRM連携・料金体系」の5軸で徹底比較。自社に合った商談解析ツール選びを解説します。"
 category: "比較レビュー"
 tags: ["商談録画", "営業DX", "セールスイネーブルメント", "AI", "トーク解析", "amptalk", "ailead", "ACES Meet", "比較"]
-publishDate: 2026-09-08
+publishDate: 2026-09-09
 heroImage: "/images/articles/hero-sales-conversation-ai.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "amptalk"
     url: "https://amptalk.co.jp/"
