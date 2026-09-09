@@ -3,9 +3,9 @@ title: "HiCustomer vs Growwwing vs pottos 徹底比較【2026年版】── ク
 description: "SaaSビジネスの解約率を下げLTVを最大化したい企業に向け、カスタマーサクセス管理ツール3サービスを「ヘルススコア・チャーン予兆検知・オンボーディング管理・CRM連携・料金体系」の5軸で徹底比較。自社に合ったCS管理ツール選びを解説します。"
 category: "比較レビュー"
 tags: ["カスタマーサクセス", "チャーン防止", "LTV", "ヘルススコア", "SaaS", "HiCustomer", "Growwwing", "pottos", "比較"]
-publishDate: 2026-09-09
+publishDate: 2026-09-10
 heroImage: "/images/articles/hero-customer-success-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "HiCustomer"
     url: "https://hicustomer.jp/"
