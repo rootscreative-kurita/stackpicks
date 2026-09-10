@@ -3,9 +3,9 @@ title: "Freshservice vs Jira Service Management vs ServiceDesk Plus 徹底比較
 description: "社内のIT問い合わせ対応を効率化しサービス品質を上げたい企業に向け、ITSM・社内ヘルプデスクツール3サービスを「インシデント管理・セルフサービスポータル・ITIL準拠・資産管理連携・料金体系」の5軸で徹底比較。自社に合ったITSM選びを解説します。"
 category: "比較レビュー"
 tags: ["ITSM", "社内ヘルプデスク", "インシデント管理", "ITIL", "IT運用", "Freshservice", "Jira Service Management", "ServiceDesk Plus", "比較"]
-publishDate: 2026-09-10
+publishDate: 2026-09-11
 heroImage: "/images/articles/hero-itsm-helpdesk-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Freshservice"
     url: "https://www.freshworks.com/freshservice/"
