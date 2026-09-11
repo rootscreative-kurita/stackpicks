@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 111. （次回トピック未定）
+### 112. （次回トピック未定）
 
 ## 執筆中
 
-### 110. trocco vs HULFT Square vs CData Sync クラウド型データ連携・ETLツール比較 ← 執筆中
+### 111. Mackerel vs Datadog vs New Relic クラウド型サーバー監視・オブザーバビリティツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: IT管理者・データエンジニア・DX推進部門・経営企画部門
-- 切り口: 対応データソース・ノーコード操作性・データ変換機能・料金体系・セキュリティの5軸で比較
-- アフィリエイト: 調査中
+- ターゲット: IT管理者・情報システム部門・SRE/インフラチーム
+- 切り口: 監視対象の幅広さ・アラート通知・ダッシュボード・料金体系・日本語対応の5軸で比較
+- アフィリエイト: Datadog Partner Network (DPN) Referral Track あり（要申請）、Mackerel・New Relicはプログラムなし
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-11）
+- ステータス: draft作成済み（2026-09-12）
 
 ## 公開済み
+- [x] trocco vs HULFT Square vs CData Sync クラウド型データ連携・ETLツール比較（2026-09-12）
 - [x] Freshservice vs Jira Service Management vs ServiceDesk Plus クラウド型ITSM・社内ヘルプデスクツール比較（2026-09-11）
 - [x] HiCustomer vs Growwwing vs pottos クラウド型カスタマーサクセス管理ツール比較（2026-09-10）
 - [x] amptalk vs ailead vs ACES Meet 法人向け商談録画・営業トーク解析AIツール比較（2026-09-09）
