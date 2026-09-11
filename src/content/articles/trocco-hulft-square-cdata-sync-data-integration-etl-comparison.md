@@ -3,9 +3,9 @@ title: "trocco vs HULFT Square vs CData Sync 徹底比較【2026年版】── 
 description: "社内に散在するSaaSやDBのデータを統合・活用したい企業に向け、データ連携・ETLツール3サービスを「対応データソース・ノーコード操作性・データ変換機能・料金体系・セキュリティ」の5軸で徹底比較。自社に合ったデータ基盤構築の第一歩を解説します。"
 category: "比較レビュー"
 tags: ["データ連携", "ETL", "ELT", "データ基盤", "DX", "trocco", "HULFT Square", "CData Sync", "比較"]
-publishDate: 2026-09-11
+publishDate: 2026-09-12
 heroImage: "/images/articles/hero-data-integration-etl.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "trocco"
     url: "https://trocco.io/"
