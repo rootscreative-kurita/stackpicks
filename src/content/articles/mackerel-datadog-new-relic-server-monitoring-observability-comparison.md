@@ -3,9 +3,9 @@ title: "Mackerel vs Datadog vs New Relic 徹底比較【2026年版】── ク�
 description: "サーバーやクラウドインフラの安定稼働を実現したい企業に向け、サーバー監視・オブザーバビリティツール3サービスを「監視対象の幅広さ・アラート通知・ダッシュボード・料金体系・日本語対応」の5軸で徹底比較。自社に最適な監視基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["サーバー監視", "オブザーバビリティ", "インフラ監視", "APM", "Mackerel", "Datadog", "New Relic", "比較"]
-publishDate: 2026-09-12
+publishDate: 2026-09-13
 heroImage: "/images/articles/hero-server-monitoring-observability.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Mackerel"
     url: "https://ja.mackerel.io/"
