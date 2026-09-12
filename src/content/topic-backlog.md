@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 112. （次回トピック未定）
+### 113. （次回トピック未定）
 
 ## 執筆中
 
-### 111. Mackerel vs Datadog vs New Relic クラウド型サーバー監視・オブザーバビリティツール比較 ← 執筆中
+### 112. CrowdStrike Falcon vs Cybereason vs SentinelOne EDR（エンドポイント脅威検知・対応）ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: IT管理者・情報システム部門・SRE/インフラチーム
-- 切り口: 監視対象の幅広さ・アラート通知・ダッシュボード・料金体系・日本語対応の5軸で比較
-- アフィリエイト: Datadog Partner Network (DPN) Referral Track あり（要申請）、Mackerel・New Relicはプログラムなし
+- ターゲット: IT管理者・情報システム部門・SOC/CSIRT・セキュリティ担当
+- 切り口: 脅威検知の精度・インシデント対応の自動化・管理コンソールの使いやすさ・料金体系・日本語対応の5軸で比較
+- アフィリエイト: 3社ともASPプログラムなし。法人向けパートナープログラム（リファラル/リセラー型）のみ
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-12）
+- ステータス: draft作成済み（2026-09-13）
 
 ## 公開済み
+- [x] Mackerel vs Datadog vs New Relic クラウド型サーバー監視・オブザーバビリティツール比較（2026-09-13）
 - [x] trocco vs HULFT Square vs CData Sync クラウド型データ連携・ETLツール比較（2026-09-12）
 - [x] Freshservice vs Jira Service Management vs ServiceDesk Plus クラウド型ITSM・社内ヘルプデスクツール比較（2026-09-11）
 - [x] HiCustomer vs Growwwing vs pottos クラウド型カスタマーサクセス管理ツール比較（2026-09-10）
