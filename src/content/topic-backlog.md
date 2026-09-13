@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 113. （次回トピック未定）
+### 114. （次回トピック未定）
 
 ## 執筆中
 
-### 112. CrowdStrike Falcon vs Cybereason vs SentinelOne EDR（エンドポイント脅威検知・対応）ツール比較 ← 執筆中
+### 113. Optimizely vs VWO vs AB Tasty ABテスト・CRO（コンバージョン率最適化）ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: IT管理者・情報システム部門・SOC/CSIRT・セキュリティ担当
-- 切り口: 脅威検知の精度・インシデント対応の自動化・管理コンソールの使いやすさ・料金体系・日本語対応の5軸で比較
-- アフィリエイト: 3社ともASPプログラムなし。法人向けパートナープログラム（リファラル/リセラー型）のみ
+- ターゲット: マーケター・CVR改善担当・LP運用担当・Webサイト最適化を推進する企業
+- 切り口: テスト機能の充実度・パーソナライゼーション・分析レポート・導入のしやすさ・料金体系の5軸で比較
+- アフィリエイト: VWOのみPartnerStack経由のアフィリエイトプログラムあり（90日Cookie・申請URL: https://dash.partnerstack.com/application?company=vwo&group=affiliateprogrampartners）。Optimizely・AB Tastyはパートナー/代理店プログラムのみ
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-13）
+- ステータス: draft作成済み（2026-09-14）
 
 ## 公開済み
+- [x] CrowdStrike Falcon vs Cybereason vs SentinelOne EDR（エンドポイント脅威検知・対応）ツール比較（2026-09-14）
 - [x] Mackerel vs Datadog vs New Relic クラウド型サーバー監視・オブザーバビリティツール比較（2026-09-13）
 - [x] trocco vs HULFT Square vs CData Sync クラウド型データ連携・ETLツール比較（2026-09-12）
 - [x] Freshservice vs Jira Service Management vs ServiceDesk Plus クラウド型ITSM・社内ヘルプデスクツール比較（2026-09-11）
