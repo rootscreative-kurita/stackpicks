@@ -3,9 +3,9 @@ title: "CrowdStrike Falcon vs Cybereason vs SentinelOne 徹底比較【2026年�
 description: "高度化するサイバー攻撃からエンドポイントを守りたい企業に向け、EDRツール3サービスを「脅威検知の精度・インシデント対応の自動化・管理コンソールの使いやすさ・料金体系・日本語対応」の5軸で徹底比較。自社に最適なEDR基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["EDR", "エンドポイントセキュリティ", "サイバーセキュリティ", "脅威検知", "CrowdStrike", "Cybereason", "SentinelOne", "比較"]
-publishDate: 2026-09-13
+publishDate: 2026-09-14
 heroImage: "/images/articles/hero-edr-endpoint-detection-response.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "CrowdStrike Falcon"
     url: "https://www.crowdstrike.jp/"
