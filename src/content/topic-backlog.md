@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 114. （次回トピック未定）
+### 115. （次回トピック未定）
 
 ## 執筆中
 
-### 113. Optimizely vs VWO vs AB Tasty ABテスト・CRO（コンバージョン率最適化）ツール比較 ← 執筆中
+### 114. AeyeScan vs Vex vs VAddy クラウド型Web脆弱性診断ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: マーケター・CVR改善担当・LP運用担当・Webサイト最適化を推進する企業
-- 切り口: テスト機能の充実度・パーソナライゼーション・分析レポート・導入のしやすさ・料金体系の5軸で比較
-- アフィリエイト: VWOのみPartnerStack経由のアフィリエイトプログラムあり（90日Cookie・申請URL: https://dash.partnerstack.com/application?company=vwo&group=affiliateprogrampartners）。Optimizely・AB Tastyはパートナー/代理店プログラムのみ
+- ターゲット: 情報システム部門・セキュリティ担当・開発チーム・脆弱性診断の内製化を検討する企業
+- 切り口: 検出精度・操作性・CI/CD連携・料金体系の4軸で比較
+- アフィリエイト: 3サービスとも一般アフィリエイトプログラムなし。VAddyは販売パートナープログラム（取次/販売代理店モデル）あり
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-14）
+- ステータス: draft作成済み（2026-09-15）
 
 ## 公開済み
+- [x] Optimizely vs VWO vs AB Tasty ABテスト・CRO（コンバージョン率最適化）ツール比較（2026-09-15）
 - [x] CrowdStrike Falcon vs Cybereason vs SentinelOne EDR（エンドポイント脅威検知・対応）ツール比較（2026-09-14）
 - [x] Mackerel vs Datadog vs New Relic クラウド型サーバー監視・オブザーバビリティツール比較（2026-09-13）
 - [x] trocco vs HULFT Square vs CData Sync クラウド型データ連携・ETLツール比較（2026-09-12）
