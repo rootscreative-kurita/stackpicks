@@ -3,9 +3,9 @@ title: "Optimizely vs VWO vs AB Tasty 徹底比較【2026年版】── ABテ�
 description: "Webサイトのコンバージョン率を改善したい企業に向け、ABテスト・CROツール3サービスを「テスト機能の充実度・パーソナライゼーション・分析レポート・導入のしやすさ・料金体系」の5軸で徹底比較。自社に最適なCRO基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["ABテスト", "CRO", "コンバージョン率最適化", "LPO", "サイト改善", "Optimizely", "VWO", "AB Tasty", "比較"]
-publishDate: 2026-09-14
+publishDate: 2026-09-15
 heroImage: "/images/articles/hero-ab-testing-cro.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Optimizely"
     url: "https://www.optimizely.com/"
