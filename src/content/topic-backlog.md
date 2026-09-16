@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 116. （次回トピック未定）
+### 117. （次回トピック未定）
 
 ## 執筆中
 
-### 115. harutaka vs SOKUMEN vs InterviewMaker クラウド型Web面接ツール比較 ← 執筆中
+### 116. SAP Concur Travel vs AI Travel vs J'sNAVI NEO 法人向けクラウド型出張管理（BTM）ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 人事・採用担当・人材派遣会社・大量採用を行う企業
-- 切り口: 面接方式の対応範囲・候補者体験・採用管理機能・料金体系の4軸で比較
+- ターゲット: 総務・管理部門・経理担当・出張が多い中堅〜大企業
+- 切り口: 出張申請・承認フロー・予約手配・経費連携・料金体系の4軸で比較
 - アフィリエイト: 3サービスとも一般アフィリエイトプログラムなし
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-16）
+- ステータス: draft作成済み（2026-09-17）
 
 ## 公開済み
+- [x] harutaka vs SOKUMEN vs InterviewMaker クラウド型Web面接ツール比較（2026-09-17）
 - [x] AeyeScan vs Vex vs VAddy クラウド型Web脆弱性診断ツール比較（2026-09-16）
 - [x] Optimizely vs VWO vs AB Tasty ABテスト・CRO（コンバージョン率最適化）ツール比較（2026-09-15）
 - [x] CrowdStrike Falcon vs Cybereason vs SentinelOne EDR（エンドポイント脅威検知・対応）ツール比較（2026-09-14）
