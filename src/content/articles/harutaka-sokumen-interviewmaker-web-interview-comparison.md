@@ -3,9 +3,9 @@ title: "harutaka vs SOKUMEN vs InterviewMaker 徹底比較【2026年版】──
 description: "Web面接・オンライン面接の導入を検討する企業に向け、クラウド型Web面接ツール3サービスを「面接方式の対応範囲・候補者体験・採用管理機能・料金体系」の4軸で徹底比較。自社の採用体制に合ったWeb面接基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["Web面接", "オンライン面接", "録画面接", "AI面接", "採用DX", "harutaka", "SOKUMEN", "InterviewMaker", "比較"]
-publishDate: 2026-09-16
+publishDate: 2026-09-17
 heroImage: "/images/articles/hero-web-interview-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "harutaka"
     url: "https://harutaka.jp/"
