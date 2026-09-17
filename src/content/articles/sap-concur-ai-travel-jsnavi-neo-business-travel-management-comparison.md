@@ -3,9 +3,9 @@ title: "SAP Concur Travel vs AI Travel vs J'sNAVI NEO 徹底比較【2026年版�
 description: "法人の出張管理を効率化したい企業に向け、クラウド型出張管理（BTM）ツール3サービスを「出張申請・承認フロー・予約手配・経費連携・料金体系」の4軸で徹底比較。自社の出張管理体制に合ったBTM基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["出張管理", "BTM", "ビジネストラベル", "出張申請", "出張精算", "SAP Concur", "AI Travel", "J'sNAVI NEO", "比較"]
-publishDate: 2026-09-17
+publishDate: 2026-09-18
 heroImage: "/images/articles/hero-business-travel-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "SAP Concur Travel"
     url: "https://www.concur.co.jp/"
