@@ -3,9 +3,9 @@ title: "zeroboard vs e-dash vs アスエネ 徹底比較【2026年版】── �
 description: "CO2排出量の可視化・削減に取り組みたい企業に向け、クラウド型ESG・CO2排出量管理ツール3サービスを「排出量算定の網羅性・サプライチェーン連携・レポーティング・料金体系」の4軸で徹底比較。自社の脱炭素経営に合った管理基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["ESG", "CO2排出量管理", "カーボンニュートラル", "脱炭素", "サステナビリティ", "zeroboard", "e-dash", "アスエネ", "比較"]
-publishDate: 2026-09-18
+publishDate: 2026-09-19
 heroImage: "/images/articles/hero-esg-co2-emission-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "zeroboard"
     url: "https://zeroboard.jp/"
