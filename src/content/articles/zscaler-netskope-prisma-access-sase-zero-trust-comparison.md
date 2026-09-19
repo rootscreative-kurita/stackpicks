@@ -3,9 +3,9 @@ title: "Zscaler vs Netskope vs Palo Alto Prisma Access 徹底比較【2026年版
 description: "リモートワーク時代のネットワークセキュリティを刷新したい企業に向け、SASE・ゼロトラストセキュリティプラットフォーム3サービスを「ゼロトラスト実装・クラウドセキュリティ・ネットワーク最適化・料金体系」の4軸で徹底比較。自社のセキュリティアーキテクチャに合った基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["SASE", "ゼロトラスト", "ネットワークセキュリティ", "クラウドセキュリティ", "Zscaler", "Netskope", "Prisma Access", "比較"]
-publishDate: 2026-09-19
+publishDate: 2026-09-20
 heroImage: "/images/articles/hero-sase-zero-trust-security.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Zscaler"
     url: "https://www.zscaler.jp/"
