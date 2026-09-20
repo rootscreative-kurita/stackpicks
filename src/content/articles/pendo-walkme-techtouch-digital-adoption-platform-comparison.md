@@ -3,9 +3,9 @@ title: "Pendo vs WalkMe vs テックタッチ 徹底比較【2026年版】──
 description: "社内システムやSaaSの定着・活用を促進したい企業に向け、デジタルアダプションプラットフォーム3サービスを「ガイド・ナビゲーション機能・アナリティクス・導入のしやすさ・料金体系」の4軸で徹底比較。自社のDX推進に合ったDAP基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["デジタルアダプション", "DAP", "DX推進", "SaaS定着", "Pendo", "WalkMe", "テックタッチ", "比較"]
-publishDate: 2026-09-20
+publishDate: 2026-09-21
 heroImage: "/images/articles/hero-digital-adoption-platform.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Pendo"
     url: "https://www.pendo.io/jp/"
