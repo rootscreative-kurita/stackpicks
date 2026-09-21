@@ -3,9 +3,9 @@ title: "ロジザードZERO vs AiR Logi vs クラウドトーマス 徹底比較
 description: "EC物流や倉庫業務の効率化を目指す企業に向け、クラウド型WMS3サービスを「入出荷・在庫管理・外部連携・導入のしやすさ・料金体系」の軸で徹底比較。自社の物流課題に合ったWMSの選び方を解説します。"
 category: "比較レビュー"
 tags: ["WMS", "倉庫管理システム", "物流", "EC物流", "ロジザードZERO", "AiR Logi", "クラウドトーマス", "比較"]
-publishDate: 2026-09-21
+publishDate: 2026-09-22
 heroImage: "/images/articles/hero-warehouse-management-system.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "ロジザードZERO"
     url: "https://www.logizard-zero.com/"
