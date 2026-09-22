@@ -3,9 +3,9 @@ title: "IVRy vs AI Messenger Voicebot vs PKSHA Voicebot 徹底比較【2026年�
 description: "電話対応の人手不足や機会損失に悩む企業に向け、AI電話自動応答（ボイスボット）の代表3サービスを「応答精度・対応範囲・外部連携・導入のしやすさ・料金体系」の軸で徹底比較。自社に合ったボイスボットの選び方を解説します。"
 category: "比較レビュー"
 tags: ["AI電話", "ボイスボット", "IVR", "電話自動応答", "IVRy", "AI Messenger Voicebot", "PKSHA Voicebot", "比較"]
-publishDate: 2026-09-22
+publishDate: 2026-09-23
 heroImage: "/images/articles/hero-ai-voicebot.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "IVRy"
     url: "https://ivry.jp/"
