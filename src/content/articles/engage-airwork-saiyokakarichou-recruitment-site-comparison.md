@@ -3,9 +3,9 @@ title: "engage vs Airワーク 採用管理 vs 採用係長 徹底比較【2026�
 description: "求人広告費を抑えながら自社採用力を高めたい中小企業に向け、クラウド型採用サイト作成・求人管理ツールの代表3サービスを「求人ページの自由度・求人検索エンジン連携・応募管理機能・導入のしやすさ・料金体系」の軸で徹底比較。自社に合った採用サイト作成ツールの選び方を解説します。"
 category: "比較レビュー"
 tags: ["採用サイト", "求人管理", "採用マーケティング", "engage", "Airワーク", "採用係長", "比較"]
-publishDate: 2026-09-23
+publishDate: 2026-09-24
 heroImage: "/images/articles/hero-recruitment-site-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "engage"
     url: "https://en-gage.net/"
