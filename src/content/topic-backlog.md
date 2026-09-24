@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 124. （次回トピック未定）
+### 125. （次回トピック未定）
 
 ## 執筆中
 
-### 123. Gyro-n MEO vs MEOチェキ vs Canly MEO対策・Googleビジネスプロフィール管理ツール比較 ← 執筆中
+### 124. Keywordmap vs ミエルカSEO vs SEARCH WRITE コンテンツSEO・記事作成支援ツール比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 飲食店・美容室・クリニック・小売店など実店舗を持つ中小企業
-- 切り口: MEO順位計測・GBP管理・口コミ対応・多店舗管理・料金体系の軸で比較
-- アフィリエイト: Gyro-nは販売代理店プログラムあり（https://www.gyro-n.com/partner/meo/）、MEOチェキ・Canlyは一般アフィリエイトプログラムなし
+- ターゲット: オウンドメディア運営企業、コンテンツマーケティングチーム、自社メディア担当者
+- 切り口: キーワード調査・検索意図分析・コンテンツ作成支援・コンテンツ品質分析・競合分析・料金体系の軸で比較
+- アフィリエイト: Keywordmapは紹介パートナー制度あり（https://keywordmap.cinc-j.co.jp/keywordmap-partner）、ミエルカSEO・SEARCH WRITEは一般アフィリエイトプログラムなし
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-24）
+- ステータス: draft作成済み（2026-09-25）
 
 ## 公開済み
+- [x] Gyro-n MEO vs MEOチェキ vs Canly MEO対策・Googleビジネスプロフィール管理ツール比較（2026-09-25）
 - [x] engage vs Airワーク 採用管理 vs 採用係長 クラウド型採用サイト作成・求人管理ツール比較（2026-09-24）
 - [x] IVRy vs AI Messenger Voicebot vs PKSHA Voicebot AI電話自動応答（ボイスボット）サービス比較（2026-09-23）
 - [x] ロジザードZERO vs AiR Logi vs クラウドトーマス クラウド型倉庫管理システム（WMS）比較（2026-09-22）
