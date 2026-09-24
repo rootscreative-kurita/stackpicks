@@ -3,9 +3,9 @@ title: "Gyro-n MEO vs MEOチェキ vs Canly 徹底比較【2026年版】── M
 description: "Googleマップで集客したい飲食店・美容室・クリニック・小売店に向け、MEO対策ツールの代表3サービスを「順位計測・GBP管理・口コミ対応・多店舗管理・料金体系」の軸で徹底比較。自社に合ったMEOツールの選び方を解説します。"
 category: "比較レビュー"
 tags: ["MEO対策", "Googleビジネスプロフィール", "ローカルSEO", "Gyro-n", "MEOチェキ", "Canly", "比較"]
-publishDate: 2026-09-24
+publishDate: 2026-09-25
 heroImage: "/images/articles/hero-meo-tools.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Gyro-n MEO"
     url: "https://www.gyro-n.com/meo/"
