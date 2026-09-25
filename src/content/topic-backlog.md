@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 125. （次回トピック未定）
+### 126. （次回トピック未定）
 
 ## 執筆中
 
-### 124. Keywordmap vs ミエルカSEO vs SEARCH WRITE コンテンツSEO・記事作成支援ツール比較 ← 執筆中
+### 125. LIQUID eKYC vs TRUSTDOCK vs Polarify eKYC 法人向けeKYC・オンライン本人確認サービス比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: オウンドメディア運営企業、コンテンツマーケティングチーム、自社メディア担当者
-- 切り口: キーワード調査・検索意図分析・コンテンツ作成支援・コンテンツ品質分析・競合分析・料金体系の軸で比較
-- アフィリエイト: Keywordmapは紹介パートナー制度あり（https://keywordmap.cinc-j.co.jp/keywordmap-partner）、ミエルカSEO・SEARCH WRITEは一般アフィリエイトプログラムなし
+- ターゲット: 金融・フィンテック・不動産・通信・シェアリングエコノミー企業
+- 切り口: 本人確認方式・顔認証精度・対応法規制・審査フロー・料金体系の軸で比較
+- アフィリエイト: B2Bサービスのため一般アフィリエイトなし。TRUSTDOCKパートナープログラム（https://biz.trustdock.io/contact-partner）、Polarify eKYCパートナープログラム（https://go.polarify.co.jp/ekyc_partner.html）あり
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-25）
+- ステータス: draft作成済み（2026-09-26）
 
 ## 公開済み
+- [x] Keywordmap vs ミエルカSEO vs SEARCH WRITE コンテンツSEO・記事作成支援ツール比較（2026-09-26）
 - [x] Gyro-n MEO vs MEOチェキ vs Canly MEO対策・Googleビジネスプロフィール管理ツール比較（2026-09-25）
 - [x] engage vs Airワーク 採用管理 vs 採用係長 クラウド型採用サイト作成・求人管理ツール比較（2026-09-24）
 - [x] IVRy vs AI Messenger Voicebot vs PKSHA Voicebot AI電話自動応答（ボイスボット）サービス比較（2026-09-23）
