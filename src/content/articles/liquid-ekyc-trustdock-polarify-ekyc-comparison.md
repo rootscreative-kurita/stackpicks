@@ -3,9 +3,9 @@ title: "LIQUID eKYC vs TRUSTDOCK vs Polarify eKYC 徹底比較【2026年版】�
 description: "オンラインで本人確認を完結させたい企業に向け、eKYCサービスの代表3サービスを「本人確認方式・顔認証精度・対応法規制・審査フロー・料金体系」の軸で徹底比較。自社に合ったeKYCサービスの選び方を解説します。"
 category: "比較レビュー"
 tags: ["eKYC", "オンライン本人確認", "顔認証", "犯罪収益移転防止法", "LIQUID eKYC", "TRUSTDOCK", "Polarify", "比較"]
-publishDate: 2026-09-26
+publishDate: 2026-09-27
 heroImage: "/images/articles/hero-ekyc-identity-verification.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "LIQUID eKYC"
     url: "https://liquidinc.asia/liquid-ekyc/"
