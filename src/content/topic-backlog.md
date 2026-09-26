@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 126. （次回トピック未定）
+### 127. （次回トピック未定）
 
 ## 執筆中
 
-### 125. LIQUID eKYC vs TRUSTDOCK vs Polarify eKYC 法人向けeKYC・オンライン本人確認サービス比較 ← 執筆中
+### 126. Segment vs Treasure Data CDP vs b→dash クラウド型CDP（カスタマーデータプラットフォーム）比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: 金融・フィンテック・不動産・通信・シェアリングエコノミー企業
-- 切り口: 本人確認方式・顔認証精度・対応法規制・審査フロー・料金体系の軸で比較
-- アフィリエイト: B2Bサービスのため一般アフィリエイトなし。TRUSTDOCKパートナープログラム（https://biz.trustdock.io/contact-partner）、Polarify eKYCパートナープログラム（https://go.polarify.co.jp/ekyc_partner.html）あり
+- ターゲット: マーケティング部門・データ基盤チーム・CX推進部門
+- 切り口: データ収集・統合力・セグメンテーション・連携先・料金体系の軸で比較
+- アフィリエイト: B2Bサービスのため一般アフィリエイトなし。b→dashパートナープログラム（https://bdash-marketing.com/partners/）あり
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-09-26）
+- ステータス: draft作成済み（2026-09-27）
 
 ## 公開済み
+- [x] LIQUID eKYC vs TRUSTDOCK vs Polarify eKYC 法人向けeKYC・オンライン本人確認サービス比較（2026-09-27）
 - [x] Keywordmap vs ミエルカSEO vs SEARCH WRITE コンテンツSEO・記事作成支援ツール比較（2026-09-26）
 - [x] Gyro-n MEO vs MEOチェキ vs Canly MEO対策・Googleビジネスプロフィール管理ツール比較（2026-09-25）
 - [x] engage vs Airワーク 採用管理 vs 採用係長 クラウド型採用サイト作成・求人管理ツール比較（2026-09-24）
