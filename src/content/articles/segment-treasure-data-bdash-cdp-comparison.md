@@ -3,9 +3,9 @@ title: "Segment vs Treasure Data CDP vs b→dash 徹底比較【2026年版】─
 description: "顧客データの統合・活用に取り組む企業に向け、CDP（カスタマーデータプラットフォーム）の代表3サービスを「データ収集・統合力・セグメンテーション・連携先・料金体系」の軸で徹底比較。自社に合ったCDPの選び方を解説します。"
 category: "比較レビュー"
 tags: ["CDP", "カスタマーデータプラットフォーム", "顧客データ統合", "データマーケティング", "Segment", "Treasure Data", "b→dash", "比較"]
-publishDate: 2026-09-27
+publishDate: 2026-09-28
 heroImage: "/images/articles/hero-cdp-customer-data-platform.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Segment"
     url: "https://segment.com/"
