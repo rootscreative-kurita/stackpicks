@@ -3,9 +3,9 @@ title: "Scalebase vs ソアスク vs Zuora 徹底比較【2026年版】── �
 description: "サブスクリプションビジネスの契約・請求・収益管理を自動化したい企業に向け、代表3サービスを「契約管理・請求自動化・収益認識・連携性・料金体系」の軸で徹底比較。自社のビジネス規模に合ったサブスク管理基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["サブスクリプション管理", "継続課金", "請求自動化", "収益管理", "Scalebase", "ソアスク", "Zuora", "比較"]
-publishDate: 2026-09-28
+publishDate: 2026-09-29
 heroImage: "/images/articles/hero-subscription-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Scalebase"
     url: "https://scalebase.com/"
