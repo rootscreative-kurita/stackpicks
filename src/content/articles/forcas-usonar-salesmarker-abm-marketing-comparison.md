@@ -3,9 +3,9 @@ title: "FORCAS vs uSonar vs Sales Marker 徹底比較【2026年版】── ABM�
 description: "BtoBマーケティングの精度を高めたい企業に向け、ABMツールの代表3サービスを「ターゲット企業の特定・インテントデータ活用・CRM/MA連携・分析機能・料金体系」の軸で徹底比較。自社に合ったABM基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["ABM", "アカウントベースドマーケティング", "インテントデータ", "BtoBマーケティング", "FORCAS", "uSonar", "Sales Marker", "比較"]
-publishDate: 2026-09-29
+publishDate: 2026-09-30
 heroImage: "/images/articles/hero-abm-account-based-marketing.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "FORCAS"
     url: "https://www.forcas.com/"
