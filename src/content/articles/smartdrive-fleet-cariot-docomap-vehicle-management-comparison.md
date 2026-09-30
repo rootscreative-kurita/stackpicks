@@ -3,9 +3,9 @@ title: "SmartDrive Fleet vs Cariot vs DoCoMAP 徹底比較【2026年版】──
 description: "営業車・配送車両の管理を効率化したい企業に向け、クラウド車両管理・動態管理ツールの代表3サービスを「リアルタイム位置情報・安全運転管理・日報自動作成・CRM/基幹連携・料金体系」の軸で徹底比較。自社に合った車両管理基盤の選び方を解説します。"
 category: "比較レビュー"
 tags: ["車両管理", "動態管理", "GPS", "フリートマネジメント", "SmartDrive Fleet", "Cariot", "DoCoMAP", "比較"]
-publishDate: 2026-09-30
+publishDate: 2026-10-01
 heroImage: "/images/articles/hero-fleet-vehicle-management.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "SmartDrive Fleet"
     url: "https://smartdrive.co.jp/fleet/"
