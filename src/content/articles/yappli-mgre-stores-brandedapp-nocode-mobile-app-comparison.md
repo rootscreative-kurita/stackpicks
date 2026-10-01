@@ -3,9 +3,9 @@ title: "Yappli vs MGRe vs STORES ブランドアプリ 徹底比較【2026年版
 description: "自社ブランドの公式アプリを作りたい小売・EC企業に向け、ノーコードアプリ作成プラットフォームの代表3サービスを「アプリ開発の柔軟性・CRM/会員管理・プッシュ通知/MA・外部連携・料金体系」の軸で徹底比較。自社に合ったアプリプラットフォームの選び方を解説します。"
 category: "比較レビュー"
 tags: ["モバイルアプリ", "ノーコード", "店舗アプリ", "CRM", "オムニチャネル", "Yappli", "MGRe", "STORES ブランドアプリ", "比較"]
-publishDate: 2026-10-01
+publishDate: 2026-10-02
 heroImage: "/images/articles/hero-nocode-mobile-app-platform.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Yappli"
     url: "https://yapp.li/"
