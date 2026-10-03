@@ -3,9 +3,9 @@ title: "TeamUp vs Kakeai vs Co:TEAM 徹底比較【2026年版】── 1on1支�
 description: "1on1ミーティングの定着・質の向上を目指す企業に向け、クラウド型1on1支援ツール3サービスを「1on1設計・運用支援・AI活用・目標管理連携・料金体系」の5軸で徹底比較。自社に合った1on1ツール選びを解説します。"
 category: "比較レビュー"
 tags: ["1on1", "人事", "マネジメント", "エンゲージメント", "OKR", "TeamUp", "Kakeai", "Co:TEAM", "比較"]
-publishDate: 2026-10-02
+publishDate: 2026-10-04
 heroImage: "/images/articles/hero-1on1-meeting-tool.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "TeamUp"
     url: "https://www.teamup.jp/"
