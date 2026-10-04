@@ -3,9 +3,9 @@ title: "commmune vs coorum vs OSIRO 徹底比較【2026年版】── コミュ
 description: "顧客コミュニティの構築・運営を検討する企業に向け、クラウド型コミュニティプラットフォーム3サービスを「コミュニティ設計・エンゲージメント機能・分析・外部連携・料金」の5軸で徹底比較。自社に合ったコミュニティ基盤選びを解説します。"
 category: "比較レビュー"
 tags: ["コミュニティ", "カスタマーサクセス", "ファンマーケティング", "LTV", "commmune", "coorum", "OSIRO", "比較"]
-publishDate: 2026-10-04
+publishDate: 2026-10-05
 heroImage: "/images/articles/hero-community-platform.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "commmune"
     url: "https://commmune.jp/"
