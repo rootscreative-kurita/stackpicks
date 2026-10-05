@@ -3,9 +3,9 @@ title: "GitHub Copilot vs Cursor vs Windsurf 徹底比較【2026年版】── 
 description: "開発チームのAIコーディング支援ツール導入を検討する企業に向け、GitHub Copilot・Cursor・Windsurf（旧Codeium）の3サービスを「コード補完精度・コードベース理解・エディタ統合・セキュリティ・料金」の5軸で徹底比較。自社に合ったAI開発環境選びを解説します。"
 category: "比較レビュー"
 tags: ["AIコーディング", "GitHub Copilot", "Cursor", "Windsurf", "Codeium", "開発効率化", "プログラミング", "比較"]
-publishDate: 2026-10-05
+publishDate: 2026-10-06
 heroImage: "/images/articles/hero-ai-coding-assistant.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "GitHub Copilot"
     url: "https://github.com/features/copilot"
