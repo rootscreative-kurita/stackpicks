@@ -3,9 +3,9 @@ title: "Autify vs MagicPod vs mabl 徹底比較【2026年版】── テスト�
 description: "開発チームのテスト自動化を検討する企業に向け、Autify・MagicPod・mablの3サービスを「テスト作成の容易さ・AI活用度・対応範囲・CI/CD連携・料金」の5軸で徹底比較。自社の開発体制に合ったテスト自動化ツール選びを解説します。"
 category: "比較レビュー"
 tags: ["テスト自動化", "QA", "Autify", "MagicPod", "mabl", "E2Eテスト", "ソフトウェアテスト", "比較"]
-publishDate: 2026-10-06
+publishDate: 2026-10-07
 heroImage: "/images/articles/hero-test-automation.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Autify"
     url: "https://autify.com/ja"
