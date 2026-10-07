@@ -87,7 +87,7 @@ affiliate:
 <tr><td><strong>導入実績</strong></td><td>Atlassian・Dropbox・PayPal・Mercari等、グローバルで数千社が導入</td><td>Uber・Netflix・DocuSign・Rakuten等、グローバルで8,000社以上</td><td>全世界で数百万サイトが導入。日本でも最も普及しているアナリティクスツール</td></tr>
 <tr><td><strong>アプローチ</strong></td><td>行動コホート・実験機能・AIインサイトでプロダクト改善サイクルを高速に回すプロダクトインテリジェンス型</td><td>直感的なUIでイベント分析・ファネル・フローを手軽に実行しグロース施策を推進するグロースアナリティクス型</td><td>Googleエコシステムと連携し広告・集客・コンバージョンを無料で包括的に計測するWebアナリティクス型</td></tr>
 <tr><td><strong>主な対象</strong></td><td>データドリブンなプロダクト開発を推進するPM・エンジニア組織</td><td>マーケティングとプロダクトの両面でグロース施策を回すチーム</td><td>Webサイトの集客・広告効果測定を中心にデータ活用を始めたい企業</td></tr>
-<tr><td><strong>料金目安</strong></td><td>無料（Starter：月5,000万イベントまで）、有料プランは要問合せ</td><td>無料（月2,000万イベントまで）、Growth：月28ドル〜</td><td>無料（ほとんどの企業は無料枠で十分）、Analytics 360：年額約15万ドル〜</td></tr>
+<tr><td><strong>料金目安</strong></td><td>無料（Free：月200万イベントまで）、Plus：月49ドル〜、Growth：要問合せ</td><td>無料（Free：月100万イベントまで）、Growth：従量課金（イベント単価約0.00028ドル）</td><td>無料（ほとんどの企業は無料枠で十分）、Analytics 360：年額約15万ドル〜</td></tr>
 <tr><td><strong>対応範囲</strong></td><td>Web + モバイルアプリ + バックエンド（サーバーサイドSDK対応）</td><td>Web + モバイルアプリ + バックエンド（サーバーサイドSDK対応）</td><td>Web + モバイルアプリ（Firebase Analytics統合）</td></tr>
 <tr><td><strong>強み</strong></td><td>行動コホート・リテンション分析の深さ・Amplitude Experiment（A/Bテスト）・AIによる自動インサイト・ノートブック型分析・Session Replay</td><td>直感的なUI・ファネル分析の使いやすさ・Signal（自動インサイト）・Group Analytics（BtoB向け）・Warehouse Connectors</td><td>無料で高機能・Google広告/Search Console連携・BigQueryエクスポート・GA4標準のeコマーストラッキング・予測オーディエンス</td></tr>
 </tbody>
@@ -150,14 +150,14 @@ BigQueryを中心にデータ基盤を構築している企業であれば、GA4
 <tr><th>プラン</th><th>Amplitude</th><th>Mixpanel</th><th>GA4</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>無料プラン</strong></td><td>Starter：月5,000万イベントまで。基本的な分析機能・無制限ユーザー</td><td>Free：月2,000万イベントまで。コア分析機能・無制限ユーザー</td><td>無料：ほぼ無制限（通常規模のWebサイト・アプリで十分）</td></tr>
-<tr><td><strong>有料プラン</strong></td><td>Plus：月49ドル〜、Growth：要問合せ（高度な分析・Experiment・CDP機能）</td><td>Growth：月28ドル〜（月1億イベントまで拡張可能）、Enterprise：要問合せ</td><td>Analytics 360：年額約15万ドル〜（大規模データ・SLA保証・高度なアトリビューション）</td></tr>
+<tr><td><strong>無料プラン</strong></td><td>Free：月200万イベントまで。基本的な分析機能・無制限ユーザー・Session Replay・Feature Flags</td><td>Free：月100万イベントまで。コア分析機能・無制限ユーザー・Session Replay・Experiments</td><td>無料：ほぼ無制限（通常規模のWebサイト・アプリで十分）</td></tr>
+<tr><td><strong>有料プラン</strong></td><td>Plus：月49ドル〜、Growth：要問合せ（高度な分析・Experiment・CDP・Session Replay拡張）</td><td>Growth：従量課金（イベント単価約0.00028ドル）、Enterprise：要問合せ</td><td>Analytics 360：年額約15万ドル〜（大規模データ・SLA保証・高度なアトリビューション）</td></tr>
 <tr><td><strong>課金単位</strong></td><td>イベント数ベース</td><td>イベント数ベース</td><td>無料枠は実質無制限（360はヒット数ベース）</td></tr>
-<tr><td><strong>無料プランの制限</strong></td><td>データ保持期間の制限・一部高度な分析機能の制限</td><td>データ保持期間の制限（無料は過去5年まで）・一部レポートの制限</td><td>データ保持期間（最大14か月）・サンプリングの発生・SLA保証なし</td></tr>
+<tr><td><strong>無料プランの制限</strong></td><td>月200万イベント上限・一部高度な分析機能の制限</td><td>月100万イベント上限・一部レポートの制限</td><td>データ保持期間（最大14か月）・サンプリングの発生・SLA保証なし</td></tr>
 </tbody>
 </table>
 
-料金面では、GA4の無料枠が圧倒的に広く、ほとんどの企業は無料で利用できます。ただし、データ保持期間が最大14か月に制限される点や、大量データではサンプリングが発生する点には注意が必要です。AmplitudeとMixpanelの無料プランはいずれもイベント数の上限がありますが、スタートアップやPMFを模索するフェーズでは十分な容量です。有料プランへのスケールアップ時のコスト感は「月間イベント数」で大きく変わるため、導入前にイベント設計を最適化し、不要なイベントの送信を抑えることがコスト管理のポイントです。
+料金面では、GA4の無料枠が圧倒的に広く、ほとんどの企業は無料で利用できます。ただし、データ保持期間が最大14か月に制限される点や、大量データではサンプリングが発生する点には注意が必要です。AmplitudeとMixpanelの無料プランはいずれもイベント数の上限（Amplitude：月200万、Mixpanel：月100万）があり、プロダクトの成長に合わせて有料プランへのステップアップを検討する形になります。有料プランへのスケールアップ時のコスト感は「月間イベント数」で大きく変わるため、導入前にイベント設計を最適化し、不要なイベントの送信を抑えることがコスト管理のポイントです。
 
 ## よくある質問
 
@@ -168,7 +168,7 @@ BigQueryを中心にデータ基盤を構築している企業であれば、GA4
 
 <div class="faq-item">
 <div class="faq-q">無料プランでどこまで実用的に使えますか？</div>
-<div class="faq-a">Amplitudeは月5,000万イベント、Mixpanelは月2,000万イベントまで無料で利用できます。中小規模のSaaSやアプリであれば、多くの場合この範囲内で収まります。GA4は事実上イベント数に制限がなく、ほとんどの企業が無料で利用可能です。ただし、AmplitudeとMixpanelの無料プランではデータ保持期間やアドバンスド分析機能に制限があるため、長期的なトレンド分析や高度なコホート分析が必要になった段階で有料プランへの移行を検討する流れが一般的です。</div>
+<div class="faq-a">Amplitudeは月200万イベント、Mixpanelは月100万イベントまで無料で利用できます。小規模なSaaSやアプリの初期フェーズであれば、多くの場合この範囲内で収まります。GA4は事実上イベント数に制限がなく、ほとんどの企業が無料で利用可能です。ただし、AmplitudeとMixpanelの無料プランではデータ保持期間やアドバンスド分析機能に制限があるため、長期的なトレンド分析や高度なコホート分析が必要になった段階で有料プランへの移行を検討する流れが一般的です。</div>
 </div>
 
 <div class="faq-item">
@@ -192,8 +192,8 @@ BigQueryを中心にデータ基盤を構築している企業であれば、GA4
 ## まとめ：選び方の3つのポイント
 
 <ul class="checklist">
-<li><strong>行動コホート×リテンション分析の深さ×Experiment（A/Bテスト）×AIインサイト×CDP統合で、データドリブンなプロダクト開発を組織全体で推進するなら → Amplitude</strong>（無料：月5,000万イベント・Plus月49ドル〜・行動コホート・ファネル分析・リテンション分析・Amplitude Experiment・Notebooks・Session Replay・AIインサイト・Cohort Sync・DWH連携・サーバーサイドSDK対応）</li>
-<li><strong>直感的なUI×ファネル・フロー分析の使いやすさ×Group Analytics（BtoB対応）×Warehouse Connectors×明確な料金体系で、グロース施策を推進するなら → Mixpanel</strong>（無料：月2,000万イベント・Growth月28ドル〜・ファネル分析・Flows・Signal・Group Analytics・Boards・Warehouse Connectors・Autocapture・テンプレートダッシュボード・サーバーサイドSDK対応）</li>
+<li><strong>行動コホート×リテンション分析の深さ×Experiment（A/Bテスト）×AIインサイト×CDP統合で、データドリブンなプロダクト開発を組織全体で推進するなら → Amplitude</strong>（無料：月200万イベント・Plus月49ドル〜・行動コホート・ファネル分析・リテンション分析・Amplitude Experiment・Notebooks・Session Replay・AIインサイト・Cohort Sync・DWH連携・サーバーサイドSDK対応）</li>
+<li><strong>直感的なUI×ファネル・フロー分析の使いやすさ×Group Analytics（BtoB対応）×Warehouse Connectors×明確な料金体系で、グロース施策を推進するなら → Mixpanel</strong>（無料：月100万イベント・Growth従量課金・ファネル分析・Flows・Signal・Group Analytics・Boards・Warehouse Connectors・Autocapture・テンプレートダッシュボード・サーバーサイドSDK対応）</li>
 <li><strong>Googleエコシステム連携×無料で高機能×BigQueryエクスポート×Google広告統合×予測オーディエンスで、コストを抑えてデータ分析基盤を整えるなら → GA4</strong>（無料・Google広告連携・Search Console連携・BigQueryエクスポート・探索レポート・予測オーディエンス・eコマーストラッキング・Firebase統合・Looker Studio連携・GTMによるノーコード計測設定）</li>
 </ul>
 
