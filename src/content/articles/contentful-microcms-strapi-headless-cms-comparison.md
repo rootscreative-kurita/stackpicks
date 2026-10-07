@@ -3,9 +3,9 @@ title: "Contentful vs microCMS vs Strapi 徹底比較【2026年版】── ヘ�
 description: "Webサイトやアプリのコンテンツ管理にヘッドレスCMSの導入を検討する企業に向け、Contentful・microCMS・Strapiの3サービスを「コンテンツモデリング・API設計・管理画面の使いやすさ・拡張性・料金」の5軸で徹底比較。自社の開発体制に合ったヘッドレスCMS選びを解説します。"
 category: "比較レビュー"
 tags: ["ヘッドレスCMS", "Contentful", "microCMS", "Strapi", "JAMstack", "API", "CMS", "比較"]
-publishDate: 2026-10-07
+publishDate: 2026-10-08
 heroImage: "/images/articles/hero-headless-cms.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Contentful"
     url: "https://www.contentful.com/"
