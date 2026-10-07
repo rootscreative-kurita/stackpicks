@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 136. （次回トピック未定）
+### 137. （次回トピック未定）
 
 ## 執筆中
 
-### 135. Contentful vs microCMS vs Strapi ヘッドレスCMS比較 ← 執筆中
+### 136. Amplitude vs Mixpanel vs GA4 プロダクトアナリティクス比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: ヘッドレスCMS導入を検討するフロントエンドエンジニア・Webディレクター・CTO
-- 切り口: コンテンツモデリング・API設計・管理画面の使いやすさ・拡張性・料金体系の5軸で比較
-- アフィリエイト: A8.net/もしもアフィリエイトにプログラムなし。Contentful Solution Partner Program（法人向け10-15%）、microCMSパートナープログラム（法人向け）あり
+- ターゲット: プロダクトマネージャー・マーケター・グロースチーム・CTO
+- 切り口: イベントトラッキング・分析機能の深さ・チーム活用のしやすさ・外部連携・料金の5軸で比較
+- アフィリエイト: A8.net/もしもアフィリエイトにプログラムなし。Amplitude公式アフィリエイト（PartnerStack経由・初年度20%または7%一括）、Mixpanelパートナープログラム（紹介報酬あり）あり
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-10-07）
+- ステータス: draft作成済み（2026-10-08）
 
 ## 公開済み
+- [x] Contentful vs microCMS vs Strapi ヘッドレスCMS比較（2026-10-08）
 - [x] Autify vs MagicPod vs mabl テスト自動化ツール比較（2026-10-07）
 - [x] GitHub Copilot vs Cursor vs Windsurf AIコーディング支援ツール比較（2026-10-06）
 - [x] commmune vs coorum vs OSIRO コミュニティプラットフォーム比較（2026-10-05）
