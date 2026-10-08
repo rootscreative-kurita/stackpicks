@@ -3,9 +3,9 @@ title: "Amplitude vs Mixpanel vs GA4 徹底比較【2026年版】── プロ�
 description: "プロダクトの成長を加速するアナリティクスツールの導入を検討する企業に向け、Amplitude・Mixpanel・GA4の3サービスを「イベントトラッキング・分析機能の深さ・チーム活用のしやすさ・外部連携・料金」の5軸で徹底比較。自社のプロダクトフェーズに合ったツール選びを解説します。"
 category: "比較レビュー"
 tags: ["プロダクトアナリティクス", "Amplitude", "Mixpanel", "GA4", "Google Analytics", "ユーザー行動分析", "グロース", "比較"]
-publishDate: 2026-10-08
+publishDate: 2026-10-09
 heroImage: "/images/articles/hero-product-analytics.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Amplitude"
     url: "https://amplitude.com/"
