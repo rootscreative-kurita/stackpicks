@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 137. （次回トピック未定）
+### 138. （次回トピック未定）
 
 ## 執筆中
 
-### 136. Amplitude vs Mixpanel vs GA4 プロダクトアナリティクス比較 ← 執筆中
+### 137. Stripe vs PAY.JP vs GMOペイメントゲートウェイ オンライン決済比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: プロダクトマネージャー・マーケター・グロースチーム・CTO
-- 切り口: イベントトラッキング・分析機能の深さ・チーム活用のしやすさ・外部連携・料金の5軸で比較
-- アフィリエイト: A8.net/もしもアフィリエイトにプログラムなし。Amplitude公式アフィリエイト（PartnerStack経由・初年度20%または7%一括）、Mixpanelパートナープログラム（紹介報酬あり）あり
+- ターゲット: Webエンジニア・プロダクトマネージャー・ECサイト運営者・CTO
+- 切り口: API設計・対応決済手段・管理画面・セキュリティ・料金の5軸で比較
+- アフィリエイト: Stripe — 一般アフィリエイトなし（SPEパートナー制度のみ）。PAY.JP — PAY.JP Partnerプログラムあり（https://pay.jp/partner）。GMO-PG — ASPにプログラムなし
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-10-08）
+- ステータス: draft作成済み（2026-10-09）
 
 ## 公開済み
+- [x] Amplitude vs Mixpanel vs GA4 プロダクトアナリティクス比較（2026-10-09）
 - [x] Contentful vs microCMS vs Strapi ヘッドレスCMS比較（2026-10-08）
 - [x] Autify vs MagicPod vs mabl テスト自動化ツール比較（2026-10-07）
 - [x] GitHub Copilot vs Cursor vs Windsurf AIコーディング支援ツール比較（2026-10-06）
