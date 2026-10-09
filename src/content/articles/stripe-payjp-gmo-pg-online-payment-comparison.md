@@ -3,9 +3,9 @@ title: "Stripe vs PAY.JP vs GMOペイメントゲートウェイ 徹底比較【
 description: "ECサイトやWebサービスにオンライン決済を導入したい企業に向け、Stripe・PAY.JP・GMOペイメントゲートウェイの3サービスを「API設計・対応決済手段・管理画面・セキュリティ・料金」の5軸で徹底比較。自社のビジネスモデルに合った決済サービス選びを解説します。"
 category: "比較レビュー"
 tags: ["オンライン決済", "Stripe", "PAY.JP", "GMOペイメントゲートウェイ", "決済代行", "EC", "SaaS", "比較"]
-publishDate: 2026-10-09
+publishDate: 2026-10-10
 heroImage: "/images/articles/hero-online-payment.jpg"
-draft: true
+draft: false
 affiliate:
   - name: "Stripe"
     url: "https://stripe.com/jp"
