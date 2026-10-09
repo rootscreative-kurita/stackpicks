@@ -4,19 +4,20 @@
 
 ## 執筆待ち
 
-### 138. （次回トピック未定）
+### 139. （次回トピック未定）
 
 ## 執筆中
 
-### 137. Stripe vs PAY.JP vs GMOペイメントゲートウェイ オンライン決済比較 ← 執筆中
+### 138. Supabase vs Firebase vs AWS Amplify BaaS（バックエンドサービス）比較 ← 執筆中
 - カテゴリ: 比較レビュー
-- ターゲット: Webエンジニア・プロダクトマネージャー・ECサイト運営者・CTO
-- 切り口: API設計・対応決済手段・管理画面・セキュリティ・料金の5軸で比較
-- アフィリエイト: Stripe — 一般アフィリエイトなし（SPEパートナー制度のみ）。PAY.JP — PAY.JP Partnerプログラムあり（https://pay.jp/partner）。GMO-PG — ASPにプログラムなし
+- ターゲット: Webエンジニア・CTO・スタートアップ・フルスタック開発者
+- 切り口: データベース・認証・サーバーレス関数&API・開発者体験・料金の5軸で比較
+- アフィリエイト: Supabase — パートナープログラムあり（10〜20%継続報酬・https://supabase.com/partners）。Firebase — アフィリエイトなし。AWS Amplify — 個別アフィリエイトなし（APN法人向け）
 - 優先度: ★★★
-- ステータス: draft作成済み（2026-10-09）
+- ステータス: draft作成済み（2026-10-10）
 
 ## 公開済み
+- [x] Stripe vs PAY.JP vs GMOペイメントゲートウェイ オンライン決済比較（2026-10-10）
 - [x] Amplitude vs Mixpanel vs GA4 プロダクトアナリティクス比較（2026-10-09）
 - [x] Contentful vs microCMS vs Strapi ヘッドレスCMS比較（2026-10-08）
 - [x] Autify vs MagicPod vs mabl テスト自動化ツール比較（2026-10-07）
